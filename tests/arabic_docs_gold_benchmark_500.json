@@ -1,0 +1,5381 @@
+[
+  {
+    "query_id": "AR_DOCS_Q001",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q002",
+    "query": "What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q003",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q004",
+    "query": "What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q005",
+    "query": "نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q006",
+    "query": "What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q007",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q008",
+    "query": "Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q009",
+    "query": "ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q010",
+    "query": "What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q011",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q012",
+    "query": "Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q013",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q014",
+    "query": "What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q015",
+    "query": "ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q016",
+    "query": "How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q017",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q018",
+    "query": "A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q019",
+    "query": "ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q020",
+    "query": "What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q021",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q022",
+    "query": "What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q023",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q024",
+    "query": "What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q025",
+    "query": "كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q026",
+    "query": "What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q027",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q028",
+    "query": "What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q029",
+    "query": "ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q030",
+    "query": "Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q031",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q032",
+    "query": "What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q033",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q034",
+    "query": "What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q035",
+    "query": "ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q036",
+    "query": "How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q037",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q038",
+    "query": "Legal Query: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q039",
+    "query": "تفاصيل قانونية: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q040",
+    "query": "Legal Query: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q041",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q042",
+    "query": "Legal Query: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q043",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q044",
+    "query": "Legal Query: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q045",
+    "query": "تفاصيل قانونية: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q046",
+    "query": "Legal Query: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q047",
+    "query": "تفاصيل قانونية: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q048",
+    "query": "Legal Query: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q049",
+    "query": "تفاصيل قانونية: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q050",
+    "query": "Legal Query: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q051",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q052",
+    "query": "Legal Query: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q053",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q054",
+    "query": "Legal Query: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q055",
+    "query": "تفاصيل قانونية: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q056",
+    "query": "Legal Query: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q057",
+    "query": "تفاصيل قانونية: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q058",
+    "query": "Legal Query: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q059",
+    "query": "تفاصيل قانونية: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q060",
+    "query": "Legal Query: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q061",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q062",
+    "query": "Legal Query: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q063",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q064",
+    "query": "Legal Query: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q065",
+    "query": "تفاصيل قانونية: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q066",
+    "query": "Legal Query: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q067",
+    "query": "تفاصيل قانونية: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q068",
+    "query": "Legal Query: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q069",
+    "query": "تفاصيل قانونية: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q070",
+    "query": "Legal Query: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q071",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q072",
+    "query": "Legal Query: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q073",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q074",
+    "query": "Legal Query: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q075",
+    "query": "وفق التشريعات الاتحادية الإماراتية، نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q076",
+    "query": "Under UAE Federal Legislation, How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q077",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q078",
+    "query": "Under UAE Federal Legislation, A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q079",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q080",
+    "query": "Under UAE Federal Legislation, What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q081",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q082",
+    "query": "Under UAE Federal Legislation, What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q083",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q084",
+    "query": "Under UAE Federal Legislation, What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q085",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q086",
+    "query": "Under UAE Federal Legislation, What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q087",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q088",
+    "query": "Under UAE Federal Legislation, What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q089",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q090",
+    "query": "Under UAE Federal Legislation, Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q091",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q092",
+    "query": "Under UAE Federal Legislation, Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q093",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q094",
+    "query": "Under UAE Federal Legislation, What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q095",
+    "query": "وفق التشريعات الاتحادية الإماراتية، كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q096",
+    "query": "Under UAE Federal Legislation, How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q097",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q098",
+    "query": "Under UAE Federal Legislation, Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q099",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q100",
+    "query": "Under UAE Federal Legislation, What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q101",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q102",
+    "query": "Under UAE Federal Legislation, What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q103",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q104",
+    "query": "Under UAE Federal Legislation, What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q105",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q106",
+    "query": "Under UAE Federal Legislation, What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q107",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q108",
+    "query": "Under UAE Federal Legislation, A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q109",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q110",
+    "query": "Under UAE Federal Legislation, What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q111",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q112",
+    "query": "Benchmark query #112: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q113",
+    "query": "سؤال مرجعي رقم 113: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q114",
+    "query": "Benchmark query #114: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q115",
+    "query": "سؤال مرجعي رقم 115: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q116",
+    "query": "Benchmark query #116: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q117",
+    "query": "سؤال مرجعي رقم 117: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q118",
+    "query": "Benchmark query #118: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q119",
+    "query": "سؤال مرجعي رقم 119: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q120",
+    "query": "Benchmark query #120: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q121",
+    "query": "سؤال مرجعي رقم 121: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q122",
+    "query": "Benchmark query #122: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q123",
+    "query": "سؤال مرجعي رقم 123: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q124",
+    "query": "Benchmark query #124: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q125",
+    "query": "سؤال مرجعي رقم 125: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q126",
+    "query": "Benchmark query #126: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q127",
+    "query": "سؤال مرجعي رقم 127: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q128",
+    "query": "Benchmark query #128: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q129",
+    "query": "سؤال مرجعي رقم 129: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q130",
+    "query": "Benchmark query #130: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q131",
+    "query": "سؤال مرجعي رقم 131: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q132",
+    "query": "Benchmark query #132: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q133",
+    "query": "سؤال مرجعي رقم 133: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q134",
+    "query": "Benchmark query #134: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q135",
+    "query": "سؤال مرجعي رقم 135: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q136",
+    "query": "Benchmark query #136: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q137",
+    "query": "سؤال مرجعي رقم 137: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q138",
+    "query": "Benchmark query #138: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q139",
+    "query": "سؤال مرجعي رقم 139: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q140",
+    "query": "Benchmark query #140: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q141",
+    "query": "سؤال مرجعي رقم 141: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q142",
+    "query": "Benchmark query #142: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q143",
+    "query": "سؤال مرجعي رقم 143: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q144",
+    "query": "Benchmark query #144: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q145",
+    "query": "سؤال مرجعي رقم 145: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q146",
+    "query": "Benchmark query #146: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q147",
+    "query": "سؤال مرجعي رقم 147: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q148",
+    "query": "Benchmark query #148: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q149",
+    "query": "سؤال مرجعي رقم 149: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q150",
+    "query": "Benchmark query #150: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q151",
+    "query": "سؤال مرجعي رقم 151: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q152",
+    "query": "Benchmark query #152: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q153",
+    "query": "سؤال مرجعي رقم 153: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q154",
+    "query": "Benchmark query #154: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q155",
+    "query": "سؤال مرجعي رقم 155: ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q156",
+    "query": "Benchmark query #156: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q157",
+    "query": "سؤال مرجعي رقم 157: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q158",
+    "query": "Benchmark query #158: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q159",
+    "query": "سؤال مرجعي رقم 159: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q160",
+    "query": "Benchmark query #160: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q161",
+    "query": "سؤال مرجعي رقم 161: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q162",
+    "query": "Benchmark query #162: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q163",
+    "query": "سؤال مرجعي رقم 163: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q164",
+    "query": "Benchmark query #164: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q165",
+    "query": "سؤال مرجعي رقم 165: كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q166",
+    "query": "Benchmark query #166: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q167",
+    "query": "سؤال مرجعي رقم 167: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q168",
+    "query": "Benchmark query #168: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q169",
+    "query": "سؤال مرجعي رقم 169: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q170",
+    "query": "Benchmark query #170: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q171",
+    "query": "سؤال مرجعي رقم 171: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q172",
+    "query": "Benchmark query #172: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q173",
+    "query": "سؤال مرجعي رقم 173: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q174",
+    "query": "Benchmark query #174: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q175",
+    "query": "سؤال مرجعي رقم 175: ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q176",
+    "query": "Benchmark query #176: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q177",
+    "query": "سؤال مرجعي رقم 177: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q178",
+    "query": "Benchmark query #178: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q179",
+    "query": "سؤال مرجعي رقم 179: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q180",
+    "query": "Benchmark query #180: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q181",
+    "query": "سؤال مرجعي رقم 181: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q182",
+    "query": "Benchmark query #182: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q183",
+    "query": "سؤال مرجعي رقم 183: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q184",
+    "query": "Benchmark query #184: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q185",
+    "query": "سؤال مرجعي رقم 185: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q186",
+    "query": "Benchmark query #186: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q187",
+    "query": "سؤال مرجعي رقم 187: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q188",
+    "query": "Benchmark query #188: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q189",
+    "query": "سؤال مرجعي رقم 189: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q190",
+    "query": "Benchmark query #190: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q191",
+    "query": "سؤال مرجعي رقم 191: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q192",
+    "query": "Benchmark query #192: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q193",
+    "query": "سؤال مرجعي رقم 193: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q194",
+    "query": "Benchmark query #194: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q195",
+    "query": "سؤال مرجعي رقم 195: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q196",
+    "query": "Benchmark query #196: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q197",
+    "query": "سؤال مرجعي رقم 197: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q198",
+    "query": "Benchmark query #198: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q199",
+    "query": "سؤال مرجعي رقم 199: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q200",
+    "query": "Benchmark query #200: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q201",
+    "query": "سؤال مرجعي رقم 201: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q202",
+    "query": "Benchmark query #202: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q203",
+    "query": "سؤال مرجعي رقم 203: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q204",
+    "query": "Benchmark query #204: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q205",
+    "query": "سؤال مرجعي رقم 205: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q206",
+    "query": "Benchmark query #206: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q207",
+    "query": "سؤال مرجعي رقم 207: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q208",
+    "query": "Benchmark query #208: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q209",
+    "query": "سؤال مرجعي رقم 209: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q210",
+    "query": "Benchmark query #210: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q211",
+    "query": "سؤال مرجعي رقم 211: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q212",
+    "query": "Benchmark query #212: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q213",
+    "query": "سؤال مرجعي رقم 213: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q214",
+    "query": "Benchmark query #214: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q215",
+    "query": "سؤال مرجعي رقم 215: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q216",
+    "query": "Benchmark query #216: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q217",
+    "query": "سؤال مرجعي رقم 217: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q218",
+    "query": "Benchmark query #218: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q219",
+    "query": "سؤال مرجعي رقم 219: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q220",
+    "query": "Benchmark query #220: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q221",
+    "query": "سؤال مرجعي رقم 221: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q222",
+    "query": "Benchmark query #222: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q223",
+    "query": "سؤال مرجعي رقم 223: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q224",
+    "query": "Benchmark query #224: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q225",
+    "query": "سؤال مرجعي رقم 225: ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q226",
+    "query": "Benchmark query #226: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q227",
+    "query": "سؤال مرجعي رقم 227: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q228",
+    "query": "Benchmark query #228: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q229",
+    "query": "سؤال مرجعي رقم 229: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q230",
+    "query": "Benchmark query #230: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q231",
+    "query": "سؤال مرجعي رقم 231: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q232",
+    "query": "Benchmark query #232: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q233",
+    "query": "سؤال مرجعي رقم 233: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q234",
+    "query": "Benchmark query #234: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q235",
+    "query": "سؤال مرجعي رقم 235: كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q236",
+    "query": "Benchmark query #236: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q237",
+    "query": "سؤال مرجعي رقم 237: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q238",
+    "query": "Benchmark query #238: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q239",
+    "query": "سؤال مرجعي رقم 239: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q240",
+    "query": "Benchmark query #240: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q241",
+    "query": "سؤال مرجعي رقم 241: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q242",
+    "query": "Benchmark query #242: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q243",
+    "query": "سؤال مرجعي رقم 243: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q244",
+    "query": "Benchmark query #244: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q245",
+    "query": "سؤال مرجعي رقم 245: ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q246",
+    "query": "Benchmark query #246: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q247",
+    "query": "سؤال مرجعي رقم 247: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q248",
+    "query": "Benchmark query #248: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q249",
+    "query": "سؤال مرجعي رقم 249: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q250",
+    "query": "Benchmark query #250: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q251",
+    "query": "سؤال مرجعي رقم 251: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q252",
+    "query": "Benchmark query #252: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q253",
+    "query": "سؤال مرجعي رقم 253: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q254",
+    "query": "Benchmark query #254: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q255",
+    "query": "سؤال مرجعي رقم 255: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q256",
+    "query": "Benchmark query #256: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q257",
+    "query": "سؤال مرجعي رقم 257: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q258",
+    "query": "Benchmark query #258: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q259",
+    "query": "سؤال مرجعي رقم 259: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q260",
+    "query": "Benchmark query #260: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q261",
+    "query": "سؤال مرجعي رقم 261: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q262",
+    "query": "Benchmark query #262: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q263",
+    "query": "سؤال مرجعي رقم 263: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q264",
+    "query": "Benchmark query #264: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q265",
+    "query": "سؤال مرجعي رقم 265: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q266",
+    "query": "Benchmark query #266: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q267",
+    "query": "سؤال مرجعي رقم 267: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q268",
+    "query": "Benchmark query #268: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q269",
+    "query": "سؤال مرجعي رقم 269: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q270",
+    "query": "Benchmark query #270: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q271",
+    "query": "سؤال مرجعي رقم 271: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q272",
+    "query": "Benchmark query #272: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q273",
+    "query": "سؤال مرجعي رقم 273: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q274",
+    "query": "Benchmark query #274: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q275",
+    "query": "سؤال مرجعي رقم 275: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q276",
+    "query": "Benchmark query #276: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q277",
+    "query": "سؤال مرجعي رقم 277: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q278",
+    "query": "Benchmark query #278: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q279",
+    "query": "سؤال مرجعي رقم 279: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q280",
+    "query": "Benchmark query #280: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q281",
+    "query": "سؤال مرجعي رقم 281: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q282",
+    "query": "Benchmark query #282: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q283",
+    "query": "سؤال مرجعي رقم 283: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q284",
+    "query": "Benchmark query #284: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q285",
+    "query": "سؤال مرجعي رقم 285: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q286",
+    "query": "Benchmark query #286: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q287",
+    "query": "سؤال مرجعي رقم 287: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q288",
+    "query": "Benchmark query #288: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q289",
+    "query": "سؤال مرجعي رقم 289: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q290",
+    "query": "Benchmark query #290: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q291",
+    "query": "سؤال مرجعي رقم 291: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q292",
+    "query": "Benchmark query #292: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q293",
+    "query": "سؤال مرجعي رقم 293: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q294",
+    "query": "Benchmark query #294: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q295",
+    "query": "سؤال مرجعي رقم 295: ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q296",
+    "query": "Benchmark query #296: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q297",
+    "query": "سؤال مرجعي رقم 297: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q298",
+    "query": "Benchmark query #298: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q299",
+    "query": "سؤال مرجعي رقم 299: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q300",
+    "query": "Benchmark query #300: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q301",
+    "query": "سؤال مرجعي رقم 301: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q302",
+    "query": "Benchmark query #302: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q303",
+    "query": "سؤال مرجعي رقم 303: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q304",
+    "query": "Benchmark query #304: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q305",
+    "query": "سؤال مرجعي رقم 305: كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q306",
+    "query": "Benchmark query #306: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q307",
+    "query": "سؤال مرجعي رقم 307: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q308",
+    "query": "Benchmark query #308: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q309",
+    "query": "سؤال مرجعي رقم 309: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q310",
+    "query": "Benchmark query #310: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q311",
+    "query": "سؤال مرجعي رقم 311: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q312",
+    "query": "Benchmark query #312: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q313",
+    "query": "سؤال مرجعي رقم 313: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q314",
+    "query": "Benchmark query #314: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q315",
+    "query": "سؤال مرجعي رقم 315: ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q316",
+    "query": "Benchmark query #316: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q317",
+    "query": "سؤال مرجعي رقم 317: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q318",
+    "query": "Benchmark query #318: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q319",
+    "query": "سؤال مرجعي رقم 319: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q320",
+    "query": "Benchmark query #320: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q321",
+    "query": "سؤال مرجعي رقم 321: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q322",
+    "query": "Benchmark query #322: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q323",
+    "query": "سؤال مرجعي رقم 323: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q324",
+    "query": "Benchmark query #324: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q325",
+    "query": "سؤال مرجعي رقم 325: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q326",
+    "query": "Benchmark query #326: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q327",
+    "query": "سؤال مرجعي رقم 327: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q328",
+    "query": "Benchmark query #328: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q329",
+    "query": "سؤال مرجعي رقم 329: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q330",
+    "query": "Benchmark query #330: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q331",
+    "query": "سؤال مرجعي رقم 331: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q332",
+    "query": "Benchmark query #332: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q333",
+    "query": "سؤال مرجعي رقم 333: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q334",
+    "query": "Benchmark query #334: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q335",
+    "query": "سؤال مرجعي رقم 335: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q336",
+    "query": "Benchmark query #336: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q337",
+    "query": "سؤال مرجعي رقم 337: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q338",
+    "query": "Benchmark query #338: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q339",
+    "query": "سؤال مرجعي رقم 339: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q340",
+    "query": "Benchmark query #340: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q341",
+    "query": "سؤال مرجعي رقم 341: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q342",
+    "query": "Benchmark query #342: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q343",
+    "query": "سؤال مرجعي رقم 343: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q344",
+    "query": "Benchmark query #344: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q345",
+    "query": "سؤال مرجعي رقم 345: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q346",
+    "query": "Benchmark query #346: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q347",
+    "query": "سؤال مرجعي رقم 347: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q348",
+    "query": "Benchmark query #348: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q349",
+    "query": "سؤال مرجعي رقم 349: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q350",
+    "query": "Benchmark query #350: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q351",
+    "query": "سؤال مرجعي رقم 351: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q352",
+    "query": "Benchmark query #352: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q353",
+    "query": "سؤال مرجعي رقم 353: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q354",
+    "query": "Benchmark query #354: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q355",
+    "query": "سؤال مرجعي رقم 355: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q356",
+    "query": "Benchmark query #356: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q357",
+    "query": "سؤال مرجعي رقم 357: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q358",
+    "query": "Benchmark query #358: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q359",
+    "query": "سؤال مرجعي رقم 359: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q360",
+    "query": "Benchmark query #360: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q361",
+    "query": "سؤال مرجعي رقم 361: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q362",
+    "query": "Benchmark query #362: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q363",
+    "query": "سؤال مرجعي رقم 363: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q364",
+    "query": "Benchmark query #364: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q365",
+    "query": "سؤال مرجعي رقم 365: ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q366",
+    "query": "Benchmark query #366: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q367",
+    "query": "سؤال مرجعي رقم 367: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q368",
+    "query": "Benchmark query #368: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q369",
+    "query": "سؤال مرجعي رقم 369: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q370",
+    "query": "Benchmark query #370: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q371",
+    "query": "سؤال مرجعي رقم 371: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q372",
+    "query": "Benchmark query #372: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q373",
+    "query": "سؤال مرجعي رقم 373: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q374",
+    "query": "Benchmark query #374: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q375",
+    "query": "سؤال مرجعي رقم 375: كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q376",
+    "query": "Benchmark query #376: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q377",
+    "query": "سؤال مرجعي رقم 377: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q378",
+    "query": "Benchmark query #378: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q379",
+    "query": "سؤال مرجعي رقم 379: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q380",
+    "query": "Benchmark query #380: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q381",
+    "query": "سؤال مرجعي رقم 381: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q382",
+    "query": "Benchmark query #382: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q383",
+    "query": "سؤال مرجعي رقم 383: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q384",
+    "query": "Benchmark query #384: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q385",
+    "query": "سؤال مرجعي رقم 385: ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q386",
+    "query": "Benchmark query #386: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q387",
+    "query": "سؤال مرجعي رقم 387: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q388",
+    "query": "Benchmark query #388: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q389",
+    "query": "سؤال مرجعي رقم 389: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q390",
+    "query": "Benchmark query #390: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q391",
+    "query": "سؤال مرجعي رقم 391: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q392",
+    "query": "Benchmark query #392: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q393",
+    "query": "سؤال مرجعي رقم 393: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q394",
+    "query": "Benchmark query #394: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q395",
+    "query": "سؤال مرجعي رقم 395: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q396",
+    "query": "Benchmark query #396: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q397",
+    "query": "سؤال مرجعي رقم 397: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q398",
+    "query": "Benchmark query #398: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q399",
+    "query": "سؤال مرجعي رقم 399: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q400",
+    "query": "Benchmark query #400: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q401",
+    "query": "سؤال مرجعي رقم 401: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q402",
+    "query": "Benchmark query #402: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q403",
+    "query": "سؤال مرجعي رقم 403: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q404",
+    "query": "Benchmark query #404: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q405",
+    "query": "سؤال مرجعي رقم 405: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q406",
+    "query": "Benchmark query #406: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q407",
+    "query": "سؤال مرجعي رقم 407: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q408",
+    "query": "Benchmark query #408: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q409",
+    "query": "سؤال مرجعي رقم 409: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q410",
+    "query": "Benchmark query #410: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q411",
+    "query": "سؤال مرجعي رقم 411: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q412",
+    "query": "Benchmark query #412: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q413",
+    "query": "سؤال مرجعي رقم 413: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q414",
+    "query": "Benchmark query #414: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q415",
+    "query": "سؤال مرجعي رقم 415: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q416",
+    "query": "Benchmark query #416: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q417",
+    "query": "سؤال مرجعي رقم 417: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q418",
+    "query": "Benchmark query #418: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q419",
+    "query": "سؤال مرجعي رقم 419: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q420",
+    "query": "Benchmark query #420: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q421",
+    "query": "سؤال مرجعي رقم 421: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q422",
+    "query": "Benchmark query #422: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q423",
+    "query": "سؤال مرجعي رقم 423: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q424",
+    "query": "Benchmark query #424: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q425",
+    "query": "سؤال مرجعي رقم 425: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q426",
+    "query": "Benchmark query #426: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q427",
+    "query": "سؤال مرجعي رقم 427: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q428",
+    "query": "Benchmark query #428: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q429",
+    "query": "سؤال مرجعي رقم 429: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q430",
+    "query": "Benchmark query #430: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q431",
+    "query": "سؤال مرجعي رقم 431: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q432",
+    "query": "Benchmark query #432: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q433",
+    "query": "سؤال مرجعي رقم 433: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q434",
+    "query": "Benchmark query #434: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q435",
+    "query": "سؤال مرجعي رقم 435: ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q436",
+    "query": "Benchmark query #436: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q437",
+    "query": "سؤال مرجعي رقم 437: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q438",
+    "query": "Benchmark query #438: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q439",
+    "query": "سؤال مرجعي رقم 439: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q440",
+    "query": "Benchmark query #440: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q441",
+    "query": "سؤال مرجعي رقم 441: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q442",
+    "query": "Benchmark query #442: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q443",
+    "query": "سؤال مرجعي رقم 443: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q444",
+    "query": "Benchmark query #444: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q445",
+    "query": "سؤال مرجعي رقم 445: كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q446",
+    "query": "Benchmark query #446: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q447",
+    "query": "سؤال مرجعي رقم 447: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q448",
+    "query": "Benchmark query #448: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q449",
+    "query": "سؤال مرجعي رقم 449: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q450",
+    "query": "Benchmark query #450: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q451",
+    "query": "سؤال مرجعي رقم 451: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q452",
+    "query": "Benchmark query #452: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q453",
+    "query": "سؤال مرجعي رقم 453: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q454",
+    "query": "Benchmark query #454: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q455",
+    "query": "سؤال مرجعي رقم 455: ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q456",
+    "query": "Benchmark query #456: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q457",
+    "query": "سؤال مرجعي رقم 457: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q458",
+    "query": "Benchmark query #458: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q459",
+    "query": "سؤال مرجعي رقم 459: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q460",
+    "query": "Benchmark query #460: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q461",
+    "query": "سؤال مرجعي رقم 461: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q462",
+    "query": "Benchmark query #462: What are the powers of the Financial Intelligence Unit (FIU) under Article 10 of Law 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q463",
+    "query": "سؤال مرجعي رقم 463: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q464",
+    "query": "Benchmark query #464: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q465",
+    "query": "سؤال مرجعي رقم 465: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q466",
+    "query": "Benchmark query #466: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q467",
+    "query": "سؤال مرجعي رقم 467: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q468",
+    "query": "Benchmark query #468: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q469",
+    "query": "سؤال مرجعي رقم 469: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q470",
+    "query": "Benchmark query #470: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q471",
+    "query": "سؤال مرجعي رقم 471: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q472",
+    "query": "Benchmark query #472: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q473",
+    "query": "سؤال مرجعي رقم 473: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q474",
+    "query": "Benchmark query #474: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q475",
+    "query": "سؤال مرجعي رقم 475: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q476",
+    "query": "Benchmark query #476: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q477",
+    "query": "سؤال مرجعي رقم 477: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q478",
+    "query": "Benchmark query #478: What is the statutory time period required for rehabilitation by force of law in misdemeanor cases under Law 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q479",
+    "query": "سؤال مرجعي رقم 479: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q480",
+    "query": "Benchmark query #480: Are educational or historical debates exempt from anti-hate speech prohibitions under Law 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q481",
+    "query": "سؤال مرجعي رقم 481: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q482",
+    "query": "Benchmark query #482: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q483",
+    "query": "سؤال مرجعي رقم 483: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q484",
+    "query": "Benchmark query #484: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q485",
+    "query": "سؤال مرجعي رقم 485: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q486",
+    "query": "Benchmark query #486: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q487",
+    "query": "سؤال مرجعي رقم 487: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q488",
+    "query": "Benchmark query #488: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q489",
+    "query": "سؤال مرجعي رقم 489: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q490",
+    "query": "Benchmark query #490: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q491",
+    "query": "سؤال مرجعي رقم 491: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q492",
+    "query": "Benchmark query #492: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q493",
+    "query": "سؤال مرجعي رقم 493: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q494",
+    "query": "Benchmark query #494: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q495",
+    "query": "سؤال مرجعي رقم 495: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q496",
+    "query": "Benchmark query #496: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q497",
+    "query": "سؤال مرجعي رقم 497: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q498",
+    "query": "Benchmark query #498: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "AR_DOCS_Q499",
+    "query": "سؤال مرجعي رقم 499: ما هي الاستثناءات أو الحالات التي لا تعتبر تمييزاً بحسب المادة 3 من قانون مكافحة التمييز؟",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Medium",
+    "language": "ar"
+  },
+  {
+    "query_id": "AR_DOCS_Q500",
+    "query": "Benchmark query #500: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en"
+  }
+]

@@ -1,0 +1,4913 @@
+[
+  {
+    "query_id": "BAL_Q001",
+    "query": "المادة 9",
+    "relevant_article_keys": [
+      "10_2019_9"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q002",
+    "query": "ما ينص عليه المادة (90)؟",
+    "relevant_article_keys": [
+      "471_1995_90"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q003",
+    "query": "Article 28",
+    "relevant_article_keys": [
+      "130_1997_28"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q004",
+    "query": "ما هي تفاصيل المادة رقم 11؟",
+    "relevant_article_keys": [
+      "2_2015_11"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q005",
+    "query": "المادة 33",
+    "relevant_article_keys": [
+      "130_1997_33"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q006",
+    "query": "ما ينص عليه المادة (6)؟",
+    "relevant_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q007",
+    "query": "Article 86",
+    "relevant_article_keys": [
+      "130_1997_86"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q008",
+    "query": "ما هي تفاصيل المادة رقم 58؟",
+    "relevant_article_keys": [
+      "130_1997_58"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q009",
+    "query": "المادة 2",
+    "relevant_article_keys": [
+      "10_2019_2"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q010",
+    "query": "ما ينص عليه المادة (13)؟",
+    "relevant_article_keys": [
+      "20_2018_13"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q011",
+    "query": "Article 46",
+    "relevant_article_keys": [
+      "43_1992_46"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q012",
+    "query": "ما هي تفاصيل المادة رقم 22؟",
+    "relevant_article_keys": [
+      "36_1992_22"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q013",
+    "query": "المادة 33",
+    "relevant_article_keys": [
+      "10_2019_33"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q014",
+    "query": "ما ينص عليه المادة (20)؟",
+    "relevant_article_keys": [
+      "10_2019_20"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q015",
+    "query": "Article 39",
+    "relevant_article_keys": [
+      "130_1997_39"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q016",
+    "query": "ما هي تفاصيل المادة رقم 7؟",
+    "relevant_article_keys": [
+      "20_2018_7"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q017",
+    "query": "المادة 30",
+    "relevant_article_keys": [
+      "130_1997_30"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q018",
+    "query": "ما ينص عليه المادة (24)؟",
+    "relevant_article_keys": [
+      "43_1992_24"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q019",
+    "query": "Article 25",
+    "relevant_article_keys": [
+      "130_1997_25"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q020",
+    "query": "ما هي تفاصيل المادة رقم 5؟",
+    "relevant_article_keys": [
+      "130_1997_5"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q021",
+    "query": "المادة 13",
+    "relevant_article_keys": [
+      "10_2019_13"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q022",
+    "query": "ما ينص عليه المادة (4)؟",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q023",
+    "query": "Article 16",
+    "relevant_article_keys": [
+      "10_2019_16"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q024",
+    "query": "ما هي تفاصيل المادة رقم 12؟",
+    "relevant_article_keys": [
+      "43_1992_12"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q025",
+    "query": "المادة 1",
+    "relevant_article_keys": [
+      "130_1997_1"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q026",
+    "query": "ما ينص عليه المادة (18)؟",
+    "relevant_article_keys": [
+      "471_1995_18"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q027",
+    "query": "Article 160",
+    "relevant_article_keys": [
+      "130_1997_160"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q028",
+    "query": "ما هي تفاصيل المادة رقم 151؟",
+    "relevant_article_keys": [
+      "130_1997_151"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q029",
+    "query": "المادة 26",
+    "relevant_article_keys": [
+      "20_2018_26"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q030",
+    "query": "ما ينص عليه المادة (42)؟",
+    "relevant_article_keys": [
+      "10_2019_42"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q031",
+    "query": "Article 87",
+    "relevant_article_keys": [
+      "130_1997_87"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q032",
+    "query": "ما هي تفاصيل المادة رقم 43؟",
+    "relevant_article_keys": [
+      "130_1997_43"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q033",
+    "query": "المادة 4",
+    "relevant_article_keys": [
+      "10_2019_4"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q034",
+    "query": "ما ينص عليه المادة (59)؟",
+    "relevant_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q035",
+    "query": "Article 41",
+    "relevant_article_keys": [
+      "10_2019_41"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q036",
+    "query": "ما هي تفاصيل المادة رقم 188؟",
+    "relevant_article_keys": [
+      "130_1997_188"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q037",
+    "query": "المادة 38",
+    "relevant_article_keys": [
+      "10_2019_38"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q038",
+    "query": "ما ينص عليه المادة (84)؟",
+    "relevant_article_keys": [
+      "130_1997_84"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q039",
+    "query": "Article 15",
+    "relevant_article_keys": [
+      "10_2019_15"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q040",
+    "query": "ما هي تفاصيل المادة رقم 16؟",
+    "relevant_article_keys": [
+      "471_1995_16"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q041",
+    "query": "المادة 23",
+    "relevant_article_keys": [
+      "130_1997_23"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q042",
+    "query": "ما ينص عليه المادة (8)؟",
+    "relevant_article_keys": [
+      "43_1992_8"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q043",
+    "query": "Article 38",
+    "relevant_article_keys": [
+      "471_1995_38"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q044",
+    "query": "ما هي تفاصيل المادة رقم 9؟",
+    "relevant_article_keys": [
+      "20_2018_9"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q045",
+    "query": "المادة 45",
+    "relevant_article_keys": [
+      "130_1997_45"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q046",
+    "query": "ما ينص عليه المادة (117)؟",
+    "relevant_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q047",
+    "query": "Article 11",
+    "relevant_article_keys": [
+      "20_2018_11"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q048",
+    "query": "ما هي تفاصيل المادة رقم 89؟",
+    "relevant_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q049",
+    "query": "المادة 65",
+    "relevant_article_keys": [
+      "130_1997_65"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q050",
+    "query": "ما ينص عليه المادة (35)؟",
+    "relevant_article_keys": [
+      "471_1995_35"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q051",
+    "query": "Article 17",
+    "relevant_article_keys": [
+      "10_2019_17"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q052",
+    "query": "ما هي تفاصيل المادة رقم 27؟",
+    "relevant_article_keys": [
+      "10_2019_27"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q053",
+    "query": "المادة 15",
+    "relevant_article_keys": [
+      "130_1997_15"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q054",
+    "query": "ما ينص عليه المادة (17)؟",
+    "relevant_article_keys": [
+      "43_1992_17"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q055",
+    "query": "Article 24",
+    "relevant_article_keys": [
+      "10_2019_24"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q056",
+    "query": "ما هي تفاصيل المادة رقم 28؟",
+    "relevant_article_keys": [
+      "36_1992_28"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q057",
+    "query": "المادة 94",
+    "relevant_article_keys": [
+      "471_1995_94"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q058",
+    "query": "ما ينص عليه المادة (19)؟",
+    "relevant_article_keys": [
+      "2_2015_19"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q059",
+    "query": "Article 4",
+    "relevant_article_keys": [
+      "20_2018_4"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q060",
+    "query": "ما هي تفاصيل المادة رقم 35؟",
+    "relevant_article_keys": [
+      "10_2019_35"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q061",
+    "query": "المادة 28",
+    "relevant_article_keys": [
+      "20_2018_28"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q062",
+    "query": "ما ينص عليه المادة (44)؟",
+    "relevant_article_keys": [
+      "10_2019_44"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q063",
+    "query": "Article 23",
+    "relevant_article_keys": [
+      "471_1995_23"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q064",
+    "query": "ما هي تفاصيل المادة رقم 26؟",
+    "relevant_article_keys": [
+      "43_1992_26"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q065",
+    "query": "المادة 1",
+    "relevant_article_keys": [
+      "43_1992_1"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q066",
+    "query": "ما ينص عليه المادة (86)؟",
+    "relevant_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q067",
+    "query": "Article 2",
+    "relevant_article_keys": [
+      "20_2018_2"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q068",
+    "query": "ما هي تفاصيل المادة رقم 52؟",
+    "relevant_article_keys": [
+      "43_1992_52"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q069",
+    "query": "المادة 42",
+    "relevant_article_keys": [
+      "471_1995_42"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q070",
+    "query": "ما ينص عليه المادة (8)؟",
+    "relevant_article_keys": [
+      "10_2019_8"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q071",
+    "query": "Article 49",
+    "relevant_article_keys": [
+      "130_1997_49"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q072",
+    "query": "ما هي تفاصيل المادة رقم 132؟",
+    "relevant_article_keys": [
+      "130_1997_132"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q073",
+    "query": "المادة 49",
+    "relevant_article_keys": [
+      "43_1992_49"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q074",
+    "query": "ما ينص عليه المادة (71)؟",
+    "relevant_article_keys": [
+      "130_1997_71"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q075",
+    "query": "Article 76",
+    "relevant_article_keys": [
+      "130_1997_76"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q076",
+    "query": "ما هي تفاصيل المادة رقم 52؟",
+    "relevant_article_keys": [
+      "10_2019_52"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q077",
+    "query": "المادة 3",
+    "relevant_article_keys": [
+      "130_1997_3"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q078",
+    "query": "ما ينص عليه المادة (116)؟",
+    "relevant_article_keys": [
+      "471_1995_116"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q079",
+    "query": "Article 9",
+    "relevant_article_keys": [
+      "2_2015_9"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q080",
+    "query": "ما هي تفاصيل المادة رقم 45؟",
+    "relevant_article_keys": [
+      "43_1992_45"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q081",
+    "query": "المادة 49",
+    "relevant_article_keys": [
+      "10_2019_49"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q082",
+    "query": "ما ينص عليه المادة (21)؟",
+    "relevant_article_keys": [
+      "130_1997_21"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q083",
+    "query": "Article 73",
+    "relevant_article_keys": [
+      "130_1997_73"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q084",
+    "query": "ما هي تفاصيل المادة رقم 74؟",
+    "relevant_article_keys": [
+      "130_1997_74"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q085",
+    "query": "المادة 23",
+    "relevant_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q086",
+    "query": "ما ينص عليه المادة (118)؟",
+    "relevant_article_keys": [
+      "130_1997_118"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q087",
+    "query": "Article 60",
+    "relevant_article_keys": [
+      "43_1992_60"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q088",
+    "query": "ما هي تفاصيل المادة رقم 47؟",
+    "relevant_article_keys": [
+      "471_1995_47"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q089",
+    "query": "المادة 5",
+    "relevant_article_keys": [
+      "10_2019_5"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q090",
+    "query": "ما ينص عليه المادة (34)؟",
+    "relevant_article_keys": [
+      "130_1997_34"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q091",
+    "query": "Article 55",
+    "relevant_article_keys": [
+      "43_1992_55"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q092",
+    "query": "ما هي تفاصيل المادة رقم 42؟",
+    "relevant_article_keys": [
+      "130_1997_42"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q093",
+    "query": "المادة 60",
+    "relevant_article_keys": [
+      "471_1995_60"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q094",
+    "query": "ما ينص عليه المادة (156)؟",
+    "relevant_article_keys": [
+      "130_1997_156"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q095",
+    "query": "Article 19",
+    "relevant_article_keys": [
+      "10_2019_19"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q096",
+    "query": "ما هي تفاصيل المادة رقم 31؟",
+    "relevant_article_keys": [
+      "10_2019_31"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q097",
+    "query": "المادة 56",
+    "relevant_article_keys": [
+      "10_2019_56"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q098",
+    "query": "ما ينص عليه المادة (10)؟",
+    "relevant_article_keys": [
+      "2_2015_10"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q099",
+    "query": "Article 39",
+    "relevant_article_keys": [
+      "43_1992_39"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q100",
+    "query": "ما هي تفاصيل المادة رقم 22؟",
+    "relevant_article_keys": [
+      "20_2018_22"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q101",
+    "query": "المادة 29",
+    "relevant_article_keys": [
+      "20_2018_29"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q102",
+    "query": "ما ينص عليه المادة (104)؟",
+    "relevant_article_keys": [
+      "471_1995_104"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q103",
+    "query": "Article 35",
+    "relevant_article_keys": [
+      "20_2018_35"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q104",
+    "query": "ما هي تفاصيل المادة رقم 31؟",
+    "relevant_article_keys": [
+      "130_1997_31"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q105",
+    "query": "المادة 10",
+    "relevant_article_keys": [
+      "20_2018_10"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q106",
+    "query": "ما ينص عليه المادة (73)؟",
+    "relevant_article_keys": [
+      "471_1995_73"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q107",
+    "query": "Article 24",
+    "relevant_article_keys": [
+      "130_1997_24"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q108",
+    "query": "ما هي تفاصيل المادة رقم 36؟",
+    "relevant_article_keys": [
+      "43_1992_36"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q109",
+    "query": "المادة 5",
+    "relevant_article_keys": [
+      "36_1992_5"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q110",
+    "query": "ما ينص عليه المادة (112)؟",
+    "relevant_article_keys": [
+      "471_1995_112"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q111",
+    "query": "Article 35",
+    "relevant_article_keys": [
+      "43_1992_35"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q112",
+    "query": "ما هي تفاصيل المادة رقم 11؟",
+    "relevant_article_keys": [
+      "130_1997_11"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q113",
+    "query": "المادة 68",
+    "relevant_article_keys": [
+      "471_1995_68"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q114",
+    "query": "ما ينص عليه المادة (19)؟",
+    "relevant_article_keys": [
+      "20_2018_19"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q115",
+    "query": "Article 8",
+    "relevant_article_keys": [
+      "471_1995_8"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q116",
+    "query": "ما هي تفاصيل المادة رقم 36؟",
+    "relevant_article_keys": [
+      "10_2019_36"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q117",
+    "query": "المادة 59",
+    "relevant_article_keys": [
+      "10_2019_59"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q118",
+    "query": "ما ينص عليه المادة (57)؟",
+    "relevant_article_keys": [
+      "130_1997_57"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q119",
+    "query": "Article 53",
+    "relevant_article_keys": [
+      "130_1997_53"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q120",
+    "query": "ما هي تفاصيل المادة رقم 16؟",
+    "relevant_article_keys": [
+      "20_2018_16"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q121",
+    "query": "المادة 14",
+    "relevant_article_keys": [
+      "20_2018_14"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q122",
+    "query": "ما ينص عليه المادة (47)؟",
+    "relevant_article_keys": [
+      "10_2019_47"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q123",
+    "query": "Article 15",
+    "relevant_article_keys": [
+      "20_2018_15"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q124",
+    "query": "ما هي تفاصيل المادة رقم 43؟",
+    "relevant_article_keys": [
+      "10_2019_43"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q125",
+    "query": "المادة 7",
+    "relevant_article_keys": [
+      "10_2019_7"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q126",
+    "query": "ما ينص عليه المادة (6)؟",
+    "relevant_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q127",
+    "query": "Article 27",
+    "relevant_article_keys": [
+      "20_2018_27"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q128",
+    "query": "ما هي تفاصيل المادة رقم 27؟",
+    "relevant_article_keys": [
+      "36_1992_27"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q129",
+    "query": "المادة 81",
+    "relevant_article_keys": [
+      "130_1997_81"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q130",
+    "query": "ما ينص عليه المادة (16)؟",
+    "relevant_article_keys": [
+      "130_1997_16"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q131",
+    "query": "Article 1",
+    "relevant_article_keys": [
+      "20_2018_1"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q132",
+    "query": "ما هي تفاصيل المادة رقم 21؟",
+    "relevant_article_keys": [
+      "10_2019_21"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q133",
+    "query": "المادة 25",
+    "relevant_article_keys": [
+      "10_2019_25"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q134",
+    "query": "ما ينص عليه المادة (107)؟",
+    "relevant_article_keys": [
+      "471_1995_107"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q135",
+    "query": "Article 3",
+    "relevant_article_keys": [
+      "10_2019_3"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q136",
+    "query": "ما هي تفاصيل المادة رقم 87؟",
+    "relevant_article_keys": [
+      "471_1995_87"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q137",
+    "query": "المادة 50",
+    "relevant_article_keys": [
+      "130_1997_50"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q138",
+    "query": "ما ينص عليه المادة (21)؟",
+    "relevant_article_keys": [
+      "36_1992_21"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q139",
+    "query": "Article 26",
+    "relevant_article_keys": [
+      "36_1992_26"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q140",
+    "query": "ما هي تفاصيل المادة رقم 32؟",
+    "relevant_article_keys": [
+      "43_1992_32"
+    ],
+    "category": "Exact Article Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q141",
+    "query": "القانون رقم 10 لسنة 2019",
+    "relevant_article_keys": [
+      "10_2019_9"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q142",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "relevant_article_keys": [
+      "2_2015_11"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q143",
+    "query": "Federal Law No 130 of 1997",
+    "relevant_article_keys": [
+      "130_1997_86"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q144",
+    "query": "القانون رقم 20 لسنة 2018",
+    "relevant_article_keys": [
+      "20_2018_13"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q145",
+    "query": "ما أحكام قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
+    "relevant_article_keys": [
+      "10_2019_33"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q146",
+    "query": "Federal Law No 20 of 2018",
+    "relevant_article_keys": [
+      "20_2018_7"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q147",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_25"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q148",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q149",
+    "query": "Federal Law No 130 of 1997",
+    "relevant_article_keys": [
+      "130_1997_1"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q150",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_151"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q151",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_87"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q152",
+    "query": "Federal Law No 130 of 1997",
+    "relevant_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q153",
+    "query": "القانون رقم 10 لسنة 2019",
+    "relevant_article_keys": [
+      "10_2019_38"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q154",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_16"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q155",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_38"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q156",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q157",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_65"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q158",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_27"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q159",
+    "query": "القانون رقم 10 لسنة 2019",
+    "relevant_article_keys": [
+      "10_2019_24"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q160",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "relevant_article_keys": [
+      "2_2015_19"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q161",
+    "query": "Federal Law No 20 of 2018",
+    "relevant_article_keys": [
+      "20_2018_28"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q162",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_26"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q163",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (20) لسنة 2018 في شأن مواجهة جرائم غسل الأموال ومكافحة تمويل الإرهاب وتمويل التنظيمات غير المشروعة؟",
+    "relevant_article_keys": [
+      "20_2018_2"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q164",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_8"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q165",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_49"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q166",
+    "query": "ما أحكام قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
+    "relevant_article_keys": [
+      "10_2019_52"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q167",
+    "query": "Federal Law No 2 of 2015",
+    "relevant_article_keys": [
+      "2_2015_9"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q168",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_21"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q169",
+    "query": "ما أحكام قانون اتحادي رقم (43) لسنة 1992 في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q170",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_47"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q171",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_55"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q172",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_156"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q173",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_56"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q174",
+    "query": "القانون رقم 20 لسنة 2018",
+    "relevant_article_keys": [
+      "20_2018_22"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q175",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (20) لسنة 2018 في شأن مواجهة جرائم غسل الأموال ومكافحة تمويل الإرهاب وتمويل التنظيمات غير المشروعة؟",
+    "relevant_article_keys": [
+      "20_2018_35"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q176",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_73"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q177",
+    "query": "القانون رقم 36 لسنة 1992",
+    "relevant_article_keys": [
+      "36_1992_5"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q178",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_11"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q179",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_8"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q180",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_57"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q181",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (20) لسنة 2018 في شأن مواجهة جرائم غسل الأموال ومكافحة تمويل الإرهاب وتمويل التنظيمات غير المشروعة؟",
+    "relevant_article_keys": [
+      "20_2018_14"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q182",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_43"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q183",
+    "query": "القانون رقم 20 لسنة 2018",
+    "relevant_article_keys": [
+      "20_2018_27"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q184",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_16"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q185",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_25"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q186",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_87"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q187",
+    "query": "ما أحكام قانون اتحادي رقم (36) لسنة 1992 في شأن رد الاعتبار؟",
+    "relevant_article_keys": [
+      "36_1992_26"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q188",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_96"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q189",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_52"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q190",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_5"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q191",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_84"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q192",
+    "query": "القانون رقم 20 لسنة 2018",
+    "relevant_article_keys": [
+      "20_2018_21"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q193",
+    "query": "ما أحكام قانون اتحادي رقم (36) لسنة 1992 في شأن رد الاعتبار؟",
+    "relevant_article_keys": [
+      "36_1992_24"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q194",
+    "query": "Federal Law No 36 of 1992",
+    "relevant_article_keys": [
+      "36_1992_3"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q195",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_85"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q196",
+    "query": "ما أحكام قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
+    "relevant_article_keys": [
+      "10_2019_23"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q197",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_57"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q198",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_2"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q199",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_37"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q200",
+    "query": "Federal Law No 130 of 1997",
+    "relevant_article_keys": [
+      "130_1997_4"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q201",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_49"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q202",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_38"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q203",
+    "query": "Federal Law No 43 of 1992",
+    "relevant_article_keys": [
+      "43_1992_9"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q204",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_25"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q205",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "relevant_article_keys": [
+      "2_2015_18"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q206",
+    "query": "Federal Law No 43 of 1992",
+    "relevant_article_keys": [
+      "43_1992_7"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q207",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_37"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q208",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "relevant_article_keys": [
+      "2_2015_20"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q209",
+    "query": "Federal Law No 2 of 2015",
+    "relevant_article_keys": [
+      "2_2015_5"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q210",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_61"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q211",
+    "query": "ما أحكام قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
+    "relevant_article_keys": [
+      "10_2019_10"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q212",
+    "query": "Federal Law No 43 of 1992",
+    "relevant_article_keys": [
+      "43_1992_41"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q213",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_19"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q214",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_24"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q215",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_45"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q216",
+    "query": "القانون رقم 10 لسنة 2019",
+    "relevant_article_keys": [
+      "10_2019_14"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q217",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (20) لسنة 2018 في شأن مواجهة جرائم غسل الأموال ومكافحة تمويل الإرهاب وتمويل التنظيمات غير المشروعة؟",
+    "relevant_article_keys": [
+      "20_2018_23"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q218",
+    "query": "Federal Law No 130 of 1997",
+    "relevant_article_keys": [
+      "130_1997_41"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q219",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_10"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q220",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_46"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q221",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_18"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q222",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_13"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q223",
+    "query": "ما أحكام مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "relevant_article_keys": [
+      "2_2015_15"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q224",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_113"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q225",
+    "query": "القانون رقم 43 لسنة 1992",
+    "relevant_article_keys": [
+      "43_1992_27"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q226",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_44"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q227",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_80"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q228",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_36"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q229",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_103"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q230",
+    "query": "Federal Law No 43 of 1992",
+    "relevant_article_keys": [
+      "43_1992_31"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q231",
+    "query": "القانون رقم 10 لسنة 2019",
+    "relevant_article_keys": [
+      "10_2019_28"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q232",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_9"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q233",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_58"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q234",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_45"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q235",
+    "query": "ما أحكام قانون اتحادي رقم (43) لسنة 1992 في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "43_1992_56"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q236",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_93"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q237",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_20"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q238",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_14"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q239",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_22"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q240",
+    "query": "القانون رقم 471 لسنة 1995",
+    "relevant_article_keys": [
+      "471_1995_101"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q241",
+    "query": "ما أحكام قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
+    "relevant_article_keys": [
+      "10_2019_30"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q242",
+    "query": "Federal Law No 10 of 2019",
+    "relevant_article_keys": [
+      "10_2019_6"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q243",
+    "query": "القانون رقم 2 لسنة 2015",
+    "relevant_article_keys": [
+      "2_2015_16"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q244",
+    "query": "ما أحكام قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية؟",
+    "relevant_article_keys": [
+      "471_1995_106"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q245",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_48"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q246",
+    "query": "القانون رقم 2 لسنة 2015",
+    "relevant_article_keys": [
+      "2_2015_17"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q247",
+    "query": "ما أحكام قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور؟",
+    "relevant_article_keys": [
+      "130_1997_19"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q248",
+    "query": "Federal Law No 471 of 1995",
+    "relevant_article_keys": [
+      "471_1995_62"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q249",
+    "query": "القانون رقم 130 لسنة 1997",
+    "relevant_article_keys": [
+      "130_1997_61"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q250",
+    "query": "ما أحكام قانون اتحادي رقم (36) لسنة 1992 في شأن رد الاعتبار؟",
+    "relevant_article_keys": [
+      "36_1992_23"
+    ],
+    "category": "Law / Decree Lookup",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q251",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 9 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_9"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q252",
+    "query": "وفقاً للمادة (6)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q253",
+    "query": "What are the requirements under Article 46 of Law No 43 of 1992?",
+    "relevant_article_keys": [
+      "43_1992_46"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q254",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 7 من القانون رقم 20 لسنة 2018؟",
+    "relevant_article_keys": [
+      "20_2018_7"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q255",
+    "query": "وفقاً للمادة (13)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "10_2019_13"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q256",
+    "query": "What are the requirements under Article 18 of Law No 471 of 1995?",
+    "relevant_article_keys": [
+      "471_1995_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q257",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 87 من القانون رقم 130 لسنة 1997؟",
+    "relevant_article_keys": [
+      "130_1997_87"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q258",
+    "query": "وفقاً للمادة (188)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_188"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q259",
+    "query": "What are the requirements under Article 23 of Law No 130 of 1997?",
+    "relevant_article_keys": [
+      "130_1997_23"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q260",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 117 من القانون رقم 471 لسنة 1995؟",
+    "relevant_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q261",
+    "query": "وفقاً للمادة (17)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "10_2019_17"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q262",
+    "query": "What are the requirements under Article 28 of Law No 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_28"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q263",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 28 من القانون رقم 20 لسنة 2018؟",
+    "relevant_article_keys": [
+      "20_2018_28"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q264",
+    "query": "وفقاً للمادة (86)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q265",
+    "query": "What are the requirements under Article 49 of Law No 130 of 1997?",
+    "relevant_article_keys": [
+      "130_1997_49"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q266",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 52 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_52"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q267",
+    "query": "وفقاً للمادة (49)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "10_2019_49"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q268",
+    "query": "What are the requirements under Article 118 of Law No 130 of 1997?",
+    "relevant_article_keys": [
+      "130_1997_118"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q269",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 55 من القانون رقم 43 لسنة 1992؟",
+    "relevant_article_keys": [
+      "43_1992_55"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q270",
+    "query": "وفقاً للمادة (31)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "10_2019_31"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q271",
+    "query": "What are the requirements under Article 29 of Law No 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_29"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q272",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 73 من القانون رقم 471 لسنة 1995؟",
+    "relevant_article_keys": [
+      "471_1995_73"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q273",
+    "query": "وفقاً للمادة (35)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "43_1992_35"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q274",
+    "query": "What are the requirements under Article 36 of Law No 10 of 2019?",
+    "relevant_article_keys": [
+      "10_2019_36"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q275",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 14 من القانون رقم 20 لسنة 2018؟",
+    "relevant_article_keys": [
+      "20_2018_14"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q276",
+    "query": "وفقاً للمادة (6)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q277",
+    "query": "What are the requirements under Article 1 of Law No 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_1"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q278",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 87 من القانون رقم 471 لسنة 1995؟",
+    "relevant_article_keys": [
+      "471_1995_87"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q279",
+    "query": "وفقاً للمادة (63)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_63"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q280",
+    "query": "What are the requirements under Article 18 of Law No 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q281",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 84 من القانون رقم 471 لسنة 1995؟",
+    "relevant_article_keys": [
+      "471_1995_84"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q282",
+    "query": "وفقاً للمادة (55)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_55"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q283",
+    "query": "What are the requirements under Article 46 of Law No 10 of 2019?",
+    "relevant_article_keys": [
+      "10_2019_46"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q284",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 23 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_23"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q285",
+    "query": "وفقاً للمادة (3)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "20_2018_3"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q286",
+    "query": "What are the requirements under Article 12 of Law No 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_12"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q287",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 49 من القانون رقم 471 لسنة 1995؟",
+    "relevant_article_keys": [
+      "471_1995_49"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q288",
+    "query": "وفقاً للمادة (65)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "43_1992_65"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q289",
+    "query": "What are the requirements under Article 37 of Law No 10 of 2019?",
+    "relevant_article_keys": [
+      "10_2019_37"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q290",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 7 من القانون رقم 43 لسنة 1992؟",
+    "relevant_article_keys": [
+      "43_1992_7"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q291",
+    "query": "وفقاً للمادة (62)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "43_1992_62"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q292",
+    "query": "What are the requirements under Article 4 of Law No 36 of 1992?",
+    "relevant_article_keys": [
+      "36_1992_4"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q293",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 10 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_10"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q294",
+    "query": "وفقاً للمادة (21)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "43_1992_21"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q295",
+    "query": "What are the requirements under Article 3 of Law No 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_3"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q296",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 14 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_14"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q297",
+    "query": "وفقاً للمادة (37)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_37"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q298",
+    "query": "What are the requirements under Article 34 of Law No 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_34"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q299",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 18 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q300",
+    "query": "وفقاً للمادة (20)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "43_1992_20"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q301",
+    "query": "What are the requirements under Article 17 of Law No 130 of 1997?",
+    "relevant_article_keys": [
+      "130_1997_17"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q302",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 44 من القانون رقم 130 لسنة 1997؟",
+    "relevant_article_keys": [
+      "130_1997_44"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q303",
+    "query": "وفقاً للمادة (154)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_154"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q304",
+    "query": "What are the requirements under Article 18 of Law No 130 of 1997?",
+    "relevant_article_keys": [
+      "130_1997_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q305",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 28 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_28"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q306",
+    "query": "وفقاً للمادة (22)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_22"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q307",
+    "query": "What are the requirements under Article 78 of Law No 471 of 1995?",
+    "relevant_article_keys": [
+      "471_1995_78"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q308",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 93 من القانون رقم 471 لسنة 1995؟",
+    "relevant_article_keys": [
+      "471_1995_93"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q309",
+    "query": "وفقاً للمادة (26)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "130_1997_26"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q310",
+    "query": "What are the requirements under Article 18 of Law No 43 of 1992?",
+    "relevant_article_keys": [
+      "43_1992_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q311",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 30 من القانون رقم 10 لسنة 2019؟",
+    "relevant_article_keys": [
+      "10_2019_30"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q312",
+    "query": "وفقاً للمادة (22)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "471_1995_22"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q313",
+    "query": "What are the requirements under Article 28 of Law No 471 of 1995?",
+    "relevant_article_keys": [
+      "471_1995_28"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q314",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 17 من القانون رقم 2 لسنة 2015؟",
+    "relevant_article_keys": [
+      "2_2015_17"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q315",
+    "query": "وفقاً للمادة (92)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "471_1995_92"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q316",
+    "query": "What are the requirements under Article 80 of Law No 130 of 1997?",
+    "relevant_article_keys": [
+      "130_1997_80"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q317",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 20 من القانون رقم 20 لسنة 2018؟",
+    "relevant_article_keys": [
+      "20_2018_20"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q318",
+    "query": "وفقاً للمادة (33)، ما هي التزامات الجهات المعنية؟",
+    "relevant_article_keys": [
+      "20_2018_33"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q319",
+    "query": "What are the requirements under Article 6 of Law No 20 of 2018?",
+    "relevant_article_keys": [
+      "20_2018_6"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q320",
+    "query": "ما هي العقوبات والشروط المحددة في المادة 7 من القانون رقم 130 لسنة 1997؟",
+    "relevant_article_keys": [
+      "130_1997_7"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q321",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q322",
+    "query": "What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q323",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q324",
+    "query": "What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q325",
+    "query": "نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q326",
+    "query": "What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q327",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q328",
+    "query": "Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q329",
+    "query": "What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q330",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q331",
+    "query": "Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q332",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q333",
+    "query": "What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q334",
+    "query": "ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q335",
+    "query": "How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q336",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q337",
+    "query": "A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q338",
+    "query": "What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q339",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q340",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q341",
+    "query": "What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q342",
+    "query": "كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q343",
+    "query": "What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q344",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q345",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q346",
+    "query": "What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q347",
+    "query": "ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q348",
+    "query": "What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q349",
+    "query": "ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q350",
+    "query": "How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q351",
+    "query": "ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q352",
+    "query": "Legal Query: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q353",
+    "query": "Legal Query: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q354",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q355",
+    "query": "Legal Query: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q356",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q357",
+    "query": "Legal Query: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q358",
+    "query": "تفاصيل قانونية: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q359",
+    "query": "Legal Query: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q360",
+    "query": "تفاصيل قانونية: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q361",
+    "query": "Legal Query: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q362",
+    "query": "Legal Query: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q363",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q364",
+    "query": "Legal Query: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q365",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q366",
+    "query": "Legal Query: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q367",
+    "query": "تفاصيل قانونية: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q368",
+    "query": "Legal Query: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q369",
+    "query": "تفاصيل قانونية: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q370",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q371",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q372",
+    "query": "Legal Query: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q373",
+    "query": "تفاصيل قانونية: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q374",
+    "query": "Legal Query: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q375",
+    "query": "تفاصيل قانونية: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q376",
+    "query": "Legal Query: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q377",
+    "query": "Legal Query: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q378",
+    "query": "تفاصيل قانونية: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q379",
+    "query": "Legal Query: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q380",
+    "query": "تفاصيل قانونية: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q381",
+    "query": "Legal Query: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q382",
+    "query": "وفق التشريعات الاتحادية الإماراتية، نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q383",
+    "query": "Under UAE Federal Legislation, How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q384",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q385",
+    "query": "Under UAE Federal Legislation, A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q386",
+    "query": "Under UAE Federal Legislation, What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q387",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q388",
+    "query": "Under UAE Federal Legislation, What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q389",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q390",
+    "query": "Under UAE Federal Legislation, What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q391",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q392",
+    "query": "Under UAE Federal Legislation, What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q393",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q394",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q395",
+    "query": "Under UAE Federal Legislation, Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q396",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q397",
+    "query": "Under UAE Federal Legislation, What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q398",
+    "query": "وفق التشريعات الاتحادية الإماراتية، كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q399",
+    "query": "Under UAE Federal Legislation, How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q400",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q401",
+    "query": "Under UAE Federal Legislation, Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q402",
+    "query": "Under UAE Federal Legislation, What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q403",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q404",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q405",
+    "query": "Under UAE Federal Legislation, What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q406",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توفرها في تشغيل النزلاء خارج المنشآت العقابية والأجور المستحقة لهم؟",
+    "relevant_article_keys": [
+      "43_1992_20",
+      "471_1995_45"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q407",
+    "query": "Under UAE Federal Legislation, What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q408",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q409",
+    "query": "Under UAE Federal Legislation, A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q410",
+    "query": "Under UAE Federal Legislation, What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q411",
+    "query": "وفق التشريعات الاتحادية الإماراتية، ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q412",
+    "query": "Benchmark query #112: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q413",
+    "query": "سؤال مرجعي رقم 113: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q414",
+    "query": "Benchmark query #114: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q415",
+    "query": "سؤال مرجعي رقم 115: ما هي شروط وأحكام الإفراج الشرطي عن المحكوم عليهم قبل انتهاء مدة العقوبة؟",
+    "relevant_article_keys": [
+      "43_1992_30",
+      "471_1995_80"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q416",
+    "query": "Benchmark query #116: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q417",
+    "query": "سؤال مرجعي رقم 117: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q418",
+    "query": "سؤال مرجعي رقم 121: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q419",
+    "query": "Benchmark query #122: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q420",
+    "query": "سؤال مرجعي رقم 123: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q421",
+    "query": "Benchmark query #124: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q422",
+    "query": "سؤال مرجعي رقم 125: ما هي صلاحيات وسلطات ضباط وإدارة المنشأة العقابية عند وقوع شغب أو محاولة فرار؟",
+    "relevant_article_keys": [
+      "43_1992_18",
+      "471_1995_50"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q423",
+    "query": "Benchmark query #126: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q424",
+    "query": "سؤال مرجعي رقم 127: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q425",
+    "query": "Benchmark query #128: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q426",
+    "query": "Benchmark query #130: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q427",
+    "query": "سؤال مرجعي رقم 131: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q428",
+    "query": "Benchmark query #132: Under Cabinet Decision No. 10 of 2019, how are Beneficial Owners identified?",
+    "relevant_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q429",
+    "query": "سؤال مرجعي رقم 133: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q430",
+    "query": "Benchmark query #134: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q431",
+    "query": "سؤال مرجعي رقم 135: ما هي الجزاءات التأديبية التي يجوز فرضها على المسجونين في حال ارتكاب المخالفات النظامية؟",
+    "relevant_article_keys": [
+      "43_1992_25",
+      "471_1995_60"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q432",
+    "query": "Benchmark query #136: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q433",
+    "query": "سؤال مرجعي رقم 137: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q434",
+    "query": "Benchmark query #138: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q435",
+    "query": "Benchmark query #140: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q436",
+    "query": "سؤال مرجعي رقم 141: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q437",
+    "query": "سؤال مرجعي رقم 143: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q438",
+    "query": "Benchmark query #144: What are the strict right-of-way rules at roundabouts and intersections?",
+    "relevant_article_keys": [
+      "130_1997_42",
+      "130_1997_44"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q439",
+    "query": "سؤال مرجعي رقم 145: نزيل يشتكي من حرمانه من الزيارة العائلية، ما هي الضوابط القانونية والتراخيص المطلوبة للزيارات العادية والاستثنائية؟",
+    "relevant_article_keys": [
+      "471_1995_32",
+      "471_1995_35"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q440",
+    "query": "Benchmark query #146: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q441",
+    "query": "سؤال مرجعي رقم 147: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q442",
+    "query": "سؤال مرجعي رقم 151: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q443",
+    "query": "Benchmark query #152: What is the difference between Enhanced Due Diligence (EDD) and Simplified Due Diligence (SDD)?",
+    "relevant_article_keys": [
+      "10_2019_7",
+      "10_2019_10"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q444",
+    "query": "سؤال مرجعي رقم 153: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q445",
+    "query": "Benchmark query #154: What are the technical safety specifications for heavy trucks and trailers under UAE traffic executive regulations?",
+    "relevant_article_keys": [
+      "130_1997_20",
+      "130_1997_22"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q446",
+    "query": "سؤال مرجعي رقم 155: ما هي حقوق النزلاء والنزيلات داخل المنشآت العقابية فيما يتعلق والرعاية الصحية والزيارات؟",
+    "relevant_article_keys": [
+      "43_1992_12",
+      "471_1995_25",
+      "471_1995_30"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q447",
+    "query": "Benchmark query #156: How are wages calculated and distributed for inmates engaged in correctional labor programs?",
+    "relevant_article_keys": [
+      "471_1995_46",
+      "471_1995_48"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q448",
+    "query": "سؤال مرجعي رقم 157: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q449",
+    "query": "Benchmark query #158: Can judicial rehabilitation be revoked if a convicted person commits a new crime during the probation window?",
+    "relevant_article_keys": [
+      "36_1992_11"
+    ],
+    "query_archetype": "edge_case",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q450",
+    "query": "Benchmark query #160: What constitutes the crime of religious contempt under UAE Decree-Law No. 2 of 2015?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q451",
+    "query": "سؤال مرجعي رقم 161: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q452",
+    "query": "Benchmark query #162: What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "relevant_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q453",
+    "query": "سؤال مرجعي رقم 163: ما هي العقوبات المقررة لقيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "relevant_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q454",
+    "query": "Benchmark query #164: What are the legal penalties for driving a vehicle with expired registration beyond the grace period?",
+    "relevant_article_keys": [
+      "130_1997_28",
+      "130_1997_112"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Medium",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q455",
+    "query": "سؤال مرجعي رقم 165: كيف يتم تقسيم المنشآت العقابية وتصنيف النزلاء حسب نوع الجريمة والسن؟",
+    "relevant_article_keys": [
+      "43_1992_5",
+      "471_1995_10"
+    ],
+    "query_archetype": "fact_lookup",
+    "difficulty": "Medium",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q456",
+    "query": "Benchmark query #166: What is the legal process for granting conditional release (parole) to an inmate who served two-thirds of their sentence?",
+    "relevant_article_keys": [
+      "43_1992_32",
+      "471_1995_82"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q457",
+    "query": "سؤال مرجعي رقم 167: ما هي الشروط الواجب توافرها لرد الاعتبار القضائي بناءً على طلب يقدم للمحكمة؟",
+    "relevant_article_keys": [
+      "36_1992_4",
+      "36_1992_5"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q458",
+    "query": "Benchmark query #168: A foreign resident was convicted of a minor misdemeanor 5 years ago. What legal steps are needed to clear their judicial record?",
+    "relevant_article_keys": [
+      "36_1992_5",
+      "36_1992_7"
+    ],
+    "query_archetype": "conversational",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q459",
+    "query": "Benchmark query #170: What are the mandatory minimum and maximum prison sentences for inciting tribal or racial hatred online?",
+    "relevant_article_keys": [
+      "2_2015_6",
+      "2_2015_11"
+    ],
+    "query_archetype": "legal_comparison_and_penalties",
+    "difficulty": "Hard",
+    "language": "en",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q460",
+    "query": "سؤال مرجعي رقم 171: ما هي تعريفات الجريمة الأصلية والمتحصلات في قانون مواجهة غسل الأموال الإماراتي؟",
+    "relevant_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "query_archetype": "multi_hop",
+    "difficulty": "Hard",
+    "language": "ar",
+    "category": "Semantic / Paraphrase"
+  },
+  {
+    "query_id": "BAL_Q461",
+    "query": "وبناءً على المادة السابقة رقم 9، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "10_2019_9"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q462",
+    "query": "Follow-up: regarding Article 58, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "130_1997_58"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q463",
+    "query": "وبناءً على المادة السابقة رقم 39، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "130_1997_39"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q464",
+    "query": "Follow-up: regarding Article 4, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "2_2015_4"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q465",
+    "query": "وبناءً على المادة السابقة رقم 26، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "20_2018_26"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q466",
+    "query": "Follow-up: regarding Article 188, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "130_1997_188"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q467",
+    "query": "وبناءً على المادة السابقة رقم 38، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "471_1995_38"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q468",
+    "query": "Follow-up: regarding Article 35, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_35"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q469",
+    "query": "وبناءً على المادة السابقة رقم 94، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "471_1995_94"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q470",
+    "query": "Follow-up: regarding Article 26, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "43_1992_26"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q471",
+    "query": "وبناءً على المادة السابقة رقم 49، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "130_1997_49"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q472",
+    "query": "Follow-up: regarding Article 116, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_116"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q473",
+    "query": "وبناءً على المادة السابقة رقم 23، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q474",
+    "query": "Follow-up: regarding Article 42, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "130_1997_42"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q475",
+    "query": "وبناءً على المادة السابقة رقم 39، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "43_1992_39"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q476",
+    "query": "Follow-up: regarding Article 73, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_73"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q477",
+    "query": "وبناءً على المادة السابقة رقم 68، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "471_1995_68"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q478",
+    "query": "Follow-up: regarding Article 16, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "20_2018_16"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q479",
+    "query": "وبناءً على المادة السابقة رقم 27، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "20_2018_27"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q480",
+    "query": "Follow-up: regarding Article 107, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_107"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q481",
+    "query": "وبناءً على المادة السابقة رقم 63، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "130_1997_63"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q482",
+    "query": "Follow-up: regarding Article 5, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_5"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q483",
+    "query": "وبناءً على المادة السابقة رقم 26، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "10_2019_26"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q484",
+    "query": "Follow-up: regarding Article 15, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "43_1992_15"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q485",
+    "query": "وبناءً على المادة السابقة رقم 57، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "471_1995_57"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q486",
+    "query": "Follow-up: regarding Article 12, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "20_2018_12"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q487",
+    "query": "وبناءً على المادة السابقة رقم 29، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "471_1995_29"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q488",
+    "query": "Follow-up: regarding Article 25, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_25"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q489",
+    "query": "وبناءً على المادة السابقة رقم 2، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "2_2015_2"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q490",
+    "query": "Follow-up: regarding Article 21, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_21"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q491",
+    "query": "وبناءً على المادة السابقة رقم 10، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "10_2019_10"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q492",
+    "query": "Follow-up: regarding Article 40, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "43_1992_40"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q493",
+    "query": "وبناءً على المادة السابقة رقم 47، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "43_1992_47"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q494",
+    "query": "Follow-up: regarding Article 41, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "130_1997_41"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q495",
+    "query": "وبناءً على المادة السابقة رقم 63، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "471_1995_63"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q496",
+    "query": "Follow-up: regarding Article 20, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "43_1992_20"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q497",
+    "query": "وبناءً على المادة السابقة رقم 27، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "43_1992_27"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q498",
+    "query": "Follow-up: regarding Article 3, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "43_1992_3"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  },
+  {
+    "query_id": "BAL_Q499",
+    "query": "وبناءً على المادة السابقة رقم 53، ما هي الاستثناءات المقررة؟",
+    "relevant_article_keys": [
+      "10_2019_53"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "ar"
+  },
+  {
+    "query_id": "BAL_Q500",
+    "query": "Follow-up: regarding Article 9, does this apply to non-residents?",
+    "relevant_article_keys": [
+      "471_1995_9"
+    ],
+    "category": "Conversational Follow-up",
+    "language": "en"
+  }
+]

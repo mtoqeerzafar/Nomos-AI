@@ -1,0 +1,70 @@
+# ==========================================
+# Nomos AI — Security & Privacy `.gitignore`
+# Enforces zero leakage of secrets, keys & databases
+# ==========================================
+
+# 1. Environment & API Keys (CRITICAL SECURITY)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.crt
+*.p8
+*.secret
+
+# 2. Virtual Environments & Local Caches
+venv/
+venv312/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.cache/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 3. Local Storage, Vector DBs & Cache Dumps
+cache/
+document_cache/
+fastembed_cache/
+qdrant_storage/
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+# 4. Logs & Telemetry Data
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# 5. Node.js & Next.js Build Artifacts
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+frontend/out/
+dist/
+build/
+
+# 6. IDEs & OS Metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 7. Temporary Evaluation & Scratch Dumps
+scratch/
+reports/
+*.tmp

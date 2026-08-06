@@ -1,0 +1,129 @@
+{
+  "suite_title": "RagnrAI Live UI Verification Ground-Truth Suite",
+  "version": "1.0",
+  "created_at": "2026-08-06",
+  "total_test_cases": 10,
+  "description": "Ground-truth benchmark test cases extracted directly from Qdrant statutory vectors and official PDF codices for testing the RagnrAI live UI and API streaming endpoints.",
+  "test_cases": [
+    {
+      "id": 1,
+      "language": "Arabic",
+      "difficulty": "Medium",
+      "query": "ما هي أنواع المنشآت العقابية المعتمدة بموجب المادة 4 من القرار الوزاري رقم 471 لسنة 1995؟",
+      "expected_answer": "تكون المنشآت العقابية ثلاثة أنواع بموجب المادة (4):\n\n1. منشآت للرجال.\n2. منشآت للنساء.\n3. منشآت للأحداث المحكوم عليهم بالحبس يُراعى فيها الفصل بين الجنسين.",
+      "source_pdf": "قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية.pdf",
+      "article": "المادة (4)",
+      "article_key": "471_1995_4",
+      "page_number": "Page 3",
+      "verification_proof_qdrant_text": "تكون المنشات العقابيه ثلاثه انواع : 1 . منشات للرجال . 2 . منشات للنساء . 3 . منشات للاحداث المحكوم عليهم بالحبس يراعي فيها الفصل بين الجنسين ."
+    },
+    {
+      "id": 2,
+      "language": "English",
+      "difficulty": "Medium-Hard",
+      "query": "Under Article 78 of Ministerial Decision No. 471 of 1995, what condition must be met for inmate students of private schools and colleges to continue their education?",
+      "expected_answer": "According to Article 78 of Ministerial Decision No. 471 of 1995, the educational provisions apply to inmate students enrolled in private schools and colleges provided that prior approval is granted by the Director of the Penal Establishment (موافقة مدير المنشأة العقابية).",
+      "source_pdf": "قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية.pdf",
+      "article": "Article 78",
+      "article_key": "471_1995_78",
+      "page_number": "Page 20",
+      "verification_proof_qdrant_text": "تسري الاحكام السابقه علي منتسبي المدارس والكليات الخاصه من المسجونين بعد موافقه مدير المنشاه العقابيه ."
+    },
+    {
+      "id": 3,
+      "language": "Arabic",
+      "difficulty": "Medium",
+      "query": "وفقاً للمادة 33 من القانون الاتحادي رقم 43 لسنة 1992، ما هي التفاصيل التي يجب على الطبيب تدوينها في تقرير النيابة العامة عند وفاة المسجون؟",
+      "expected_answer": "وفقاً للمادة 33، يجب على الطبيب تدوين التفاصيل التالية في تقرير النيابة العامة:\n\n1. نوع المرض.\n2. آخر مرة كشف فيها الطبيب على المريض قبل وفاته والعلاج الذي وُصف له.\n3. الوقت الذي توفي فيه السجين.",
+      "source_pdf": "قانون اتحادي رقم (43) لسنة 1992 في شأن تنظيم المنشآت العقابية.pdf",
+      "article": "المادة (33)",
+      "article_key": "43_1992_33",
+      "page_number": "Page 10",
+      "verification_proof_qdrant_text": "واذا توفي المسجون يقدم الطبيب الي النيابه العامه تقريرا يدون به التفاصيل التاليه بقدر مايتاح له التاكد منها: 6 - نوع المرض 7 - اخرمره كشف فيها الطبيب علي المريض قبل وفاته والعلاج الذي وصف له 8 - الوقت الذي توفي فيه السجين."
+    },
+    {
+      "id": 4,
+      "language": "English",
+      "difficulty": "Hard",
+      "query": "According to Article 39 of Federal Law No. 43 of 1992, where must disciplinary penalties imposed on prisoners be logged, and which authority must be notified?",
+      "expected_answer": "Under Article 39 of Federal Law No. 43 of 1992, disciplinary penalties imposed on prisoners must be logged in a dedicated special register (السجل الخاص بذلك) and reported directly to the Public Prosecution (النيابة العامة).",
+      "source_pdf": "قانون اتحادي رقم (43) لسنة 1992 في شأن تنظيم المنشآت العقابية.pdf",
+      "article": "Article 39",
+      "article_key": "43_1992_39",
+      "page_number": "Page 12",
+      "verification_proof_qdrant_text": "تقيد الجز اءات التي توقع علي المسجونين بالسجل الخاص بذلك وتبلغ الي النيابه العامه ( قانون اتحادي رقم 43 ) لسنه 1992 في شان تنظيم المنشات العقابيه"
+    },
+    {
+      "id": 5,
+      "language": "Arabic",
+      "difficulty": "Medium-Hard",
+      "query": "ما هي التزامات سائقي حافلات نقل طلاب المدارس وسائقي المركبات الأخرى عند توقف الحافلة بموجب المادة 71 من القرار الوزاري رقم 130 لسنة 1997؟",
+      "expected_answer": "بموجب المادة 71:\n\n1. التزام سائق حافلة المدرسة عند التوقف بفتح ذراع إشارة (قف) الجانبية.\n2. التزام سائقي المركبات الأخرى بالتوقف التام عند فتح ذراع الإشارة الجانبية لحافلة الطلاب.",
+      "source_pdf": "قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور.pdf",
+      "article": "المادة (71)",
+      "article_key": "130_1997_71",
+      "page_number": "Page 20",
+      "verification_proof_qdrant_text": "علي قائدي مركبات النقل العام ومركبات نقل طلبه المدارس (الحافله) عندالتوقف لصعوداو نزول الركاب اوالطلبه الالتزام بالاتي: 3 . فتح ذراع اشاره (قف) الجانبيه. ويجب علي سائقي المركبات الاخري التوقف عندفتح ذراع اشاره (قف) الجانبيه"
+    },
+    {
+      "id": 6,
+      "language": "English",
+      "difficulty": "Medium",
+      "query": "Under Article 59 of Ministerial Decision No. 130 of 1997 (Traffic Executive Regulations), what specific factors must a driver consider before changing direction or lane?",
+      "expected_answer": "Under Article 59, a driver must not endanger others, must give clear and timely signals before changing lanes, turning, or reversing, and specifically must take into account the positions, directions, and speeds of all other road users (أن يضع في اعتباره أوضاع باقي مستعملي الطريق واتجاهاتهم وسرعاتهم).",
+      "source_pdf": "قرار وزاري رقم (130) لسنة 1997 بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (21) لسنة 1995 في شأن السير والمرور.pdf",
+      "article": "Article 59",
+      "article_key": "130_1997_59",
+      "page_number": "Page 17",
+      "verification_proof_qdrant_text": "علي قائد المركبه مراعاه الاتتسبب مركبته في تعريض الغير للخطر وعليه ان يعلن بوضوح وفي وقت مناسب عن رغبته في تغيير خط سير المركبه وان يستعمل الاشارات اللازمه ... 2 . ان يضع في اعتباره اوضاع باقي مستعملي الطريق واتجاهاتهم وسرعاتهم."
+    },
+    {
+      "id": 7,
+      "language": "Arabic",
+      "difficulty": "Hard",
+      "query": "ما هي إجراءات الامتثال المعتمدة لدى الفروع والشركات التابعة الأجنبية بموجب المادة 31 من قرار مجلس الوزراء رقم 10 لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
+      "expected_answer": "تلتزم المجموعات المالية بموجب المادة 31 بالتحقق من تطبيق فروعها والشركات التابعة لها لمعايير الامتثال التالية بشكل مستمر:\n\n1. إجراءات الإبلاغ عن المعاملات المشبوهة.\n2. ترتيبات إدارة الامتثال وتعيين مسؤول الامتثال.\n3. وضع معايير عالية الكفاءة والملاءة عند تعيين الموظفين.",
+      "source_pdf": "قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال.pdf",
+      "article": "المادة (31)",
+      "article_key": "10_2019_31",
+      "page_number": "Page 17",
+      "verification_proof_qdrant_text": "تطبيق ذلك علي جميع فروعها والشركات التابعه لها: 2 . اجراءات الابلاغ عن المعاملات المشبوهه 3 . ترتيبات اداره الامتثال المناسبه وتعيين مسؤول الامتثال 4 . اجراءات لضمان وجود معايير ذات كفاءه وملاءمه عاليه عند تعيين الموظفين"
+    },
+    {
+      "id": 8,
+      "language": "English",
+      "difficulty": "Hard",
+      "query": "Under Article 16 of Federal Decree-Law No. 20 of 2018 on Anti-Money Laundering, what are the minimum and maximum fine limits for violating reporting obligations?",
+      "expected_answer": "According to Article 16, violations are penalized by imprisonment for a period of not less than 6 months and a fine of not less than AED 200,000 (مائتي ألف درهم) and not exceeding AED 5,000,000 (خمسة ملايين درهم), or one of these two penalties.",
+      "source_pdf": "مرسوم بقانون اتحادي رقم (20) لسنة 2018 في شأن مواجهة جرائم غسل الأموال ومكافحة تمويل الإرهاب وتمويل التنظيمات غير المشروعة.pdf",
+      "article": "Article 16",
+      "article_key": "20_2018_16",
+      "page_number": "Page 14",
+      "verification_proof_qdrant_text": "حبس لا يقل عن سته اشهر وبغرامه لاتقل عن 200,000 (مائتي الف) درهم ولا تزيد علي 5,000,000 (خمسه ملايين) درهم او باحدي هاتين العقوبتين كل من خالف احكام الماده 16"
+    },
+    {
+      "id": 9,
+      "language": "Arabic",
+      "difficulty": "Medium-Hard",
+      "query": "ما هي المادة الختامية رقم 11 من القانون الاتحادي رقم 36 لسنة 1992 في شأن رد الاعتبار وما هي أحكام نفاذها؟",
+      "expected_answer": "ينص القانون في المادة 11 على:\n\n1. التزام الوزراء والسلطات المختصة في الإمارات بتنفيذ القانون كل فيما يخصه.\n2. نشر القانون في الجريدة الرسمية والعمل به من تاريخ نشره (صدر بالقصر الرئاسي بأبوظبي بتاريخ 25 يونيو 1992م).",
+      "source_pdf": "قانون اتحادي رقم (36) لسنة 1992 في شأن رد الاعتبار.pdf",
+      "article": "المادة (11)",
+      "article_key": "36_1992_11",
+      "page_number": "Page 4",
+      "verification_proof_qdrant_text": "علي الوزراءو السلطات المختصه في الامارات -كل فيما يخصه -تنفيذ هذاالقانون. ( الماده 11 ) . ينشر هذاالقانون في الجر يده الرسميه، ويعمل به من تاريخ نشره"
+    },
+    {
+      "id": 10,
+      "language": "English",
+      "difficulty": "Medium",
+      "query": "Under Article 5 of Federal Decree-Law No. 2 of 2015 on Anti-Discrimination and Hatred, what is the penalty for committing acts of discrimination or hate speech?",
+      "expected_answer": "Under Article 5, the penalty is imprisonment for a period of not less than seven (7) years, and a fine of not less than AED 500,000 (خمسمائة ألف درهم) and not exceeding AED 2,000,000 (مليوني درهم).",
+      "source_pdf": "مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية.pdf",
+      "article": "Article 5",
+      "article_key": "2_2015_5",
+      "page_number": "Page 2",
+      "verification_proof_qdrant_text": "يعاقب بالسجن مده لاتقل عن سبع سنوات ، وبالغر امه التي لاتقل عن خمسمائه الف درهم و لاتزيد علي مليوني درهم كل من ارتكب فعلا من الافعال المنصوص عليها في البندين (1 ، 4) من الماده 4"
+    }
+  ]
+}

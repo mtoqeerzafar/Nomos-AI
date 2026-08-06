@@ -1,0 +1,8 @@
+{
+  "timestamp": "2026-08-04 00:57:52",
+  "total_queries": 50,
+  "overall_p1": 24.0,
+  "overall_recall15": 70.0,
+  "overall_mrr": 0.3389,
+  "avg_latency_ms": 1587.8
+}

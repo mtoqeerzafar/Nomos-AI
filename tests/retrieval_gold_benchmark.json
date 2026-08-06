@@ -1,0 +1,212 @@
+[
+  {
+    "id": "Q01",
+    "query": "ما هو تعريف المستفيد الحقيقي والمنشآت المالية في اللائحة التنفيذية؟",
+    "category": "Definition",
+    "difficulty": "Easy",
+    "gold_article_keys": ["10_2019_1", "10_2019_2"]
+  },
+  {
+    "id": "Q02",
+    "query": "ما هي إجراءات العناية الواجبة تجاه العملاء المستهدفين؟",
+    "category": "Fact Lookup",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_4", "10_2019_5", "10_2019_6"]
+  },
+  {
+    "id": "Q03",
+    "query": "ما هي التزامات المنشآت المالية والمهن غير المالية المحددة عند الاشتباه في معاملة؟",
+    "category": "Fact Lookup",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_9", "10_2019_15", "10_2019_16"]
+  },
+  {
+    "id": "Q04",
+    "query": "المادة 9",
+    "category": "Article Lookup",
+    "difficulty": "Easy",
+    "gold_article_keys": ["10_2019_9"]
+  },
+  {
+    "id": "Q05",
+    "query": "ما هي إجراءات وصلاحيات تجميد وحجز الأموال والمتحصلات المشبوهة من دون إخطار مسبق؟",
+    "category": "Penalty/Seizure",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_47", "10_2019_57"]
+  },
+  {
+    "id": "Q06",
+    "query": "كيف يتم التبادل الدولي للمعلومات وتقديم المساعدة القضائية بين الدول؟",
+    "category": "International Cooperation",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_55", "10_2019_57"]
+  },
+  {
+    "id": "Q07",
+    "query": "ما هي مهام واختصاصات الجهات الرقابية في الإشراف على المنشآت المالية؟",
+    "category": "Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_44"]
+  },
+  {
+    "id": "Q08",
+    "query": "ما هي صلاحيات وتدابير وحدة المعلومات المالية في تلقي وتحليل البلاغات؟",
+    "category": "FIU Powers",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_40", "10_2019_41"]
+  },
+  {
+    "id": "Q09",
+    "query": "من هم الأشخاص المنكشفون سياسياً وما هي تدابير التعامل معهم؟",
+    "category": "PEPs",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_2", "10_2019_14"]
+  },
+  {
+    "id": "Q10",
+    "query": "ما هي التدابير المشددة المطبقة على الدول عالية المخاطر؟",
+    "category": "High Risk Countries",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_22"]
+  },
+  {
+    "id": "Q11",
+    "query": "ما هي مدة وسجلات حفظ المستندات والمعاملات المالية؟",
+    "category": "Record Keeping",
+    "difficulty": "Easy",
+    "gold_article_keys": ["10_2019_24"]
+  },
+  {
+    "id": "Q12",
+    "query": "ما هي أحكام حظر الإفصاح السرية عن البلاغات المشبوهة؟",
+    "category": "Confidentiality",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_17", "10_2019_25"]
+  },
+  {
+    "id": "Q13",
+    "query": "ما العقوبات الإدارية التي تفرضها الجهة الرقابية عند مخالفة قواعد غسل الأموال؟",
+    "category": "Paraphrase",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_44"]
+  },
+  {
+    "id": "Q14",
+    "query": "What are the beneficial ownership and due diligence obligations?",
+    "category": "English Query",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_1", "10_2019_4", "10_2019_5"]
+  },
+  {
+    "id": "Q15",
+    "query": "What are the powers regarding freezing and seizing assets related to money laundering?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_47", "10_2019_57"]
+  },
+  {
+    "id": "Q16",
+    "query": "ما هي استثناءات تطبيق العناية الواجبة المبسطة؟",
+    "category": "Exception Clauses",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_10", "10_2019_11"]
+  },
+  {
+    "id": "Q17",
+    "query": "ما الفرق بين المستفيد الحقيقي والعميل حسب المادة 1 والمادة 2؟",
+    "category": "Comparison",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_1", "10_2019_2"]
+  },
+  {
+    "id": "Q18",
+    "query": "ما هي التزامات البنوك والمؤسسات المالية تجاه الحسابات المصرفية المجهولة؟",
+    "category": "Legal Wording",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_3"]
+  },
+  {
+    "id": "Q19",
+    "query": "ما هي قواعد الضوابط والرقابة الداخلية لمكافحة غسل الأموال؟",
+    "category": "Internal Controls",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_20"]
+  },
+  {
+    "id": "Q20",
+    "query": "ما هي شروط العلاقات المصرفية المراثلة عبر الحدود؟",
+    "category": "Correspondent Banking",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_13"]
+  },
+  {
+    "id": "Q21",
+    "query": "ما هي التزامات المهن والأعمال غير المالية المحددة مثل المحامين والمحاسبين وتجار المعادن النفيسة؟",
+    "category": "DNFBPs",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_3", "10_2019_19"]
+  },
+  {
+    "id": "Q22",
+    "query": "تجميد",
+    "category": "One-word Query",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_47", "10_2019_57"]
+  },
+  {
+    "id": "Q23",
+    "query": "وحدة المعلومات",
+    "category": "One-word Query",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_40"]
+  },
+  {
+    "id": "Q24",
+    "query": "ما هي متطلبات العناية المستمرة بالمعاملات والعلاقات التجارية؟",
+    "category": "Ongoing Monitoring",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_7"]
+  },
+  {
+    "id": "Q25",
+    "query": "ما هي الآليات الخاصة بتحديد هوية الشخص الاعتباري والترتيب القانوني؟",
+    "category": "Legal Entities",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_8", "10_2019_9"]
+  },
+  {
+    "id": "Q26",
+    "query": "ما هي إجراءات الإبلاغ الفوري عن العمليات المشبوهة إلى وحدة المعلومات المالية؟",
+    "category": "STR Reporting",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_16", "10_2019_17"]
+  },
+  {
+    "id": "Q27",
+    "query": "ما هي شروط الحظر وعدم الجواز المنصوص عليها في المادة 3 والمادة 17؟",
+    "category": "Cross-reference",
+    "difficulty": "Hard",
+    "gold_article_keys": ["10_2019_3", "10_2019_17"]
+  },
+  {
+    "id": "Q28",
+    "query": "How are high risk customers and transactions defined and managed?",
+    "category": "English Query",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_14", "10_2019_22"]
+  },
+  {
+    "id": "Q29",
+    "query": "What are record retention requirements for financial institutions under UAE law?",
+    "category": "English Query",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_24"]
+  },
+  {
+    "id": "Q30",
+    "query": "ما هي صلاحيات اللجنة الوطنية لمواجهة غسل الأموال ومكافحة تمويل الإرهاب؟",
+    "category": "National Committee",
+    "difficulty": "Medium",
+    "gold_article_keys": ["10_2019_37", "10_2019_38"]
+  }
+]

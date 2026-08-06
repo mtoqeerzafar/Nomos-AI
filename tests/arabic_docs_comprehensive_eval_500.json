@@ -1,0 +1,5034 @@
+[
+  {
+    "query_id": "COMP_Q001",
+    "query": "المـــــادة 59 من القانون 130",
+    "gold_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q002",
+    "query": "المادة ٨٦ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_86"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q003",
+    "query": "المادة )2( من القانون رقم 10 لسنة 2019",
+    "gold_article_keys": [
+      "10_2019_2"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q004",
+    "query": "المادة الثالثة من قانون اتحادي رقم (43) لسنة 1992 في شأن تنظيم المنشآت العقابية",
+    "gold_article_keys": [
+      "43_1992_3"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q005",
+    "query": "Article 31 of Law 10 of 2019",
+    "gold_article_keys": [
+      "10_2019_31"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q006",
+    "query": "المـــــادة 71 من القانون 130",
+    "gold_article_keys": [
+      "130_1997_71"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q007",
+    "query": "المادة ٧٨ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "471_1995_78"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q008",
+    "query": "المادة )4( من القانون رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_4"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q009",
+    "query": "Article 69 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_69"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q010",
+    "query": "Article 63 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_63"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q011",
+    "query": "المـــــادة 39 من القانون 43",
+    "gold_article_keys": [
+      "43_1992_39"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q012",
+    "query": "المادة ٩ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "10_2019_9"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q013",
+    "query": "المادة )6( من القانون رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q014",
+    "query": "المادة الثانية من مرسوم بقانون اتحادي رقم (20) لسنة 2018 في شأن مواجهة جرائم غسل الأموال ومكافحة تمويل الإرهاب وتمويل التنظيمات غير المشروعة",
+    "gold_article_keys": [
+      "20_2018_2"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q015",
+    "query": "Article 1 of Law 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_1"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q016",
+    "query": "المـــــادة 39 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_39"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q017",
+    "query": "المادة ٧٦ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_76"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q018",
+    "query": "المادة )59( من القانون رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_59"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q019",
+    "query": "Article 151 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_151"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q020",
+    "query": "Article 118 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_118"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q021",
+    "query": "المـــــادة 33 من القانون 43",
+    "gold_article_keys": [
+      "43_1992_33"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q022",
+    "query": "المادة ٨٥ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_85"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q023",
+    "query": "المادة )16( من القانون رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_16"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q024",
+    "query": "Article 101 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_101"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q025",
+    "query": "Article 160 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_160"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q026",
+    "query": "المـــــادة 51 من القانون 10",
+    "gold_article_keys": [
+      "10_2019_51"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q027",
+    "query": "المادة ٧٣ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_73"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q028",
+    "query": "المادة )1( من القانون رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_1"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q029",
+    "query": "Article 31 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_31"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q030",
+    "query": "Article 16 of Law 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_16"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q031",
+    "query": "المـــــادة 23 من القانون 20",
+    "gold_article_keys": [
+      "20_2018_23"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q032",
+    "query": "المادة ٧٠ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_70"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q033",
+    "query": "المادة )19( من القانون رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_19"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q034",
+    "query": "Article 55 of Law 10 of 2019",
+    "gold_article_keys": [
+      "10_2019_55"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q035",
+    "query": "Article 106 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_106"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q036",
+    "query": "المـــــادة 52 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_52"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q037",
+    "query": "المادة ٢ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "471_1995_2"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q038",
+    "query": "المادة )11( من القانون رقم 36 لسنة 1992",
+    "gold_article_keys": [
+      "36_1992_11"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q039",
+    "query": "Article 36 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_36"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q040",
+    "query": "Article 90 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_90"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q041",
+    "query": "المـــــادة 117 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q042",
+    "query": "المادة ٤٠ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "471_1995_40"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q043",
+    "query": "المادة )8( من القانون رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_8"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q044",
+    "query": "Article 19 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_19"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q045",
+    "query": "Article 59 of Law 43 of 1992",
+    "gold_article_keys": [
+      "43_1992_59"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q046",
+    "query": "المـــــادة 4 من القانون 20",
+    "gold_article_keys": [
+      "20_2018_4"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q047",
+    "query": "المادة ٣ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "36_1992_3"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q048",
+    "query": "المادة )4( من القانون رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_4"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q049",
+    "query": "Article 14 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_14"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q050",
+    "query": "Article 12 of Law 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_12"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q051",
+    "query": "المـــــادة 17 من القانون 43",
+    "gold_article_keys": [
+      "43_1992_17"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q052",
+    "query": "المادة ٥٧ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_57"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q053",
+    "query": "المادة )7( من القانون رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_7"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q054",
+    "query": "Article 110 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_110"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q055",
+    "query": "Article 48 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_48"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q056",
+    "query": "المـــــادة 5 من القانون 2",
+    "gold_article_keys": [
+      "2_2015_5"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q057",
+    "query": "المادة ١٨ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "20_2018_18"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q058",
+    "query": "المادة )6( من القانون رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_6"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q059",
+    "query": "Article 14 of Law 43 of 1992",
+    "gold_article_keys": [
+      "43_1992_14"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q060",
+    "query": "Article 44 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_44"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q061",
+    "query": "المـــــادة 89 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q062",
+    "query": "المادة ١٣ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "20_2018_13"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q063",
+    "query": "المادة )156( من القانون رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_156"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q064",
+    "query": "Article 42 of Law 43 of 1992",
+    "gold_article_keys": [
+      "43_1992_42"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q065",
+    "query": "Article 50 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_50"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q066",
+    "query": "المـــــادة 46 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_46"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q067",
+    "query": "المادة ٤٧ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "43_1992_47"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q068",
+    "query": "المادة )33( من القانون رقم 10 لسنة 2019",
+    "gold_article_keys": [
+      "10_2019_33"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q069",
+    "query": "Article 61 of Law 43 of 1992",
+    "gold_article_keys": [
+      "43_1992_61"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q070",
+    "query": "Article 20 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_20"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q071",
+    "query": "المـــــادة 64 من القانون 130",
+    "gold_article_keys": [
+      "130_1997_64"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q072",
+    "query": "المادة ٢٣ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_23"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q073",
+    "query": "المادة )6( من القانون رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q074",
+    "query": "Article 94 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_94"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q075",
+    "query": "Article 70 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_70"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q076",
+    "query": "المـــــادة 58 من القانون 10",
+    "gold_article_keys": [
+      "10_2019_58"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q077",
+    "query": "المادة ٥٧ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "471_1995_57"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q078",
+    "query": "المادة )15( من القانون رقم 2 لسنة 2015",
+    "gold_article_keys": [
+      "2_2015_15"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q079",
+    "query": "Article 22 of Law 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_22"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q080",
+    "query": "Article 10 of Law 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_10"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q081",
+    "query": "المـــــادة 9 من القانون 2",
+    "gold_article_keys": [
+      "2_2015_9"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q082",
+    "query": "المادة ٥٠ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "43_1992_50"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q083",
+    "query": "المادة )53( من القانون رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_53"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q084",
+    "query": "المادة الثامنة من قرار مجلس الوزراء رقم (10) لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال",
+    "gold_article_keys": [
+      "10_2019_8"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q085",
+    "query": "Article 21 of Law 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_21"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q086",
+    "query": "المـــــادة 87 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_87"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q087",
+    "query": "المادة ٤٩ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_49"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q088",
+    "query": "المادة )27( من القانون رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_27"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q089",
+    "query": "المادة الثانية من مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية",
+    "gold_article_keys": [
+      "2_2015_2"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q090",
+    "query": "Article 87 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_87"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q091",
+    "query": "المـــــادة 21 من القانون 471",
+    "gold_article_keys": [
+      "471_1995_21"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q092",
+    "query": "المادة ١٨ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "2_2015_18"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q093",
+    "query": "المادة )23( من القانون رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_23"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q094",
+    "query": "Article 78 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_78"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q095",
+    "query": "Article 96 of Law 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_96"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q096",
+    "query": "المـــــادة 11 من القانون 130",
+    "gold_article_keys": [
+      "130_1997_11"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q097",
+    "query": "المادة ٢٣ من قانون غسل الأموال",
+    "gold_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q098",
+    "query": "المادة )35( من القانون رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_35"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q099",
+    "query": "Article 69 of Law 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_69"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q100",
+    "query": "Article 36 of Law 43 of 1992",
+    "gold_article_keys": [
+      "43_1992_36"
+    ],
+    "category": "Exact Article Lookup",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q101",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q102",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_3"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q103",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_78"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q104",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_63"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q105",
+    "query": "مرسوم بقانون اتحادي رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q106",
+    "query": "قرار مجلس الوزراء رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_39"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q107",
+    "query": "قرار وزاري رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_151"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q108",
+    "query": "Federal Decree Law No 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_85"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q109",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_160"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q110",
+    "query": "قرار مجلس الوزراء رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_1"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q111",
+    "query": "قرار وزاري رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_23"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q112",
+    "query": "Federal Decree Law No 10 of 2019",
+    "gold_article_keys": [
+      "10_2019_55"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q113",
+    "query": "مرسوم بقانون اتحادي رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_2"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q114",
+    "query": "قرار مجلس الوزراء رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_90"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q115",
+    "query": "قرار وزاري رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_8"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q116",
+    "query": "Federal Decree Law No 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_4"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q117",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_14"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q118",
+    "query": "قرار مجلس الوزراء رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_57"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q119",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_48"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q120",
+    "query": "Federal Decree Law No 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_6"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q121",
+    "query": "مرسوم بقانون اتحادي رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q122",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_42"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q123",
+    "query": "قرار وزاري رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_47"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q124",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_20"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q125",
+    "query": "مرسوم بقانون اتحادي رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q126",
+    "query": "قرار مجلس الوزراء رقم 10 لسنة 2019",
+    "gold_article_keys": [
+      "10_2019_58"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q127",
+    "query": "قرار وزاري رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_22"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q128",
+    "query": "Federal Decree Law No 43 of 1992",
+    "gold_article_keys": [
+      "43_1992_50"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q129",
+    "query": "مرسوم بقانون اتحادي رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_21"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q130",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_27"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q131",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_21"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q132",
+    "query": "Federal Decree Law No 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_78"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q133",
+    "query": "مرسوم بقانون اتحادي رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q134",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_36"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q135",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_25"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q136",
+    "query": "Federal Decree Law No 20 of 2018",
+    "gold_article_keys": [
+      "20_2018_3"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q137",
+    "query": "مرسوم بقانون اتحادي رقم 2 لسنة 2015",
+    "gold_article_keys": [
+      "2_2015_21"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q138",
+    "query": "قرار مجلس الوزراء رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_75"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q139",
+    "query": "قرار وزاري رقم 36 لسنة 1992",
+    "gold_article_keys": [
+      "36_1992_24"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q140",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_108"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q141",
+    "query": "مرسوم بقانون اتحادي رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_18"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q142",
+    "query": "قرار مجلس الوزراء رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_26"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q143",
+    "query": "قرار وزاري رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_38"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q144",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_13"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q145",
+    "query": "مرسوم بقانون اتحادي رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q146",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_65"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q147",
+    "query": "قرار وزاري رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_42"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q148",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_5"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q149",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_24"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q150",
+    "query": "قرار مجلس الوزراء رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_67"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q151",
+    "query": "قرار وزاري رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_1"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q152",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_81"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q153",
+    "query": "مرسوم بقانون اتحادي رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_9"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q154",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_63"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q155",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_66"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q156",
+    "query": "Federal Decree Law No 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_17"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q157",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_84"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q158",
+    "query": "قرار مجلس الوزراء رقم 36 لسنة 1992",
+    "gold_article_keys": [
+      "36_1992_28"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q159",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_71"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q160",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_37"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q161",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_30"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q162",
+    "query": "قرار مجلس الوزراء رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_18"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q163",
+    "query": "قرار وزاري رقم 2 لسنة 2015",
+    "gold_article_keys": [
+      "2_2015_3"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q164",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_62"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q165",
+    "query": "مرسوم بقانون اتحادي رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_8"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q166",
+    "query": "قرار مجلس الوزراء رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_18"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q167",
+    "query": "قرار وزاري رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_62"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q168",
+    "query": "Federal Decree Law No 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_21"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q169",
+    "query": "مرسوم بقانون اتحادي رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_39"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q170",
+    "query": "قرار مجلس الوزراء رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_4"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q171",
+    "query": "قرار وزاري رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_6"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q172",
+    "query": "Federal Decree Law No 471 of 1995",
+    "gold_article_keys": [
+      "471_1995_85"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q173",
+    "query": "مرسوم بقانون اتحادي رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_99"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q174",
+    "query": "قرار مجلس الوزراء رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_72"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q175",
+    "query": "قرار وزاري رقم 471 لسنة 1995",
+    "gold_article_keys": [
+      "471_1995_38"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q176",
+    "query": "Federal Decree Law No 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_188"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q177",
+    "query": "مرسوم بقانون اتحادي رقم 20 لسنة 2018",
+    "gold_article_keys": [
+      "20_2018_31"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q178",
+    "query": "قرار مجلس الوزراء رقم 130 لسنة 1997",
+    "gold_article_keys": [
+      "130_1997_36"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q179",
+    "query": "قرار وزاري رقم 43 لسنة 1992",
+    "gold_article_keys": [
+      "43_1992_40"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q180",
+    "query": "Federal Decree Law No 130 of 1997",
+    "gold_article_keys": [
+      "130_1997_13"
+    ],
+    "category": "Law / Decree Lookup",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q181",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 59 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q182",
+    "query": "وفقاً للمادة (2)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "10_2019_2"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q183",
+    "query": "What are the statutory requirements under Article 31 of Law No 10 of 2019?",
+    "gold_article_keys": [
+      "10_2019_31"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q184",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 78 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_78"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q185",
+    "query": "وفقاً للمادة (69)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_69"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q186",
+    "query": "What are the statutory requirements under Article 39 of Law No 43 of 1992?",
+    "gold_article_keys": [
+      "43_1992_39"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q187",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 6 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q188",
+    "query": "وفقاً للمادة (1)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "20_2018_1"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q189",
+    "query": "What are the statutory requirements under Article 76 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_76"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q190",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 151 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_151"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q191",
+    "query": "وفقاً للمادة (33)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_33"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q192",
+    "query": "What are the statutory requirements under Article 16 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_16"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q193",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 160 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_160"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q194",
+    "query": "وفقاً للمادة (73)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_73"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q195",
+    "query": "What are the statutory requirements under Article 31 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_31"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q196",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 23 من القانون رقم 20 لسنة 2018؟",
+    "gold_article_keys": [
+      "20_2018_23"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q197",
+    "query": "وفقاً للمادة (19)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_19"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q198",
+    "query": "What are the statutory requirements under Article 106 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_106"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q199",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 2 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_2"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q200",
+    "query": "وفقاً للمادة (36)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_36"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q201",
+    "query": "What are the statutory requirements under Article 117 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q202",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 8 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_8"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q203",
+    "query": "وفقاً للمادة (59)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_59"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q204",
+    "query": "What are the statutory requirements under Article 3 of Law No 36 of 1992?",
+    "gold_article_keys": [
+      "36_1992_3"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q205",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 14 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_14"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q206",
+    "query": "وفقاً للمادة (17)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_17"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q207",
+    "query": "What are the statutory requirements under Article 7 of Law No 20 of 2018?",
+    "gold_article_keys": [
+      "20_2018_7"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q208",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 48 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_48"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q209",
+    "query": "وفقاً للمادة (18)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "20_2018_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q210",
+    "query": "What are the statutory requirements under Article 14 of Law No 43 of 1992?",
+    "gold_article_keys": [
+      "43_1992_14"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q211",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 89 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q212",
+    "query": "وفقاً للمادة (156)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_156"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q213",
+    "query": "What are the statutory requirements under Article 50 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_50"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q214",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 47 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_47"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q215",
+    "query": "وفقاً للمادة (61)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_61"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q216",
+    "query": "What are the statutory requirements under Article 64 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_64"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q217",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 6 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q218",
+    "query": "وفقاً للمادة (70)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_70"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q219",
+    "query": "What are the statutory requirements under Article 57 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_57"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q220",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 22 من القانون رقم 20 لسنة 2018؟",
+    "gold_article_keys": [
+      "20_2018_22"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q221",
+    "query": "وفقاً للمادة (9)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "2_2015_9"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q222",
+    "query": "What are the statutory requirements under Article 53 of Law No 43 of 1992?",
+    "gold_article_keys": [
+      "43_1992_53"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q223",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 21 من القانون رقم 20 لسنة 2018؟",
+    "gold_article_keys": [
+      "20_2018_21"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q224",
+    "query": "وفقاً للمادة (49)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_49"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q225",
+    "query": "What are the statutory requirements under Article 2 of Law No 2 of 2015?",
+    "gold_article_keys": [
+      "2_2015_2"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q226",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 21 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_21"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q227",
+    "query": "وفقاً للمادة (23)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_23"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q228",
+    "query": "What are the statutory requirements under Article 96 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_96"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q229",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 23 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q230",
+    "query": "وفقاً للمادة (69)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_69"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q231",
+    "query": "What are the statutory requirements under Article 81 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_81"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q232",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 25 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_25"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q233",
+    "query": "وفقاً للمادة (80)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_80"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q234",
+    "query": "What are the statutory requirements under Article 12 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_12"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q235",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 21 من القانون رقم 2 لسنة 2015؟",
+    "gold_article_keys": [
+      "2_2015_21"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q236",
+    "query": "وفقاً للمادة (24)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_24"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q237",
+    "query": "What are the statutory requirements under Article 11 of Law No 20 of 2018?",
+    "gold_article_keys": [
+      "20_2018_11"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q238",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 24 من القانون رقم 36 لسنة 1992؟",
+    "gold_article_keys": [
+      "36_1992_24"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q239",
+    "query": "وفقاً للمادة (43)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_43"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q240",
+    "query": "What are the statutory requirements under Article 26 of Law No 36 of 1992?",
+    "gold_article_keys": [
+      "36_1992_26"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q241",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 18 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_18"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q242",
+    "query": "وفقاً للمادة (46)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_46"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q243",
+    "query": "What are the statutory requirements under Article 47 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_47"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q244",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 38 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_38"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q245",
+    "query": "وفقاً للمادة (58)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_58"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q246",
+    "query": "What are the statutory requirements under Article 9 of Law No 20 of 2018?",
+    "gold_article_keys": [
+      "20_2018_9"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q247",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 86 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q248",
+    "query": "وفقاً للمادة (7)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_7"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q249",
+    "query": "What are the statutory requirements under Article 22 of Law No 43 of 1992?",
+    "gold_article_keys": [
+      "43_1992_22"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q250",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 42 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_42"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q251",
+    "query": "وفقاً للمادة (53)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_53"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q252",
+    "query": "What are the statutory requirements under Article 1 of Law No 2 of 2015?",
+    "gold_article_keys": [
+      "2_2015_1"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q253",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 24 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_24"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q254",
+    "query": "وفقاً للمادة (25)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "130_1997_25"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q255",
+    "query": "What are the statutory requirements under Article 37 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_37"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q256",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 1 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_1"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q257",
+    "query": "وفقاً للمادة (26)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "20_2018_26"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q258",
+    "query": "What are the statutory requirements under Article 27 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_27"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q259",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 9 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_9"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q260",
+    "query": "وفقاً للمادة (29)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "20_2018_29"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q261",
+    "query": "What are the statutory requirements under Article 115 of Law No 471 of 1995?",
+    "gold_article_keys": [
+      "471_1995_115"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q262",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 66 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_66"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q263",
+    "query": "وفقاً للمادة (2)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_2"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q264",
+    "query": "What are the statutory requirements under Article 63 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_63"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q265",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 84 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_84"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q266",
+    "query": "وفقاً للمادة (60)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "43_1992_60"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q267",
+    "query": "What are the statutory requirements under Article 13 of Law No 43 of 1992?",
+    "gold_article_keys": [
+      "43_1992_13"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q268",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 71 من القانون رقم 471 لسنة 1995؟",
+    "gold_article_keys": [
+      "471_1995_71"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q269",
+    "query": "وفقاً للمادة (82)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_82"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q270",
+    "query": "What are the statutory requirements under Article 21 of Law No 36 of 1992?",
+    "gold_article_keys": [
+      "36_1992_21"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q271",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 30 من القانون رقم 130 لسنة 1997؟",
+    "gold_article_keys": [
+      "130_1997_30"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q272",
+    "query": "وفقاً للمادة (27)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "20_2018_27"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q273",
+    "query": "What are the statutory requirements under Article 36 of Law No 10 of 2019?",
+    "gold_article_keys": [
+      "10_2019_36"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q274",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 3 من القانون رقم 2 لسنة 2015؟",
+    "gold_article_keys": [
+      "2_2015_3"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q275",
+    "query": "وفقاً للمادة (59)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "10_2019_59"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q276",
+    "query": "What are the statutory requirements under Article 32 of Law No 43 of 1992?",
+    "gold_article_keys": [
+      "43_1992_32"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q277",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 8 من القانون رقم 20 لسنة 2018؟",
+    "gold_article_keys": [
+      "20_2018_8"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q278",
+    "query": "وفقاً للمادة (14)، ما هي التزامات المنشآت المالية والمهن المحددة؟",
+    "gold_article_keys": [
+      "471_1995_14"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q279",
+    "query": "What are the statutory requirements under Article 68 of Law No 130 of 1997?",
+    "gold_article_keys": [
+      "130_1997_68"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q280",
+    "query": "ما هي العقوبات والشروط المنصوص عليها في المادة 62 من القانون رقم 43 لسنة 1992؟",
+    "gold_article_keys": [
+      "43_1992_62"
+    ],
+    "category": "Mixed Semantic + Citation",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q281",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات وإجراءات التجميد القضائي؟",
+    "gold_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q282",
+    "query": "What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "gold_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q283",
+    "query": "ما هي العقوبات المقررة قيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "gold_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q284",
+    "query": "ما هي ضوابط وتراخيص الزيارات العادية والاستثنائية في المنشآت العقابية؟",
+    "gold_article_keys": [
+      "43_1992_15",
+      "471_1995_32"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q285",
+    "query": "ما هي إجراءات رد الاعتبار بحكم المحكمة والشروط الواجب توافرها في الطالب؟",
+    "gold_article_keys": [
+      "36_1992_2",
+      "36_1992_4"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q286",
+    "query": "What actions must be taken upon detecting a suspicious transaction under UAE AML regulations?",
+    "gold_article_keys": [
+      "20_2018_15",
+      "10_2019_17"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q287",
+    "query": "ما هي عقوبات التمييز وإثارة الكراهية وازدراء الأديان في القانون الإماراتي؟",
+    "gold_article_keys": [
+      "2_2015_4",
+      "2_2015_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q288",
+    "query": "ما هي الصلاحيات والمسؤوليات المسندة لوحدة المعلومات المالية في الرقابة والتحقيق؟",
+    "gold_article_keys": [
+      "20_2018_9",
+      "10_2019_23"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q289",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات وإجراءات التجميد القضائي؟",
+    "gold_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q290",
+    "query": "What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "gold_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q291",
+    "query": "ما هي العقوبات المقررة قيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "gold_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q292",
+    "query": "ما هي ضوابط وتراخيص الزيارات العادية والاستثنائية في المنشآت العقابية؟",
+    "gold_article_keys": [
+      "43_1992_15",
+      "471_1995_32"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q293",
+    "query": "ما هي إجراءات رد الاعتبار بحكم المحكمة والشروط الواجب توافرها في الطالب؟",
+    "gold_article_keys": [
+      "36_1992_2",
+      "36_1992_4"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q294",
+    "query": "What actions must be taken upon detecting a suspicious transaction under UAE AML regulations?",
+    "gold_article_keys": [
+      "20_2018_15",
+      "10_2019_17"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q295",
+    "query": "ما هي عقوبات التمييز وإثارة الكراهية وازدراء الأديان في القانون الإماراتي؟",
+    "gold_article_keys": [
+      "2_2015_4",
+      "2_2015_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q296",
+    "query": "ما هي الصلاحيات والمسؤوليات المسندة لوحدة المعلومات المالية في الرقابة والتحقيق؟",
+    "gold_article_keys": [
+      "20_2018_9",
+      "10_2019_23"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q297",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات وإجراءات التجميد القضائي؟",
+    "gold_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q298",
+    "query": "What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "gold_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q299",
+    "query": "ما هي العقوبات المقررة قيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "gold_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q300",
+    "query": "ما هي ضوابط وتراخيص الزيارات العادية والاستثنائية في المنشآت العقابية؟",
+    "gold_article_keys": [
+      "43_1992_15",
+      "471_1995_32"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q301",
+    "query": "ما هي إجراءات رد الاعتبار بحكم المحكمة والشروط الواجب توافرها في الطالب؟",
+    "gold_article_keys": [
+      "36_1992_2",
+      "36_1992_4"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q302",
+    "query": "What actions must be taken upon detecting a suspicious transaction under UAE AML regulations?",
+    "gold_article_keys": [
+      "20_2018_15",
+      "10_2019_17"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q303",
+    "query": "ما هي عقوبات التمييز وإثارة الكراهية وازدراء الأديان في القانون الإماراتي؟",
+    "gold_article_keys": [
+      "2_2015_4",
+      "2_2015_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q304",
+    "query": "ما هي الصلاحيات والمسؤوليات المسندة لوحدة المعلومات المالية في الرقابة والتحقيق؟",
+    "gold_article_keys": [
+      "20_2018_9",
+      "10_2019_23"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q305",
+    "query": "ما هي تعريفات الجريمة الأصلية والمتحصلات وإجراءات التجميد القضائي؟",
+    "gold_article_keys": [
+      "20_2018_1",
+      "10_2019_1"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q306",
+    "query": "What are the statutory obligations of Financial Institutions regarding Customer Due Diligence (CDD)?",
+    "gold_article_keys": [
+      "20_2018_8",
+      "10_2019_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q307",
+    "query": "ما هي العقوبات المقررة قيادة مركبة تحت تأثير المواد المخدرة أو الكحولية؟",
+    "gold_article_keys": [
+      "130_1997_115",
+      "130_1997_116"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q308",
+    "query": "ما هي ضوابط وتراخيص الزيارات العادية والاستثنائية في المنشآت العقابية؟",
+    "gold_article_keys": [
+      "43_1992_15",
+      "471_1995_32"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q309",
+    "query": "ما هي إجراءات رد الاعتبار بحكم المحكمة والشروط الواجب توافرها في الطالب؟",
+    "gold_article_keys": [
+      "36_1992_2",
+      "36_1992_4"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q310",
+    "query": "What actions must be taken upon detecting a suspicious transaction under UAE AML regulations?",
+    "gold_article_keys": [
+      "20_2018_15",
+      "10_2019_17"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q311",
+    "query": "ما هي عقوبات التمييز وإثارة الكراهية وازدراء الأديان في القانون الإماراتي؟",
+    "gold_article_keys": [
+      "2_2015_4",
+      "2_2015_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q312",
+    "query": "ما هي الصلاحيات والمسؤوليات المسندة لوحدة المعلومات المالية في الرقابة والتحقيق؟",
+    "gold_article_keys": [
+      "20_2018_9",
+      "10_2019_23"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q313",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ قم (43) لسنة 1992م في شأن تنظيم المنشآت ...؟",
+    "gold_article_keys": [
+      "471_1995_58"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q314",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ سجون في حدود العقوبات المقرره وفقالا حكا...؟",
+    "gold_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q315",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_22"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q316",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ الاتحادي لسنه 1995 م في شان السيرو المرو...؟",
+    "gold_article_keys": [
+      "130_1997_53"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q317",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_24"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q318",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_37"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q319",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ وال يملكها الجاني تعادل قيمه الاموال وال...؟",
+    "gold_article_keys": [
+      "20_2018_26"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q320",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ اده 9 )\n\nبالمسجون باستلامه علي صوره امر ...؟",
+    "gold_article_keys": [
+      "471_1995_9"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q321",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_115"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q322",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_2"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q323",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_84"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q324",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_13"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q325",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_82"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q326",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ 30 ) مكرر\n\nيلتزم قائد المر كبه الذي يجري...؟",
+    "gold_article_keys": [
+      "130_1997_30"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q327",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار مجلس الوزراء رقم (10) لسنة 201...؟",
+    "gold_article_keys": [
+      "10_2019_36"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q328",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ الامن الماده (60)\n\nيجب الدوله ام الفوري ...؟",
+    "gold_article_keys": [
+      "10_2019_59"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q329",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (20) لسنة 2...؟",
+    "gold_article_keys": [
+      "20_2018_8"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q330",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_68"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q331",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ ع التقارير والفحوص الطبيه والنفسيه وتذاك...؟",
+    "gold_article_keys": [
+      "471_1995_11"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q332",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_39"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q333",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_107"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q334",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_67"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q335",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_99"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q336",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_98"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q337",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_48"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q338",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (20) لسنة 2...؟",
+    "gold_article_keys": [
+      "20_2018_31"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q339",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_52"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q340",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ كمه التي اصدرت الحكم بالعقوبه وتحكم المح...؟",
+    "gold_article_keys": [
+      "43_1992_45"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q341",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_54"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q342",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (36) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "36_1992_22"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q343",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (36) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "36_1992_9"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q344",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_51"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q345",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_31"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q346",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_8"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q347",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_116"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q348",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_28"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q349",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_77"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q350",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_55"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q351",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_15"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q352",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_64"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q353",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (2) لسنة 20...؟",
+    "gold_article_keys": [
+      "2_2015_20"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q354",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_26"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q355",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_12"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q356",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_80"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q357",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (36) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "36_1992_4"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q358",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_56"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q359",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_109"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q360",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_190"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q361",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_111"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q362",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_9"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q363",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_55"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q364",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_60"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q365",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ وغيره للخطر\n\nLAW: قرار وزاري رقم (130) ل...؟",
+    "gold_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q366",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ انون غسل الأموال.pdf\nSECTION: الماده (20...؟",
+    "gold_article_keys": [
+      "10_2019_31"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q367",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_69"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q368",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ اذج التي تعدها الاداره المختصه :\n\n8 . ال...؟",
+    "gold_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q369",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_76"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q370",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ ) لسنة 1992 في شأن تنظيم المنشآت العقابي...؟",
+    "gold_article_keys": [
+      "43_1992_33"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q371",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ ه\n\nLAW: قرار وزاري رقم (130) لسنة 1997 ب...؟",
+    "gold_article_keys": [
+      "130_1997_160"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q372",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ يذية للقانون الاتحادي رقم (21) لسنة 1995...؟",
+    "gold_article_keys": [
+      "130_1997_31"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q373",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_19"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q374",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ اتحادي رقم (43) لسنة 1992م في شأن تنظيم ...؟",
+    "gold_article_keys": [
+      "471_1995_2"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q375",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ العقابية.pdf\nSECTION: الجز اءات التاديبي...؟",
+    "gold_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q376",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ ادي رقم (43) لسنة 1992 في شأن تنظيم المن...؟",
+    "gold_article_keys": [
+      "43_1992_59"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q377",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_14"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q378",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ اتحادي رقم لسنه 2018 بشان مواجهه جرائم غ...؟",
+    "gold_article_keys": [
+      "20_2018_7"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q379",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (20) لسنة 2...؟",
+    "gold_article_keys": [
+      "20_2018_18"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q380",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ ون الاتحادي رقم (43) لسنة 1992م في شأن ت...؟",
+    "gold_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q381",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_50"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q382",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_61"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q383",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ انون اتحادي رقم (43) لسنة 1992 في شأن تن...؟",
+    "gold_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q384",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_57"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q385",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (2) لسنة 20...؟",
+    "gold_article_keys": [
+      "2_2015_9"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q386",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (20) لسنة 2...؟",
+    "gold_article_keys": [
+      "20_2018_21"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q387",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (2) لسنة 20...؟",
+    "gold_article_keys": [
+      "2_2015_2"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q388",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ في شأن تنظيم المنشآت العقابية.pdf\nARTICL...؟",
+    "gold_article_keys": [
+      "471_1995_23"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q389",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q390",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_81"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q391",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (471) لسنة 1995م بإص...؟",
+    "gold_article_keys": [
+      "471_1995_80"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q392",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: مرسوم بقانون اتحادي رقم (2) لسنة 20...؟",
+    "gold_article_keys": [
+      "2_2015_21"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q393",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ مويل الإرهاب وتمويل التنظيمات غير المشرو...؟",
+    "gold_article_keys": [
+      "20_2018_11"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q394",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قرار وزاري رقم (130) لسنة 1997 بإصد...؟",
+    "gold_article_keys": [
+      "130_1997_43"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q395",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_18"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q396",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ قرار وزاري رقم 471 ) لسنه 1995 م باصدار ...؟",
+    "gold_article_keys": [
+      "471_1995_47"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q397",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ قم (43) لسنة 1992م في شأن تنظيم المنشآت ...؟",
+    "gold_article_keys": [
+      "471_1995_58"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q398",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ سجون في حدود العقوبات المقرره وفقالا حكا...؟",
+    "gold_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q399",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ LAW: قانون اتحادي رقم (43) لسنة 1992 في ...؟",
+    "gold_article_keys": [
+      "43_1992_22"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q400",
+    "query": "ما هي الضوابط القانونية والتنظيمية المتعلقة بـ الاتحادي لسنه 1995 م في شان السيرو المرو...؟",
+    "gold_article_keys": [
+      "130_1997_53"
+    ],
+    "category": "Semantic / Multi-hop",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q401",
+    "query": "وبناءً على المادة السابقة رقم 59، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q402",
+    "query": "Follow-up: regarding Article 3, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "43_1992_3"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q403",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_78"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q404",
+    "query": "وبناءً على المادة السابقة رقم 63، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "471_1995_63"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q405",
+    "query": "Follow-up: regarding Article 6, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "471_1995_6"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q406",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_39"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q407",
+    "query": "وبناءً على المادة السابقة رقم 151، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "130_1997_151"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q408",
+    "query": "Follow-up: regarding Article 85, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "130_1997_85"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q409",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "130_1997_160"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q410",
+    "query": "وبناءً على المادة السابقة رقم 1، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "130_1997_1"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q411",
+    "query": "Follow-up: regarding Article 23, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "20_2018_23"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q412",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "10_2019_55"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q413",
+    "query": "وبناءً على المادة السابقة رقم 2، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "471_1995_2"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q414",
+    "query": "Follow-up: regarding Article 90, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "471_1995_90"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q415",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "43_1992_8"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q416",
+    "query": "وبناءً على المادة السابقة رقم 4، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "20_2018_4"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q417",
+    "query": "Follow-up: regarding Article 14, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "130_1997_14"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q418",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "130_1997_57"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q419",
+    "query": "وبناءً على المادة السابقة رقم 48، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "471_1995_48"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q420",
+    "query": "Follow-up: regarding Article 6, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "20_2018_6"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q421",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q422",
+    "query": "وبناءً على المادة السابقة رقم 42، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "43_1992_42"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q423",
+    "query": "Follow-up: regarding Article 47, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "43_1992_47"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q424",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_20"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q425",
+    "query": "وبناءً على المادة السابقة رقم 6، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "43_1992_6"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q426",
+    "query": "Follow-up: regarding Article 58, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "10_2019_58"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q427",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "20_2018_22"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q428",
+    "query": "وبناءً على المادة السابقة رقم 50، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "43_1992_50"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q429",
+    "query": "Follow-up: regarding Article 21, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "20_2018_21"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q430",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "43_1992_27"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q431",
+    "query": "وبناءً على المادة السابقة رقم 21، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "471_1995_21"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q432",
+    "query": "Follow-up: regarding Article 78, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "130_1997_78"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q433",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "43_1992_23"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q434",
+    "query": "وبناءً على المادة السابقة رقم 36، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "43_1992_36"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q435",
+    "query": "Follow-up: regarding Article 25, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "471_1995_25"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q436",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "20_2018_3"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q437",
+    "query": "وبناءً على المادة السابقة رقم 21، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "2_2015_21"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q438",
+    "query": "Follow-up: regarding Article 75, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "471_1995_75"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q439",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "36_1992_24"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q440",
+    "query": "وبناءً على المادة السابقة رقم 108، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "471_1995_108"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q441",
+    "query": "Follow-up: regarding Article 18, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "43_1992_18"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q442",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_26"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q443",
+    "query": "وبناءً على المادة السابقة رقم 38، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "130_1997_38"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q444",
+    "query": "Follow-up: regarding Article 13, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "471_1995_13"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q445",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_86"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q446",
+    "query": "وبناءً على المادة السابقة رقم 65، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "43_1992_65"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q447",
+    "query": "Follow-up: regarding Article 42, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "130_1997_42"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q448",
+    "query": "وما هي التزامات السلطات المختصة وفقاً للمادة التالية للنص المذكور؟",
+    "gold_article_keys": [
+      "471_1995_5"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q449",
+    "query": "وبناءً على المادة السابقة رقم 24، ما هي الاستثناءات المتاحة؟",
+    "gold_article_keys": [
+      "130_1997_24"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q450",
+    "query": "Follow-up: regarding Article 67, how does this apply to foreign entities?",
+    "gold_article_keys": [
+      "471_1995_67"
+    ],
+    "category": "Conversational Follow-up",
+    "difficulty": "Intermediate",
+    "language": "en"
+  },
+  {
+    "query_id": "COMP_Q451",
+    "query": "Explain المادة 59 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "130_1997_59"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q452",
+    "query": "المادة71من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_71"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q453",
+    "query": "المـــادة(39): ما هي الشروط؟",
+    "gold_article_keys": [
+      "43_1992_39"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q454",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "471_1995_39"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q455",
+    "query": "المَادَّةُ (33) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "43_1992_33"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q456",
+    "query": "Explain المادة 51 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "10_2019_51"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q457",
+    "query": "المادة23من قانون غسل الأموال",
+    "gold_article_keys": [
+      "20_2018_23"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q458",
+    "query": "المـــادة(52): ما هي الشروط؟",
+    "gold_article_keys": [
+      "471_1995_52"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q459",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "471_1995_117"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q460",
+    "query": "المَادَّةُ (4) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "20_2018_4"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q461",
+    "query": "Explain المادة 17 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "43_1992_17"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q462",
+    "query": "المادة5من قانون غسل الأموال",
+    "gold_article_keys": [
+      "2_2015_5"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q463",
+    "query": "المـــادة(89): ما هي الشروط؟",
+    "gold_article_keys": [
+      "471_1995_89"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q464",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "471_1995_46"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q465",
+    "query": "المَادَّةُ (64) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "130_1997_64"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q466",
+    "query": "Explain المادة 58 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "10_2019_58"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q467",
+    "query": "المادة9من قانون غسل الأموال",
+    "gold_article_keys": [
+      "2_2015_9"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q468",
+    "query": "المـــادة(87): ما هي الشروط؟",
+    "gold_article_keys": [
+      "471_1995_87"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q469",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "471_1995_21"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q470",
+    "query": "المَادَّةُ (11) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "130_1997_11"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q471",
+    "query": "Explain المادة 81 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "130_1997_81"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q472",
+    "query": "المادة3من قانون غسل الأموال",
+    "gold_article_keys": [
+      "20_2018_3"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q473",
+    "query": "المـــادة(24): ما هي الشروط؟",
+    "gold_article_keys": [
+      "43_1992_24"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q474",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "20_2018_34"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q475",
+    "query": "المَادَّةُ (18) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "43_1992_18"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q476",
+    "query": "Explain المادة 48 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "130_1997_48"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q477",
+    "query": "المادة9من قانون غسل الأموال",
+    "gold_article_keys": [
+      "20_2018_9"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q478",
+    "query": "المـــادة(65): ما هي الشروط؟",
+    "gold_article_keys": [
+      "43_1992_65"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q479",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "130_1997_53"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q480",
+    "query": "المَادَّةُ (95) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "471_1995_95"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q481",
+    "query": "Explain المادة 1 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "43_1992_1"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q482",
+    "query": "المادة82من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_82"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q483",
+    "query": "المـــادة(115): ما هي الشروط؟",
+    "gold_article_keys": [
+      "471_1995_115"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q484",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "130_1997_17"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q485",
+    "query": "المَادَّةُ (60) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "43_1992_60"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q486",
+    "query": "Explain المادة 10 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "471_1995_10"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q487",
+    "query": "المادة30من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_30"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q488",
+    "query": "المـــادة(114): ما هي الشروط؟",
+    "gold_article_keys": [
+      "471_1995_114"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q489",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "43_1992_32"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q490",
+    "query": "المَادَّةُ (18) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "471_1995_18"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q491",
+    "query": "Explain المادة 11 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "471_1995_11"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q492",
+    "query": "المادة22من قانون غسل الأموال",
+    "gold_article_keys": [
+      "130_1997_22"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q493",
+    "query": "المـــادة(6): ما هي الشروط؟",
+    "gold_article_keys": [
+      "130_1997_6"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q494",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "20_2018_17"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q495",
+    "query": "المَادَّةُ (98) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "471_1995_98"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q496",
+    "query": "Explain المادة 188 of Law 20 in Arabic",
+    "gold_article_keys": [
+      "130_1997_188"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q497",
+    "query": "المادة35من قانون غسل الأموال",
+    "gold_article_keys": [
+      "20_2018_35"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q498",
+    "query": "المـــادة(22): ما هي الشروط؟",
+    "gold_article_keys": [
+      "471_1995_22"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q499",
+    "query": "المادة الحادية عشرة من اللائحة التنفيذية",
+    "gold_article_keys": [
+      "471_1995_54"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  },
+  {
+    "query_id": "COMP_Q500",
+    "query": "المَادَّةُ (1) مِنْ القَانُونِ رَقْم 20",
+    "gold_article_keys": [
+      "36_1992_1"
+    ],
+    "category": "Edge Cases & Normalization",
+    "difficulty": "Hard",
+    "language": "ar"
+  }
+]

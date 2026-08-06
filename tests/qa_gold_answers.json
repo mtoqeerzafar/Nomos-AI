@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q01",
+    "query": "ما هو تعريف المستفيد الحقيقي والمنشآت المالية في اللائحة التنفيذية؟",
+    "gold_article_keys": ["10_2019_1", "10_2019_2"],
+    "gold_answer": "FILL_IN: Provide the exact definition of 'beneficial owner' and 'financial institution' as stated in Article 1 and Article 2 of the UAE AML Executive Regulation (Cabinet Decision No. 10 of 2019)."
+  },
+  {
+    "id": "Q04",
+    "query": "المادة 9",
+    "gold_article_keys": ["10_2019_9"],
+    "gold_answer": "FILL_IN: State the exact content of Article 9 of Cabinet Decision No. 10 of 2019 regarding AML obligations."
+  },
+  {
+    "id": "Q06",
+    "query": "كيف يتم التبادل الدولي للمعلومات وتقديم المساعدة القضائية بين الدول؟",
+    "gold_article_keys": ["10_2019_55", "10_2019_57"],
+    "gold_answer": "FILL_IN: Describe the international information exchange and mutual legal assistance procedures as defined in Articles 55 and 57."
+  },
+  {
+    "id": "Q07",
+    "query": "ما هي مهام واختصاصات الجهات الرقابية في الإشراف على المنشآت المالية؟",
+    "gold_article_keys": ["10_2019_44"],
+    "gold_answer": "FILL_IN: Describe the supervisory authority tasks and responsibilities for overseeing financial institutions as defined in Article 44."
+  },
+  {
+    "id": "Q09",
+    "query": "من هم الأشخاص المنكشفون سياسياً وما هي تدابير التعامل معهم؟",
+    "gold_article_keys": ["10_2019_2", "10_2019_14"],
+    "gold_answer": "FILL_IN: Define Politically Exposed Persons (PEPs) and describe the enhanced due diligence measures for dealing with them as in Articles 2 and 14."
+  },
+  {
+    "id": "Q11",
+    "query": "ما هي مدة وسجلات حفظ المستندات والمعاملات المالية؟",
+    "gold_article_keys": ["10_2019_24"],
+    "gold_answer": "FILL_IN: State the document and transaction record retention period and requirements as defined in Article 24."
+  },
+  {
+    "id": "Q14",
+    "query": "What are the beneficial ownership and due diligence obligations?",
+    "gold_article_keys": ["10_2019_1", "10_2019_4", "10_2019_5"],
+    "gold_answer": "FILL_IN: Describe the beneficial ownership identification and customer due diligence (CDD) obligations as defined in Articles 1, 4, and 5."
+  },
+  {
+    "id": "Q24",
+    "query": "ما هي متطلبات العناية المستمرة بالمعاملات والعلاقات التجارية؟",
+    "gold_article_keys": ["10_2019_7"],
+    "gold_answer": "FILL_IN: Describe the ongoing monitoring requirements for transactions and business relationships as defined in Article 7."
+  },
+  {
+    "id": "Q25",
+    "query": "ما هي الآليات الخاصة بتحديد هوية الشخص الاعتباري والترتيب القانوني؟",
+    "gold_article_keys": ["10_2019_8", "10_2019_9"],
+    "gold_answer": "FILL_IN: Describe the identification mechanisms for legal persons and legal arrangements as defined in Articles 8 and 9."
+  },
+  {
+    "id": "Q29",
+    "query": "What are record retention requirements for financial institutions under UAE law?",
+    "gold_article_keys": ["10_2019_24"],
+    "gold_answer": "FILL_IN: State the record retention requirements for financial institutions as specified in Article 24 of Cabinet Decision No. 10 of 2019."
+  }
+]

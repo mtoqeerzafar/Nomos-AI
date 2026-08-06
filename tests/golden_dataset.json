@@ -1,0 +1,82 @@
+[
+  {
+    "id": "AML_001",
+    "question": "ما عقوبة غسل الأموال وفقاً للمرسوم بقانون اتحادي رقم (20) لسنة 2018؟",
+    "expected_document_title": "مرسوم بقانون اتحادي رقم (20) لسنة 2018",
+    "expected_answer_keywords": ["الحبس", "الغرامة", "غسل الأموال", "مصادرة"],
+    "intent_type": "FACT_LOOKUP",
+    "language": "ar"
+  },
+  {
+    "id": "AML_002",
+    "question": "What is the executive regulation of Federal Decree-Law No. (20) of 2018?",
+    "expected_document_title": "قرار مجلس الوزراء رقم (10) لسنة 2019",
+    "expected_answer_keywords": ["Cabinet Resolution No. 10 of 2019", "اللائحة التنفيذية", "Executive Regulation"],
+    "intent_type": "AMENDMENT",
+    "language": "en"
+  },
+  {
+    "id": "PUN_001",
+    "question": "ما هي التزامات المنشأة العقابية تجاه النزلاء وفقاً للقانون الاتحادي رقم 43 لسنة 1992؟",
+    "expected_document_title": "قانون اتحادي رقم (43) لسنة 1992",
+    "expected_answer_keywords": ["النزلاء", "المنشآت العقابية", "رعاية", "صحة"],
+    "intent_type": "SEMANTIC_QUESTION",
+    "language": "ar"
+  },
+  {
+    "id": "PUN_002",
+    "question": "How does Ministerial Resolution No. 471 of 1995 relate to Federal Law No. 43 of 1992?",
+    "expected_document_title": "قرار وزاري رقم (471) لسنة 1995م",
+    "expected_answer_keywords": ["Executive Regulation", "اللائحة التنفيذية", "organizing punitive establishments"],
+    "intent_type": "AMENDMENT",
+    "language": "en"
+  },
+  {
+    "id": "CIV_001",
+    "question": "ما هي القواعد العامة لعقود المعاملات المدنية في القانون الاتحادي رقم (5) لسنة 1985؟",
+    "expected_document_title": "قانون اتحادي رقم (5) لسنة 1985",
+    "expected_answer_keywords": ["المعاملات المدنية", "العقود", "الالتزامات"],
+    "intent_type": "SEMANTIC_QUESTION",
+    "language": "ar"
+  },
+  {
+    "id": "DIS_001",
+    "question": "ما هي الأفعال المجرمة بموجب مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية؟",
+    "expected_document_title": "مرسوم بقانون اتحادي رقم (2) لسنة 2015",
+    "expected_answer_keywords": ["التمييز", "الكراهية", "ازدراء الأديان", "عقوبة"],
+    "intent_type": "FACT_LOOKUP",
+    "language": "ar"
+  },
+  {
+    "id": "TER_001",
+    "question": "ما عقوبة الانضمام لتنظيم إرهابي وفقاً للقانون الاتحادي رقم (7) لسنة 2014؟",
+    "expected_document_title": "قانون اتحادي رقم (7) لسنة 2014",
+    "expected_answer_keywords": ["الإرهابية", "تنظيم إرهابي", "الإعدام", "السجن المؤبد"],
+    "intent_type": "FACT_LOOKUP",
+    "language": "ar"
+  },
+  {
+    "id": "AML_003",
+    "question": "ما هي صلاحيات وحدة المعلومات المالية وفقاً لقرار مجلس الوزراء رقم (10) لسنة 2019؟",
+    "expected_document_title": "قرار مجلس الوزراء رقم (10) لسنة 2019",
+    "expected_answer_keywords": ["وحدة المعلومات المالية", "غسل الأموال", "تحليل", "تقارير المعاملات المشبوهة"],
+    "intent_type": "FACT_LOOKUP",
+    "language": "ar"
+  },
+  {
+    "id": "PUN_003",
+    "question": "ما شروط القبول في المنشأة العقابية للنزيل وفق القانون الاتحادي رقم 43 لعام 1992؟",
+    "expected_document_title": "قانون اتحادي رقم (43) لسنة 1992",
+    "expected_answer_keywords": ["أمر كتابي", "السلطة المختصة", "تفتيش", "حبس"],
+    "intent_type": "FACT_LOOKUP",
+    "language": "ar"
+  },
+  {
+    "id": "DIS_002",
+    "question": "Does Federal Decree-Law No. 2 of 2015 penalize religious contempt?",
+    "expected_document_title": "مرسوم بقانون اتحادي رقم (2) لسنة 2015",
+    "expected_answer_keywords": ["Contempt", "religions", "ازدراء الأديان"],
+    "intent_type": "FACT_LOOKUP",
+    "language": "en"
+  }
+]

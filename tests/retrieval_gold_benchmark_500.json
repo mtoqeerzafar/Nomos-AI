@@ -1,0 +1,4681 @@
+[
+  {
+    "id": "Q01",
+    "query": "ما هو تعريف المستفيد الحقيقي والمنشآت المالية في اللائحة التنفيذية؟",
+    "category": "Definition",
+    "difficulty": "Easy",
+    "gold_article_keys": [
+      "10_2019_1",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q02",
+    "query": "ما هي إجراءات العناية الواجبة تجاه العملاء المستهدفين؟",
+    "category": "Fact Lookup",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_4",
+      "10_2019_5",
+      "10_2019_6"
+    ]
+  },
+  {
+    "id": "Q03",
+    "query": "ما هي التزامات المنشآت المالية والمهن غير المالية المحددة عند الاشتباه في معاملة؟",
+    "category": "Fact Lookup",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_9",
+      "10_2019_15",
+      "10_2019_16"
+    ]
+  },
+  {
+    "id": "Q04",
+    "query": "المادة 9",
+    "category": "Article Lookup",
+    "difficulty": "Easy",
+    "gold_article_keys": [
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q05",
+    "query": "ما هي إجراءات وصلاحيات تجميد وحجز الأموال والمتحصلات المشبوهة من دون إخطار مسبق؟",
+    "category": "Penalty/Seizure",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_47",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q06",
+    "query": "كيف يتم التبادل الدولي للمعلومات وتقديم المساعدة القضائية بين الدول؟",
+    "category": "International Cooperation",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_55",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q07",
+    "query": "ما هي مهام واختصاصات الجهات الرقابية في الإشراف على المنشآت المالية؟",
+    "category": "Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q08",
+    "query": "ما هي صلاحيات وتدابير وحدة المعلومات المالية في تلقي وتحليل البلاغات؟",
+    "category": "FIU Powers",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40",
+      "10_2019_41"
+    ]
+  },
+  {
+    "id": "Q09",
+    "query": "من هم الأشخاص المنكشفون سياسياً وما هي تدابير التعامل معهم؟",
+    "category": "PEPs",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_2",
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q10",
+    "query": "ما هي التدابير المشددة المطبقة على الدول عالية المخاطر؟",
+    "category": "High Risk Countries",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q11",
+    "query": "ما هي مدة وسجلات حفظ المستندات والمعاملات المالية؟",
+    "category": "Record Keeping",
+    "difficulty": "Easy",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q12",
+    "query": "ما هي أحكام حظر الإفصاح السرية عن البلاغات المشبوهة؟",
+    "category": "Confidentiality",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q13",
+    "query": "ما العقوبات الإدارية التي تفرضها الجهة الرقابية عند مخالفة قواعد غسل الأموال؟",
+    "category": "Paraphrase",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q14",
+    "query": "What are the beneficial ownership and due diligence obligations?",
+    "category": "English Query",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_1",
+      "10_2019_4",
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q15",
+    "query": "What are the powers regarding freezing and seizing assets related to money laundering?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_47",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q16",
+    "query": "ما هي استثناءات تطبيق العناية الواجبة المبسطة؟",
+    "category": "Exception Clauses",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_10",
+      "10_2019_11"
+    ]
+  },
+  {
+    "id": "Q17",
+    "query": "ما الفرق بين المستفيد الحقيقي والعميل حسب المادة 1 والمادة 2؟",
+    "category": "Comparison",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_1",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q18",
+    "query": "ما هي التزامات البنوك والمؤسسات المالية تجاه الحسابات المصرفية المجهولة؟",
+    "category": "Legal Wording",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q19",
+    "query": "ما هي قواعد الضوابط والرقابة الداخلية لمكافحة غسل الأموال؟",
+    "category": "Internal Controls",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_20"
+    ]
+  },
+  {
+    "id": "Q20",
+    "query": "ما هي شروط العلاقات المصرفية المراثلة عبر الحدود؟",
+    "category": "Correspondent Banking",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q21",
+    "query": "ما هي التزامات المهن والأعمال غير المالية المحددة مثل المحامين والمحاسبين وتجار المعادن النفيسة؟",
+    "category": "DNFBPs",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_3",
+      "10_2019_19"
+    ]
+  },
+  {
+    "id": "Q22",
+    "query": "تجميد",
+    "category": "One-word Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_47",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q23",
+    "query": "وحدة المعلومات",
+    "category": "One-word Query",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_40"
+    ]
+  },
+  {
+    "id": "Q24",
+    "query": "ما هي متطلبات العناية المستمرة بالمعاملات والعلاقات التجارية؟",
+    "category": "Ongoing Monitoring",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q25",
+    "query": "ما هي الآليات الخاصة بتحديد هوية الشخص الاعتباري والترتيب القانوني؟",
+    "category": "Legal Entities",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q26",
+    "query": "ما هي إجراءات الإبلاغ الفوري عن العمليات المشبوهة إلى وحدة المعلومات المالية؟",
+    "category": "STR Reporting",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q27",
+    "query": "ما هي شروط الحظر وعدم الجواز المنصوص عليها في المادة 3 والمادة 17؟",
+    "category": "Cross-reference",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_3",
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q28",
+    "query": "How are high risk customers and transactions defined and managed?",
+    "category": "English Query",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q29",
+    "query": "What are record retention requirements for financial institutions under UAE law?",
+    "category": "English Query",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q30",
+    "query": "ما هي صلاحيات اللجنة الوطنية لمواجهة غسل الأموال ومكافحة تمويل الإرهاب؟",
+    "category": "National Committee",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37",
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q031",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 5 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_32",
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q032",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 23؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23"
+    ]
+  },
+  {
+    "id": "Q033",
+    "query": "What procedures must reporting entities execute to comply with Article 8 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q034",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 25 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_17",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q035",
+    "query": "كيف تنظم المادة 53 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53"
+    ]
+  },
+  {
+    "id": "Q036",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 49 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49"
+    ]
+  },
+  {
+    "id": "Q037",
+    "query": "What are the specific legal requirements set out in Article 57 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_24",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q038",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 32؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32"
+    ]
+  },
+  {
+    "id": "Q039",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 26 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q040",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 16 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q041",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 17 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q042",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 43 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q043",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 28 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28",
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q044",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 24؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q045",
+    "query": "What procedures must reporting entities execute to comply with Article 52 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q046",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 62 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_35",
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q047",
+    "query": "كيف تنظم المادة 51 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q048",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 58 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q049",
+    "query": "What are the specific legal requirements set out in Article 36 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36",
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q050",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 37؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q051",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 1 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q052",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 22 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_4",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q053",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 35 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35"
+    ]
+  },
+  {
+    "id": "Q054",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 18 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q055",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 13 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_30",
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q056",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 14؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q057",
+    "query": "What procedures must reporting entities execute to comply with Article 40 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40"
+    ]
+  },
+  {
+    "id": "Q058",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 60 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60",
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q059",
+    "query": "كيف تنظم المادة 4 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q060",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 47 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q061",
+    "query": "What are the specific legal requirements set out in Article 31 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_7",
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q062",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 30؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30"
+    ]
+  },
+  {
+    "id": "Q063",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 44 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q064",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 2 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_59",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q065",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 42 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q066",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 45 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q067",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 9 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_56",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q068",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 7؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q069",
+    "query": "What procedures must reporting entities execute to comply with Article 21 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q070",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 46 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_38",
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q071",
+    "query": "كيف تنظم المادة 59 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59"
+    ]
+  },
+  {
+    "id": "Q072",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 33 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q073",
+    "query": "What are the specific legal requirements set out in Article 6 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6",
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q074",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 56؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q075",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 20 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20"
+    ]
+  },
+  {
+    "id": "Q076",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 11 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11",
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q077",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 38 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q078",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 15 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q079",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 19 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19",
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q080",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 54؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q081",
+    "query": "What procedures must reporting entities execute to comply with Article 41 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41"
+    ]
+  },
+  {
+    "id": "Q082",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 10 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_5",
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q083",
+    "query": "كيف تنظم المادة 55 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q084",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 27 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q085",
+    "query": "What are the specific legal requirements set out in Article 12 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q086",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 48؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q087",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 29 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q088",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 3 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q089",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 5 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q090",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 23 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23"
+    ]
+  },
+  {
+    "id": "Q091",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 8 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q092",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 25؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q093",
+    "query": "What procedures must reporting entities execute to comply with Article 53 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53"
+    ]
+  },
+  {
+    "id": "Q094",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 49 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49",
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q095",
+    "query": "كيف تنظم المادة 57 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q096",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 32 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32"
+    ]
+  },
+  {
+    "id": "Q097",
+    "query": "What are the specific legal requirements set out in Article 26 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_62",
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q098",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 16؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16"
+    ]
+  },
+  {
+    "id": "Q099",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 17 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q100",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 43 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_36",
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q101",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 28 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q102",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 24 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q103",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 52 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q104",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 62؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q105",
+    "query": "What procedures must reporting entities execute to comply with Article 51 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q106",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 58 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_13",
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q107",
+    "query": "كيف تنظم المادة 36 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36"
+    ]
+  },
+  {
+    "id": "Q108",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 37 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q109",
+    "query": "What are the specific legal requirements set out in Article 1 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_60",
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q110",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 22؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q111",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 35 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35"
+    ]
+  },
+  {
+    "id": "Q112",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 18 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_31",
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q113",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 13 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q114",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 14 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q115",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 40 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q116",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 60؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60"
+    ]
+  },
+  {
+    "id": "Q117",
+    "query": "What procedures must reporting entities execute to comply with Article 4 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q118",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 47 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q119",
+    "query": "كيف تنظم المادة 31 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q120",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 30 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30"
+    ]
+  },
+  {
+    "id": "Q121",
+    "query": "What are the specific legal requirements set out in Article 44 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44",
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q122",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 2؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q123",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 42 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q124",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 45 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_6",
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q125",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 9 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q126",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 7 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q127",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 21 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_11",
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q128",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 46؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q129",
+    "query": "What procedures must reporting entities execute to comply with Article 59 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59"
+    ]
+  },
+  {
+    "id": "Q130",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 33 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_19",
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q131",
+    "query": "كيف تنظم المادة 6 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6"
+    ]
+  },
+  {
+    "id": "Q132",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 56 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q133",
+    "query": "What are the specific legal requirements set out in Article 20 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20",
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q134",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 11؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11"
+    ]
+  },
+  {
+    "id": "Q135",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 38 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q136",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 15 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_12",
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q137",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 19 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19"
+    ]
+  },
+  {
+    "id": "Q138",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 54 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q139",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 41 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41",
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q140",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 10؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q141",
+    "query": "What procedures must reporting entities execute to comply with Article 55 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q142",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 27 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_8",
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q143",
+    "query": "كيف تنظم المادة 12 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12"
+    ]
+  },
+  {
+    "id": "Q144",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 48 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q145",
+    "query": "What are the specific legal requirements set out in Article 29 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_49",
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q146",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 3؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q147",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 5 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q148",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 23 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23",
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q149",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 8 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q150",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 25 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q151",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 53 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53",
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q152",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 49؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49"
+    ]
+  },
+  {
+    "id": "Q153",
+    "query": "What procedures must reporting entities execute to comply with Article 57 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q154",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 32 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32",
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q155",
+    "query": "كيف تنظم المادة 26 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q156",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 16 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16"
+    ]
+  },
+  {
+    "id": "Q157",
+    "query": "What are the specific legal requirements set out in Article 17 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_58",
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q158",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 43؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q159",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 28 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q160",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 24 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24",
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q161",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 52 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q162",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 62 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q163",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 51 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51",
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q164",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 58؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q165",
+    "query": "What procedures must reporting entities execute to comply with Article 36 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36"
+    ]
+  },
+  {
+    "id": "Q166",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 37 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_40",
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q167",
+    "query": "كيف تنظم المادة 1 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q168",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 22 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q169",
+    "query": "What are the specific legal requirements set out in Article 35 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35",
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q170",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 18؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q171",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 13 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q172",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 14 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_44",
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q173",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 40 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40"
+    ]
+  },
+  {
+    "id": "Q174",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 60 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60"
+    ]
+  },
+  {
+    "id": "Q175",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 4 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_45",
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q176",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 47؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q177",
+    "query": "What procedures must reporting entities execute to comply with Article 31 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q178",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 30 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30",
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q179",
+    "query": "كيف تنظم المادة 44 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q180",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 2 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q181",
+    "query": "What are the specific legal requirements set out in Article 42 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42",
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q182",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 45؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q183",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 9 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q184",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 7 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_20",
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q185",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 21 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q186",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 46 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q187",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 59 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59",
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q188",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 33؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q189",
+    "query": "What procedures must reporting entities execute to comply with Article 6 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6"
+    ]
+  },
+  {
+    "id": "Q190",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 56 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_41",
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q191",
+    "query": "كيف تنظم المادة 20 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20"
+    ]
+  },
+  {
+    "id": "Q192",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 11 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11"
+    ]
+  },
+  {
+    "id": "Q193",
+    "query": "What are the specific legal requirements set out in Article 38 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38",
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q194",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 15؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q195",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 19 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19"
+    ]
+  },
+  {
+    "id": "Q196",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 54 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54",
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q197",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 41 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41"
+    ]
+  },
+  {
+    "id": "Q198",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 10 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q199",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 55 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_23",
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q200",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 27؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q201",
+    "query": "What procedures must reporting entities execute to comply with Article 12 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12"
+    ]
+  },
+  {
+    "id": "Q202",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 48 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_53",
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q203",
+    "query": "كيف تنظم المادة 29 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q204",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 3 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q205",
+    "query": "What are the specific legal requirements set out in Article 5 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_32",
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q206",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 23؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23"
+    ]
+  },
+  {
+    "id": "Q207",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 8 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q208",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 25 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_17",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q209",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 53 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53"
+    ]
+  },
+  {
+    "id": "Q210",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 49 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49"
+    ]
+  },
+  {
+    "id": "Q211",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 57 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_24",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q212",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 32؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32"
+    ]
+  },
+  {
+    "id": "Q213",
+    "query": "What procedures must reporting entities execute to comply with Article 26 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q214",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 16 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q215",
+    "query": "كيف تنظم المادة 17 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q216",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 43 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q217",
+    "query": "What are the specific legal requirements set out in Article 28 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28",
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q218",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 24؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q219",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 52 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q220",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 62 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_35",
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q221",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 51 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q222",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 58 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q223",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 36 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36",
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q224",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 37؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q225",
+    "query": "What procedures must reporting entities execute to comply with Article 1 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q226",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 22 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_4",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q227",
+    "query": "كيف تنظم المادة 35 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35"
+    ]
+  },
+  {
+    "id": "Q228",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 18 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q229",
+    "query": "What are the specific legal requirements set out in Article 13 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_30",
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q230",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 14؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q231",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 40 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40"
+    ]
+  },
+  {
+    "id": "Q232",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 60 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60",
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q233",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 4 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q234",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 47 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q235",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 31 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_7",
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q236",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 30؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30"
+    ]
+  },
+  {
+    "id": "Q237",
+    "query": "What procedures must reporting entities execute to comply with Article 44 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q238",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 2 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_59",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q239",
+    "query": "كيف تنظم المادة 42 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q240",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 45 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q241",
+    "query": "What are the specific legal requirements set out in Article 9 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_56",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q242",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 7؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q243",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 21 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q244",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 46 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_38",
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q245",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 59 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59"
+    ]
+  },
+  {
+    "id": "Q246",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 33 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q247",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 6 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6",
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q248",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 56؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q249",
+    "query": "What procedures must reporting entities execute to comply with Article 20 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20"
+    ]
+  },
+  {
+    "id": "Q250",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 11 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11",
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q251",
+    "query": "كيف تنظم المادة 38 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q252",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 15 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q253",
+    "query": "What are the specific legal requirements set out in Article 19 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19",
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q254",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 54؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q255",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 41 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41"
+    ]
+  },
+  {
+    "id": "Q256",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 10 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_5",
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q257",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 55 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q258",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 27 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q259",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 12 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q260",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 48؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q261",
+    "query": "What procedures must reporting entities execute to comply with Article 29 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q262",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 3 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q263",
+    "query": "كيف تنظم المادة 5 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q264",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 23 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23"
+    ]
+  },
+  {
+    "id": "Q265",
+    "query": "What are the specific legal requirements set out in Article 8 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q266",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 25؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q267",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 53 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53"
+    ]
+  },
+  {
+    "id": "Q268",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 49 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49",
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q269",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 57 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q270",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 32 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32"
+    ]
+  },
+  {
+    "id": "Q271",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 26 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_62",
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q272",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 16؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16"
+    ]
+  },
+  {
+    "id": "Q273",
+    "query": "What procedures must reporting entities execute to comply with Article 17 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q274",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 43 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_36",
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q275",
+    "query": "كيف تنظم المادة 28 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q276",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 24 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q277",
+    "query": "What are the specific legal requirements set out in Article 52 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q278",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 62؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q279",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 51 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q280",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 58 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_13",
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q281",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 36 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36"
+    ]
+  },
+  {
+    "id": "Q282",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 37 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q283",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 1 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_60",
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q284",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 22؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q285",
+    "query": "What procedures must reporting entities execute to comply with Article 35 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35"
+    ]
+  },
+  {
+    "id": "Q286",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 18 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_31",
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q287",
+    "query": "كيف تنظم المادة 13 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q288",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 14 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q289",
+    "query": "What are the specific legal requirements set out in Article 40 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q290",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 60؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60"
+    ]
+  },
+  {
+    "id": "Q291",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 4 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q292",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 47 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q293",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 31 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q294",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 30 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30"
+    ]
+  },
+  {
+    "id": "Q295",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 44 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44",
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q296",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 2؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q297",
+    "query": "What procedures must reporting entities execute to comply with Article 42 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q298",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 45 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_6",
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q299",
+    "query": "كيف تنظم المادة 9 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q300",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 7 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q301",
+    "query": "What are the specific legal requirements set out in Article 21 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_11",
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q302",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 46؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q303",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 59 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59"
+    ]
+  },
+  {
+    "id": "Q304",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 33 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_19",
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q305",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 6 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6"
+    ]
+  },
+  {
+    "id": "Q306",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 56 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q307",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 20 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20",
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q308",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 11؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11"
+    ]
+  },
+  {
+    "id": "Q309",
+    "query": "What procedures must reporting entities execute to comply with Article 38 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q310",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 15 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_12",
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q311",
+    "query": "كيف تنظم المادة 19 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19"
+    ]
+  },
+  {
+    "id": "Q312",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 54 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q313",
+    "query": "What are the specific legal requirements set out in Article 41 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41",
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q314",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 10؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q315",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 55 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q316",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 27 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_8",
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q317",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 12 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12"
+    ]
+  },
+  {
+    "id": "Q318",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 48 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q319",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 29 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_49",
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q320",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 3؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q321",
+    "query": "What procedures must reporting entities execute to comply with Article 5 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q322",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 23 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23",
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q323",
+    "query": "كيف تنظم المادة 8 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q324",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 25 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q325",
+    "query": "What are the specific legal requirements set out in Article 53 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53",
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q326",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 49؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49"
+    ]
+  },
+  {
+    "id": "Q327",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 57 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q328",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 32 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32",
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q329",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 26 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q330",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 16 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16"
+    ]
+  },
+  {
+    "id": "Q331",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 17 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_58",
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q332",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 43؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q333",
+    "query": "What procedures must reporting entities execute to comply with Article 28 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q334",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 24 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24",
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q335",
+    "query": "كيف تنظم المادة 52 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q336",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 62 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q337",
+    "query": "What are the specific legal requirements set out in Article 51 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51",
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q338",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 58؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q339",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 36 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36"
+    ]
+  },
+  {
+    "id": "Q340",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 37 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_40",
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q341",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 1 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q342",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 22 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q343",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 35 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35",
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q344",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 18؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q345",
+    "query": "What procedures must reporting entities execute to comply with Article 13 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q346",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 14 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_44",
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q347",
+    "query": "كيف تنظم المادة 40 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40"
+    ]
+  },
+  {
+    "id": "Q348",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 60 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60"
+    ]
+  },
+  {
+    "id": "Q349",
+    "query": "What are the specific legal requirements set out in Article 4 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_45",
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q350",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 47؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q351",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 31 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q352",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 30 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30",
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q353",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 44 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q354",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 2 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q355",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 42 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42",
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q356",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 45؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q357",
+    "query": "What procedures must reporting entities execute to comply with Article 9 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q358",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 7 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_20",
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q359",
+    "query": "كيف تنظم المادة 21 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q360",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 46 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q361",
+    "query": "What are the specific legal requirements set out in Article 59 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59",
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q362",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 33؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q363",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 6 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6"
+    ]
+  },
+  {
+    "id": "Q364",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 56 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_41",
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q365",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 20 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20"
+    ]
+  },
+  {
+    "id": "Q366",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 11 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11"
+    ]
+  },
+  {
+    "id": "Q367",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 38 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38",
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q368",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 15؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q369",
+    "query": "What procedures must reporting entities execute to comply with Article 19 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19"
+    ]
+  },
+  {
+    "id": "Q370",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 54 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54",
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q371",
+    "query": "كيف تنظم المادة 41 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41"
+    ]
+  },
+  {
+    "id": "Q372",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 10 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q373",
+    "query": "What are the specific legal requirements set out in Article 55 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_23",
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q374",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 27؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q375",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 12 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12"
+    ]
+  },
+  {
+    "id": "Q376",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 48 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_53",
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q377",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 29 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q378",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 3 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q379",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 5 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_32",
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q380",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 23؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23"
+    ]
+  },
+  {
+    "id": "Q381",
+    "query": "What procedures must reporting entities execute to comply with Article 8 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q382",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 25 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_17",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q383",
+    "query": "كيف تنظم المادة 53 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53"
+    ]
+  },
+  {
+    "id": "Q384",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 49 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49"
+    ]
+  },
+  {
+    "id": "Q385",
+    "query": "What are the specific legal requirements set out in Article 57 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_24",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q386",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 32؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32"
+    ]
+  },
+  {
+    "id": "Q387",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 26 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q388",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 16 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q389",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 17 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q390",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 43 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q391",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 28 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28",
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q392",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 24؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q393",
+    "query": "What procedures must reporting entities execute to comply with Article 52 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52"
+    ]
+  },
+  {
+    "id": "Q394",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 62 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_35",
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q395",
+    "query": "كيف تنظم المادة 51 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q396",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 58 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q397",
+    "query": "What are the specific legal requirements set out in Article 36 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36",
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q398",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 37؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q399",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 1 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q400",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 22 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_4",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q401",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 35 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35"
+    ]
+  },
+  {
+    "id": "Q402",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 18 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q403",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 13 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_30",
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q404",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 14؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q405",
+    "query": "What procedures must reporting entities execute to comply with Article 40 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40"
+    ]
+  },
+  {
+    "id": "Q406",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 60 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60",
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q407",
+    "query": "كيف تنظم المادة 4 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q408",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 47 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47"
+    ]
+  },
+  {
+    "id": "Q409",
+    "query": "What are the specific legal requirements set out in Article 31 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_7",
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q410",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 30؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30"
+    ]
+  },
+  {
+    "id": "Q411",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 44 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44"
+    ]
+  },
+  {
+    "id": "Q412",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 2 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_59",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q413",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 42 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q414",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 45 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q415",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 9 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_56",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q416",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 7؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q417",
+    "query": "What procedures must reporting entities execute to comply with Article 21 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q418",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 46 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_38",
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q419",
+    "query": "كيف تنظم المادة 59 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59"
+    ]
+  },
+  {
+    "id": "Q420",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 33 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q421",
+    "query": "What are the specific legal requirements set out in Article 6 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6",
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q422",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 56؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q423",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 20 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20"
+    ]
+  },
+  {
+    "id": "Q424",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 11 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11",
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q425",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 38 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q426",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 15 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q427",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 19 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19",
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q428",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 54؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q429",
+    "query": "What procedures must reporting entities execute to comply with Article 41 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41"
+    ]
+  },
+  {
+    "id": "Q430",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 10 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_5",
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q431",
+    "query": "كيف تنظم المادة 55 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q432",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 27 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q433",
+    "query": "What are the specific legal requirements set out in Article 12 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12",
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q434",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 48؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q435",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 29 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q436",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 3 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3",
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q437",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 5 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q438",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 23 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23"
+    ]
+  },
+  {
+    "id": "Q439",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 8 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_16",
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q440",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 25؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q441",
+    "query": "What procedures must reporting entities execute to comply with Article 53 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53"
+    ]
+  },
+  {
+    "id": "Q442",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 49 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49",
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q443",
+    "query": "كيف تنظم المادة 57 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_57"
+    ]
+  },
+  {
+    "id": "Q444",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 32 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_32"
+    ]
+  },
+  {
+    "id": "Q445",
+    "query": "What are the specific legal requirements set out in Article 26 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_62",
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q446",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 16؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_16"
+    ]
+  },
+  {
+    "id": "Q447",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 17 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_17"
+    ]
+  },
+  {
+    "id": "Q448",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 43 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_36",
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q449",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 28 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_28"
+    ]
+  },
+  {
+    "id": "Q450",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 24 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_24"
+    ]
+  },
+  {
+    "id": "Q451",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 52 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_52",
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q452",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 62؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_62"
+    ]
+  },
+  {
+    "id": "Q453",
+    "query": "What procedures must reporting entities execute to comply with Article 51 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_51"
+    ]
+  },
+  {
+    "id": "Q454",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 58 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_13",
+      "10_2019_58"
+    ]
+  },
+  {
+    "id": "Q455",
+    "query": "كيف تنظم المادة 36 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_36"
+    ]
+  },
+  {
+    "id": "Q456",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 37 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_37"
+    ]
+  },
+  {
+    "id": "Q457",
+    "query": "What are the specific legal requirements set out in Article 1 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_60",
+      "10_2019_1"
+    ]
+  },
+  {
+    "id": "Q458",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 22؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_22"
+    ]
+  },
+  {
+    "id": "Q459",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 35 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_35"
+    ]
+  },
+  {
+    "id": "Q460",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 18 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_31",
+      "10_2019_18"
+    ]
+  },
+  {
+    "id": "Q461",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 13 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_13"
+    ]
+  },
+  {
+    "id": "Q462",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 14 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_14"
+    ]
+  },
+  {
+    "id": "Q463",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 40 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_40",
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q464",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 60؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_60"
+    ]
+  },
+  {
+    "id": "Q465",
+    "query": "What procedures must reporting entities execute to comply with Article 4 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_4"
+    ]
+  },
+  {
+    "id": "Q466",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 47 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_47",
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q467",
+    "query": "كيف تنظم المادة 31 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_31"
+    ]
+  },
+  {
+    "id": "Q468",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 30 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_30"
+    ]
+  },
+  {
+    "id": "Q469",
+    "query": "What are the specific legal requirements set out in Article 44 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_44",
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q470",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 2؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_2"
+    ]
+  },
+  {
+    "id": "Q471",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 42 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_42"
+    ]
+  },
+  {
+    "id": "Q472",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 45 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_6",
+      "10_2019_45"
+    ]
+  },
+  {
+    "id": "Q473",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 9 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_9"
+    ]
+  },
+  {
+    "id": "Q474",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 7 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_7"
+    ]
+  },
+  {
+    "id": "Q475",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 21 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_11",
+      "10_2019_21"
+    ]
+  },
+  {
+    "id": "Q476",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 46؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_46"
+    ]
+  },
+  {
+    "id": "Q477",
+    "query": "What procedures must reporting entities execute to comply with Article 59 concerning international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_59"
+    ]
+  },
+  {
+    "id": "Q478",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 33 لمكافحة غسل الأموال؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_19",
+      "10_2019_33"
+    ]
+  },
+  {
+    "id": "Q479",
+    "query": "كيف تنظم المادة 6 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_6"
+    ]
+  },
+  {
+    "id": "Q480",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 56 في النظام الامتثالي؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_56"
+    ]
+  },
+  {
+    "id": "Q481",
+    "query": "What are the specific legal requirements set out in Article 20 regarding cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_20",
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q482",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 11؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_11"
+    ]
+  },
+  {
+    "id": "Q483",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 38 على المنشآت المالية والمهن المحددة؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_38"
+    ]
+  },
+  {
+    "id": "Q484",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 15 لمكافحة غسل الأموال؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_12",
+      "10_2019_15"
+    ]
+  },
+  {
+    "id": "Q485",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 19 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_19"
+    ]
+  },
+  {
+    "id": "Q486",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 54 في النظام الامتثالي؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_54"
+    ]
+  },
+  {
+    "id": "Q487",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 41 بشأن DNFBPs & Gatekeepers Obligations؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_41",
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q488",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 10؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_10"
+    ]
+  },
+  {
+    "id": "Q489",
+    "query": "What procedures must reporting entities execute to comply with Article 55 concerning cdd & customer verification?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_55"
+    ]
+  },
+  {
+    "id": "Q490",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 27 لمكافحة غسل الأموال؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_8",
+      "10_2019_27"
+    ]
+  },
+  {
+    "id": "Q491",
+    "query": "كيف تنظم المادة 12 صلاحيات الجهات المعنية والالتزامات المترتبة على عدم الامتثال؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_12"
+    ]
+  },
+  {
+    "id": "Q492",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 48 في النظام الامتثالي؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_48"
+    ]
+  },
+  {
+    "id": "Q493",
+    "query": "What are the specific legal requirements set out in Article 29 regarding international cooperation & legal assistance?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_49",
+      "10_2019_29"
+    ]
+  },
+  {
+    "id": "Q494",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 3؟",
+    "category": "Record Keeping & Retention",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_3"
+    ]
+  },
+  {
+    "id": "Q495",
+    "query": "ما هي الضوابط والشروط القانونية المفروضة بموجب المادة 5 على المنشآت المالية والمهن المحددة؟",
+    "category": "DNFBPs & Gatekeepers Obligations",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_5"
+    ]
+  },
+  {
+    "id": "Q496",
+    "query": "ما هي الاستثناءات أو التدابير المشددة المنصوص عليها في المادة 23 لمكافحة غسل الأموال؟",
+    "category": "Internal Controls & Supervisory Duties",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_23",
+      "10_2019_26"
+    ]
+  },
+  {
+    "id": "Q497",
+    "query": "Under Cabinet Decision No. 10 of 2019, how is Article 8 interpreted regarding compliance failures?",
+    "category": "English Query",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_8"
+    ]
+  },
+  {
+    "id": "Q498",
+    "query": "ما هي المعايير التشغيلية الواجب تطبيقها استناداً إلى المادة 25 في النظام الامتثالي؟",
+    "category": "PEPs & High Risk Accounts",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_25"
+    ]
+  },
+  {
+    "id": "Q499",
+    "query": "ما هي الأحكام والالتزامات التفصيلية المنصوص عليها في المادة 53 بشأن Suspicious Transaction Reporting (STR)؟",
+    "category": "Suspicious Transaction Reporting (STR)",
+    "difficulty": "Hard",
+    "gold_article_keys": [
+      "10_2019_53",
+      "10_2019_43"
+    ]
+  },
+  {
+    "id": "Q500",
+    "query": "كيف تحدد اللائحة التنفيذية الإجراءات الواجب اتباعها وفقاً للمادة 49؟",
+    "category": "Asset Freezing & Seizure Without Notice",
+    "difficulty": "Medium",
+    "gold_article_keys": [
+      "10_2019_49"
+    ]
+  }
+]
