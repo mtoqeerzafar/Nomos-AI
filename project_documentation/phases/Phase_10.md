@@ -1,103 +1,30 @@
-# Phase 10 — Production Freeze, API Integration & E2E Validation
+# Phase 10 — Response Composer (Node 9) & Certification Authority (Node 10)
 
 ## 1. Background
-Phase 10 finalized the end-to-end integration of all 10 agentic reasoning engines into **FastAPI** (`api/main.py`), validated full-system pipeline performance, executed 500-query benchmark suites, and established the production architecture freeze.
+Phase 10 represents the final presentation engineering and cryptographic certification layer of Nomos AI. Both engines execute **Zero LLM calls (0 API calls)** for 100% deterministic presentation and fail-closed audit protection.
 
 ---
 
-## 2. Goals
-- Wire the complete 10-stage LangGraph workflow into FastAPI REST and SSE streaming endpoints (`/api/query/v2`, `/api/query/stream`).
-- Integrate Redis Exact Cache and Qdrant Semantic Cache.
-- Execute full 500-query validation benchmark to verify recall ($\ge 90\%$) and accuracy ($100\%$).
-- Freeze production contracts and issue `phase10_freeze_decision.json`.
+## 2. Goals & Node Responsibilities
+
+### A. Node 9: Response Composer Engine (`agents/composer.py`)
+- **Manual**: [`Response_Composer.md`](file:///d:/RagnrAI/project_documentation/architecture/Response_Composer.md)
+- **Role**: Executes 7 deterministic sub-engines (`ContractValidator`, `ResponseSelector`, `AnswerBuilder`, `CitationComposer`, `WarningComposer`, `MetadataComposer`, `OutputFormatter`).
+- **Formatting**: Injects RTL unicode direction protection (`\u200f`), formats Arabic footnote citations, and renders outputs for multi-channel destinations (`MARKDOWN`, `STREAMING`, `API`, `TEAMS`, `SLACK`, `WHATSAPP`).
+
+### B. Node 10: Certification Authority (`agents/certification_delivery.py`)
+- **Manual**: [`Certification.md`](file:///d:/RagnrAI/project_documentation/architecture/Certification.md)
+- **Role**: Executes 6 certification sub-engines, validates version matrix (`("1.1", "1.0", "1.0", "1.0")`), and computes an immutable SHA256 cryptographic checksum over canonical JSON (`_canonical_json`).
+- **Output**: Issues tamper-evident `CertifiedResponse v1.0` payload and archives `CertificationRecord` audit record.
 
 ---
 
-## 3. Original Design
-Direct execution of un-cached monolithic script.
+## 3. Architecture Node Mapping
+- **Node Numbers**: **Node 9** & **Node 10**
+- **Primary Code Location**: `agents/composer.py` & `agents/certification_delivery.py`
+- **Output Contract**: `ResponseOutput v1.0` and `CertifiedResponse v1.0`.
 
 ---
 
-## 4. Final Production Design
-FastAPI serves async endpoints backed by:
-1. **Redis Exact Cache** (`exact_cache.py`) for SHA256 exact hit responses ($< 15\text{ ms}$).
-2. **Qdrant Semantic Cache** (`semantic_cache.py`) for vector cosine similarity hit responses ($< 40\text{ ms}$).
-3. **LangGraph State Workflow** (`agents/workflow.py`) with PostgreSQL checkpointing (`PostgresSaver`).
-4. Real-time **Server-Sent Events (SSE)** streaming for live UI rendering.
-
----
-
-## 5. Complete Implementation
-
-### FastAPI Streaming Endpoint (`api/main.py`)
-```python
-@app.post("/api/query/stream")
-async def query_stream(req: QueryRequest, db: Session = Depends(get_db)):
-    # 1. Exact Cache Check
-    cached_exact = await exact_cache_manager.check_cache(req.question, req.tenant_id, req.thread_id)
-    if cached_exact:
-        return StreamingResponse(stream_cached(cached_exact), media_type="text/event-stream")
-        
-    # 2. Semantic Cache Check
-    cached_semantic = await semantic_cache_manager.check_cache(req.question, req.tenant_id, req.thread_id)
-    if cached_semantic:
-        return StreamingResponse(stream_cached(cached_semantic), media_type="text/event-stream")
-        
-    # 3. LangGraph Workflow Execution
-    return StreamingResponse(
-        run_workflow_and_stream(req),
-        media_type="text/event-stream"
-    )
-```
-
----
-
-## 6. Internal Data Flow
-```
-User Query -> FastAPI -> Cache Check (Redis Exact / Qdrant Semantic)
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-              (Cache Hit)          (Cache Miss)
-                    │                   │
-                    ▼                   ▼
-            Stream Cached SSE   Run LangGraph 10-Node Engine
-                                        │
-                                        ▼
-                                Write Cache & Stream SSE
-```
-
----
-
-## 7. Inputs
-- HTTP Request Body (`QueryRequest` JSON).
-
----
-
-## 8. Outputs
-- Server-Sent Events stream emitting chunked JSON tokens, citations, and `CertifiedResponse`.
-
----
-
-## 9. Edge Cases
-- **Client Disconnection**: Async SSE generator catches `asyncio.CancelledError` and gracefully releases PostgreSQL database pool connections.
-
----
-
-## 10. Performance Optimizations
-- **Stream Buffering**: Output tokens are flushed in 4-word chunks to reduce network socket overhead while delivering smooth UI typography.
-
----
-
-## 11. Integration With Other Phases
-- Integrates all prior phases (**Phase 01 through Phase 09**) into a cohesive production web service.
-
----
-
-## 12. Evolution
-- Completed final validation suites. `scratch/results/phase10_freeze_decision.json` output verdict: `READY_FOR_PRODUCTION_FREEZE`.
-
----
-
-## 13. Final State
-All components integrated, tested, verified, and frozen for production deployment.
+## 4. Downstream Trajectory
+Delivers final certified response payload to client application (Web UI, SSE Stream, REST API, Teams/Slack Adaptive Cards).

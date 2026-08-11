@@ -1,42 +1,24 @@
-# RagnrAI Production Final Architecture
+# Nomos AI Production Final Architecture
 
 ## 1. High-Level Architecture Overview
 
-The RagnrAI platform uses a **stateless API layer**, **distributed multi-layer caching**, **vector and relational storage engines**, and a **10-stage stateful multi-agent reasoning graph**.
+Nomos AI uses a **stateless API web layer**, **distributed multi-layer caching**, **vector and relational storage engines**, and an **11-Node master agentic pipeline (`Node 0` to `Node 10`)**.
 
-```
-                           ┌──────────────────────────────┐
-                           │   React / Next.js Web UI     │
-                           └──────────────┬───────────────┘
-                                          │ HTTP / SSE Stream
-                                          ▼
-                           ┌──────────────────────────────┐
-                           │    FastAPI Web Layer         │
-                           │  - Auth & Tenant Validation  │
-                           │  - Rate Limiting (Redis)     │
-                           └──────────────┬───────────────┘
-                                          │
-                  ┌───────────────────────┴───────────────────────┐
-                  ▼                                               ▼
-      ┌───────────────────────┐                       ┌───────────────────────┐
-      │   Exact Cache (Redis) │                       │  Semantic Cache       │
-      │   SHA256 Query Hash   │                       │  Qdrant Vector DB     │
-      └───────────┬───────────┘                       └───────────┬───────────┘
-                  │ (Hit -> Return)                               │ (Hit -> Return)
-                  └───────────────────────┬───────────────────────┘
-                                          │ (Miss -> Invoke Workflow)
-                                          ▼
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                      LangGraph State Orchestrator (AgentState)                          │
-│                                                                                         │
-│  [1. Planner] -> [2. Rewriter] -> [3. Hybrid Retriever] -> [4. Reranker]               │
-│                                                                    │                    │
-│                                                                    ▼                    │
-│  [8. Composer] <- [7. Verifier] <- [6. Generator] <- [5. Relevance Checker]             │
-│        │                                                                                │
-│        ▼                                                                                │
-│  [9. Certifier] -> Save Agent Caches -> Stream Response Payload                         │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TD
+    Node0["Node 0: Document Ingestion Engine\n(Offline PDF Parsing, 10-Pass Normalization, Qdrant/PostgreSQL Storage)"] --> Node1["Node 1: Planner Agent\n(Air Traffic Controller, Intent Classification, Language Script Count Lock)"]
+    
+    Node1 -->|needs_query_expansion = True| Node2["Node 2: Query Rewriter Agent\n(Courtroom Translator, Pronoun Resolution, Multi-Query Decomposition)"]
+    Node1 -->|needs_query_expansion = False| Node3["Node 3: Qdrant Hybrid Retriever\n(Dual-Search Detective, Dense E5-Large Top-75 + Exact Metadata Top-50)"]
+    
+    Node2 --> Node3
+    Node3 --> Node4["Node 4: Candidate Grouper Engine\n(Document Binder, Sub-Window Merging, SHA256 Fast Deduplication)"]
+    Node4 --> Node5["Node 5: Reranker Agent\n(Senior Legal Analyst, Citation Shield Protocol, Evidence Role Classification)"]
+    Node5 --> Node6["Node 6: Relevance Checker Engine\n(Chief Audit Prosecutor, Sufficiency Evaluation: COMPLETE / PARTIAL / INSUFFICIENT)"]
+    Node6 --> Node7["Node 7: Generator Engine v1.1\n(Judicial Draftsman, 5 Sub-Engines, [CLAIM:node_id] Deterministic Binding)"]
+    Node7 --> Node8["Node 8: Verification Engine v1.0\n(Appeals Board, 7-Gate Audit Guardrail, Micro-Repair Engine)"]
+    Node8 --> Node9["Node 9: Response Composer Engine v1.0\n(Chief Legal Publisher, Zero-LLM Presentation Engine, Multi-Channel Formatting)"]
+    Node9 --> Node10["Node 10: Certification Authority & Delivery Engine\n(Royal Notary Public, Zero-LLM Cryptographic SHA256 Checksum Proof)"]
 ```
 
 ---
@@ -60,11 +42,11 @@ class AgentState(TypedDict):
     
     # Evidence & Retrieval Payload
     documents: List[Document]             # Retrieved & reranked statutory chunks
-    retrieval_trace: Dict[str, Any]       # Dense/sparse timing & score trace
+    retrieval_trace: Dict[str, Any]       # Dense/exact timing & score trace
     
     # Agent Decisions & Evidence Graphs
-    relevance_result: Dict[str, Any]      # Sufficiency score, coverage, failure taxonomy
-    candidate_groups: List[Dict[str, Any]]# Grouped statutory document hierarchies
+    relevance_result: Dict[str, Any]      # Sufficiency level, coverage, failure taxonomy
+    candidate_groups: List[Dict[str, Any]]# Grouped statutory document sub-windows
     generation_artifacts: Dict[str, Any]  # GeneratorOutput & EvidenceReasoningGraph
     verification_result: Dict[str, Any]   # 7-Gate verification report & scores
     
@@ -76,51 +58,54 @@ class AgentState(TypedDict):
 
 ---
 
-## 3. Detailed Component Decomposition
+## 3. Master 11-Node Pipeline Decomposition
 
-### Node 1: Structured Planner (`agents/planner.py`)
-- **Version**: `PlannerAgent v1.2`
-- **Role**: Parses raw query, extracts temporal legal constraints (e.g. "Law of 1992"), domain filters, target output language ("Arabic" vs "English"), and selects reasoning strategy (`DIRECT`, `MULTI_ARTICLE`, `AMENDMENT_LOOKUP`, `SYNTHESIS`).
+### Node 0: Document Ingestion Engine (`document_processor/processor.py`)
+- **Manual**: [`Document_Ingestion.md`](file:///d:/RagnrAI/project_documentation/architecture/Document_Ingestion.md)
+- **Role**: Offline layout-aware PDF parsing (Docling/PyMuPDF), 10-pass Arabic statutory text normalization, article boundary extraction, sliding-window chunking (500 tokens with 100-token overlap), relational PostgreSQL metadata persistence, and Qdrant 1024d vector payload indexing.
 
-### Node 2: Query Rewriter (`agents/rewriter.py`)
-- **Version**: `QueryRewriterAgent v1.1`
-- **Role**: Resolves conversational pronouns (e.g., "what are its penalties?" $\rightarrow$ "What are penalties under Article 16 of Law 20 of 2018?"), incorporates chat history, and synthesizes standalone retrieval queries.
+### Node 1: Planner Agent (`agents/planner.py`)
+- **Manual**: [`Planner.md`](file:///d:/RagnrAI/project_documentation/architecture/Planner.md)
+- **Role**: Entry orchestrator, intent classification, Unicode script count ratio language lock (`arabic_char_count / total_chars`), and query expansion routing (`needs_query_expansion`).
 
-### Node 3: Hybrid Retriever (`retriever/builder.py`)
-- **Version**: `QdrantHybridRetriever`
-- **Role**: Executes concurrent hybrid search:
-  - **Dense Search**: BGE-M3 (1024 dimensions, cosine distance).
-  - **Sparse Search**: Qdrant Sparse BM25 index over tokenized Arabic statutory text.
-  - **Reciprocal Rank Fusion (RRF)**: Combines dense and sparse ranks with parameter $k=60$.
-  - **Filter**: `tenant_id == active_tenant AND (thread_id == active_thread OR thread_id IS NULL)`.
+### Node 2: Query Rewriter Agent (`agents/query_rewriter.py`)
+- **Manual**: [`Query_Rewriter.md`](file:///d:/RagnrAI/project_documentation/architecture/Query_Rewriter.md)
+- **Role**: Resolves conversational pronouns (`it`, `this`), incorporates chat history, prevents hallucinations, and decomposes multi-topic queries into independent sub-queries. Includes internal `_semantic_judge()` feedback loop.
 
-### Node 4: Evidence Reranker (`agents/reranker.py`)
-- **Version**: `FlashRankReranker` / `LLMEvidenceReranker`
-- **Role**: Re-scores top-15 retrieved candidate chunks using cross-encoder neural model or LLM relevance scoring, outputting calibrated relevance scores (0.0 to 10.0).
+### Node 3: Qdrant Hybrid Retriever (`retriever/builder.py`)
+- **Manual**: [`Retrieval.md`](file:///d:/RagnrAI/project_documentation/architecture/Retrieval.md)
+- **Role**: Concurrent dual retrieval:
+  - **Dense Vector Search**: Top-75 candidates via `intfloat/multilingual-e5-large` 1024d embeddings (`Distance.COSINE`).
+  - **Exact Metadata Search**: Top-50 candidates querying Qdrant payload indices (`law_number`, `law_year`, `article_number`, `article_key`).
+  - **Smart Statutory Neighbor Expansion**: Merges adjacent statutory neighbor articles.
 
-### Node 5: Relevance Checker (`agents/relevance_checker.py`)
-- **Version**: `RelevanceChecker v3.1`
-- **Role**: Evaluates weighted coverage, metadata integrity, evidence quality, and statutory completeness. Outputs `sufficiency: COMPLETE | PARTIAL | INSUFFICIENT` and sets `should_generate: True/False`.
+### Node 4: Candidate Grouper Engine (`retriever/grouping.py`)
+- **Manual**: [`Candidate_Grouper.md`](file:///d:/RagnrAI/project_documentation/architecture/Candidate_Grouper.md)
+- **Role**: Consolidates raw 75 candidate hits down to Top 15–20. Executes Sub-Window Merging (`_group_by_article_key`), Fast Hash Deduplication (`SHA256`), and Max Score Inheritance (`score_aggregation = "max"`).
 
-### Node 6: Candidate Grouper (`agents/candidate_grouper.py`)
-- **Version**: `CandidateGrouperEngine`
-- **Role**: Organizes chunks into structured statutory hierarchies (Law $\rightarrow$ Executive Regulation $\rightarrow$ Article $\rightarrow$ Clause), resolving parent chunk IDs and cross-document references.
+### Node 5: Reranker Agent (`agents/reranker.py`)
+- **Manual**: [`Reranker.md`](file:///d:/RagnrAI/project_documentation/architecture/Reranker.md)
+- **Role**: Calibrates raw scores, assigns `CandidateEvidenceRole` stickers (`PRIMARY_OBLIGATION`, `SANCTION_PENALTY`, `EXCEPTION_CLAUSE`), enforces Citation Shield Protocol, and filters candidates with `RERANKER_THRESHOLD >= 0.0`.
 
-### Node 7: Generator Engine (`agents/generator.py`)
-- **Version**: `GeneratorAgent v1.1`
-- **Role**: Builds an in-memory `EvidenceReasoningGraph`, applies layout templates based on reasoning strategy, injects language translation rules, generates draft text with claim tags (`[CLAIM:node_id]`), and binds exact legal citations via `ClaimCitationBinder`.
+### Node 6: Relevance Checker Engine (`agents/relevance_checker.py`)
+- **Manual**: [`Relevance_Checker.md`](file:///d:/RagnrAI/project_documentation/architecture/Relevance_Checker.md)
+- **Role**: Quality gatekeeper executing a 4-Tier Decision Hierarchy (Citation Match, Weighted Role Coverage $\ge 0.70$, Primary Obligation Audit, LLM Fallback Audit). Renders `sufficiency_level: COMPLETE | PARTIAL | INSUFFICIENT`.
 
-### Node 8: Verification Engine (`agents/verification_agent.py`)
-- **Version**: `VerificationAgent v1.0`
-- **Role**: Executes 7 deterministic factual verification gates (Text Support, Citation Binding, Language Lock, Contradiction Check, Scope Check, Superseded Law Check, Entity Lock).
+### Node 7: Generator Engine v1.1 (`agents/generator.py`)
+- **Manual**: [`Generator.md`](file:///d:/RagnrAI/project_documentation/architecture/Generator.md)
+- **Role**: Executes 5 sub-engines (`EvidenceReasoningGraphBuilder`, `ContextBudgetCompressor`, `PromptBuilderEngine`, `DraftGeneratorEngine`, `ClaimBindingEngine`). Generates draft text with explicit `[CLAIM:node_id]` tags (`temperature = 0.0`).
 
-### Node 9: Response Composer (`agents/response_composer.py`)
-- **Version**: `ResponseComposer v1.0`
-- **Role**: Assembles public contract `ResponseOutput` with clean formatted answer, deduplicated citations, warning disclaimers, and execution telemetry metrics.
+### Node 8: Verification Engine v1.0 (`agents/verifier.py`)
+- **Manual**: [`Verification.md`](file:///d:/RagnrAI/project_documentation/architecture/Verification.md)
+- **Role**: 7-Gate Audit Guardrail (`ClaimGrounding`, `CitationValidation`, `Contradiction`, `OutOfScope`, `GapDisclaimer`, `SchemaCompliance`, `MicroRepair`). Executes Micro-Repair actions (`INSERT_DISCLAIMER`, `REMOVE_CLAIM`, `REPLACE_CITATION`).
 
-### Node 10: Certification Engine (`agents/certification_engine.py`)
-- **Version**: `CertificationEngine v1.0`
-- **Role**: Generates cryptographically secure SHA256 checksum over output text, prompt context, and retrieved chunks, producing the final `CertifiedResponse` payload.
+### Node 9: Response Composer Engine v1.0 (`agents/composer.py`)
+- **Manual**: [`Response_Composer.md`](file:///d:/RagnrAI/project_documentation/architecture/Response_Composer.md)
+- **Role**: Zero-LLM (0 API calls) deterministic presentation engine executing 7 sub-engines (`ContractValidator`, `ResponseSelector`, `AnswerBuilder`, `CitationComposer`, `WarningComposer`, `MetadataComposer`, `OutputFormatter`). Renders multi-channel formatting (`MARKDOWN`, `STREAMING`, `API`, `TEAMS`, `SLACK`, `WHATSAPP`).
+
+### Node 10: Certification Authority & Delivery Engine (`agents/certification_delivery.py`)
+- **Manual**: [`Certification.md`](file:///d:/RagnrAI/project_documentation/architecture/Certification.md)
+- **Role**: Zero-LLM (0 API calls) final cryptographic auditing node. Executes 6 certification sub-engines, validates version matrix (`("1.1", "1.0", "1.0", "1.0")`), computes deterministic SHA256 checksum over canonical JSON (`_canonical_json`), and issues tamper-evident `CertifiedResponse v1.0`.
 
 ---
 
@@ -133,6 +118,6 @@ class AgentState(TypedDict):
 
 2. **Semantic Vector Cache (Qdrant)**:
    - **Collection**: `semantic_cache`
-   - **Embedding**: BGE-M3 1024d vector of normalized query.
+   - **Embedding**: Multilingual E5-Large 1024d vector of normalized query.
    - **Similarity Threshold**: $\ge 0.96$ cosine similarity.
    - **Metadata Filter**: Matched against `tenant_id` and `thread_id`.

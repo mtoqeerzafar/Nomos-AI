@@ -72,6 +72,7 @@ erDiagram
         string article_number
         string article_key "471_1995_78"
         text clean_text
+        int sub_window_index
         string parent_chunk_id
     }
 
@@ -87,27 +88,24 @@ erDiagram
 
 ## 2. Qdrant Vector Collection Payload Schema (`ragnr_documents`)
 
-Each point in the Qdrant `ragnr_documents` collection contains dual vector embeddings and structured payload attributes:
+Each point in the Qdrant `ragnr_documents` collection contains dense vector embeddings (`intfloat/multilingual-e5-large` 1024d) and structured payload attributes indexed for Node 3 Exact Metadata Search:
 
 ```json
 {
   "id": "e8c6f36d-eefb-4a66-b126-5888ae0dcb52",
   "vector": {
-    "text-dense": [0.0124, -0.0452, 0.0891, "... (1024 float dimensions)"],
-    "text-sparse": {
-      "indices": [1024, 4096, 8192, 12288],
-      "values": [0.85, 1.42, 0.63, 1.15]
-    }
+    "dense": [0.0124, -0.0452, 0.0891, "... (1024 float dimensions)"]
   },
   "payload": {
-    "text": "( الماده 78 ) تسري الاحكام السابقه علي منتسبي المدارس والكليات الخاصه من المسجونين بعد موافقه مدير المنشاه العقابيه .",
+    "text": "( المادة 78 ) تسري الأحكام السابقة على منتسبي المدارس والكليات الخاصة من المسجونين بعد موافقة مدير المنشأة العقابية .",
     "tenant_id": "default_tenant",
     "thread_id": "8dcde63c-1745-4464-b0ec-c3547d61de12",
-    "source": "قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية بالقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية.pdf",
+    "source": "قرار وزاري رقم (471) لسنة 1995م.pdf",
     "article": "78",
     "law_number": "471",
     "law_year": "1995",
     "article_key": "471_1995_78",
+    "sub_window_index": 0,
     "parent_chunk_id": null
   }
 }
@@ -123,5 +121,5 @@ Each point in the Qdrant `ragnr_documents` collection contains dual vector embed
 
 ### Qdrant Semantic Cache Vector Payload
 - Collection Name: `semantic_cache`
-- Vector: 1024d Dense BGE-M3 Query Embedding.
-- Similarity Match Threshold: $\ge 0.96$.
+- Vector: 1024d Dense Multilingual E5-Large Query Embedding.
+- Similarity Match Threshold: $\ge 0.96$ cosine similarity.

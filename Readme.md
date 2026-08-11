@@ -74,80 +74,80 @@ Empirically validated across 500-query statutory benchmark suites over official 
 ### 1. 10-Stage Multi-Agent Orchestration Pipeline
 
 ```mermaid
-flowchart TD
-    UserQuery["User Query<br/>Arabic / English"] --> SSE["FastAPI SSE Endpoint<br/>/api/query/stream"]
-    SSE --> CacheCheck{"Redis Exact Cache<br/>SHA256 Query Key"}
-    
-    CacheCheck -- YES --> ReturnCache["Stream Cached Response"]
-    CacheCheck -- NO --> Node1["1. Planner Agent v1.2<br/>Intent & Language Lock"]
-    
-    Node1 --> Node2["2. Query Rewriter Agent v1.1<br/>Multi-Turn Standalone Query"]
-    Node2 --> Extractor["Query Entity Extractor<br/>Articles, Laws, Years, Keys"]
-    
-    Extractor --> Node3["3. Qdrant Multi-Strategy Retriever<br/>E5-Large Dense + Metadata Search"]
-    Node3 --> Booster["Multi-Factor Metadata Score Booster<br/>Article +0.25, Law +0.15, Year +0.05"]
-    
-    Booster --> Neighbor{"Neighbor Expansion Keyword?"}
-    Neighbor -- YES --> Expand["Fetch Adjacent Article Chunks"] --> Reranker
-    Neighbor -- NO --> Reranker["4. FlashRank Cross-Encoder Reranker"]
-    
-    Reranker --> Node5["5. Relevance Checker Engine v3.1<br/>Sufficiency & Coverage Gate"]
-    
-    Node5 -- INSUFFICIENT --> Fallback{"Attempts < 2?"}
-    Fallback -- YES --> Retry["Global Retrieval Fallback"] --> Reranker
-    Fallback -- NO --> Refusal["Emit Legal Refusal Response"]
-    
-    Node5 -- SUFFICIENT --> Node6["6. Candidate Grouper Engine<br/>EvidenceReasoningGraph Assembly"]
-    Node6 --> Node7["7. Generator Agent v1.1<br/>Claim-to-Node Binding"]
-    Node7 --> Node8["8. Verification Agent v1.0<br/>7-Gate Factual Audit Guardrail"]
-    
-    Node8 -- PASS --> Node9["9. Response Composer v1.0<br/>Citation Binding & Disclaimers"]
-    Node8 -- FAIL --> Refusal
-    
-    Node9 --> Node10["10. Certification Engine v1.0<br/>SHA256 Audit Hash Stamp"]
-    Node10 --> SaveRedis["Save Verified Response to Redis Cache"]
-    SaveRedis --> StreamUI["Stream SSE Event Stream to Next.js UI"]
-```
+    flowchart TD
+        UserQuery["User Query<br/>Arabic / English"] --> SSE["FastAPI SSE Endpoint<br/>/api/query/stream"]
+        SSE --> CacheCheck{"Redis Exact Cache<br/>SHA256 Query Key"}
+        
+        CacheCheck -- YES --> ReturnCache["Stream Cached Response"]
+        CacheCheck -- NO --> Node1["1. Planner Agent v1.2<br/>Intent & Language Lock"]
+        
+        Node1 --> Node2["2. Query Rewriter Agent v1.1<br/>Multi-Turn Standalone Query"]
+        Node2 --> Extractor["Query Entity Extractor<br/>Articles, Laws, Years, Keys"]
+        
+        Extractor --> Node3["3. Qdrant Multi-Strategy Retriever<br/>E5-Large Dense + Metadata Search"]
+        Node3 --> Booster["Multi-Factor Metadata Score Booster<br/>Article +0.25, Law +0.15, Year +0.05"]
+        
+        Booster --> Neighbor{"Neighbor Expansion Keyword?"}
+        Neighbor -- YES --> Expand["Fetch Adjacent Article Chunks"] --> Reranker
+        Neighbor -- NO --> Reranker["4. FlashRank Cross-Encoder Reranker"]
+        
+        Reranker --> Node5["5. Relevance Checker Engine v3.1<br/>Sufficiency & Coverage Gate"]
+        
+        Node5 -- INSUFFICIENT --> Fallback{"Attempts < 2?"}
+        Fallback -- YES --> Retry["Global Retrieval Fallback"] --> Reranker
+        Fallback -- NO --> Refusal["Emit Legal Refusal Response"]
+        
+        Node5 -- SUFFICIENT --> Node6["6. Candidate Grouper Engine<br/>EvidenceReasoningGraph Assembly"]
+        Node6 --> Node7["7. Generator Agent v1.1<br/>Claim-to-Node Binding"]
+        Node7 --> Node8["8. Verification Agent v1.0<br/>7-Gate Factual Audit Guardrail"]
+        
+        Node8 -- PASS --> Node9["9. Response Composer v1.0<br/>Citation Binding & Disclaimers"]
+        Node8 -- FAIL --> Refusal
+        
+        Node9 --> Node10["10. Certification Engine v1.0<br/>SHA256 Audit Hash Stamp"]
+        Node10 --> SaveRedis["Save Verified Response to Redis Cache"]
+        SaveRedis --> StreamUI["Stream SSE Event Stream to Next.js UI"]
+    ```
 
----
+    ---
 
-### 2. End-to-End Request Sequence Diagram
+    ### 2. End-to-End Request Sequence Diagram
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor User as Client / Next.js UI
-    participant API as FastAPI Backend
-    participant Redis as Redis Cache
-    participant Planner as 1. Planner Agent
-    participant Qdrant as Qdrant Vector Store
-    participant Reranker as FlashRank Reranker
-    participant Generator as 7. Generator Agent
-    participant Verifier as 8. Verification Agent
-    participant Certifier as 10. Certification Engine
+    ```mermaid
+    sequenceDiagram
+        autonumber
+        actor User as Client / Next.js UI
+        participant API as FastAPI Backend
+        participant Redis as Redis Cache
+        participant Planner as 1. Planner Agent
+        participant Qdrant as Qdrant Vector Store
+        participant Reranker as FlashRank Reranker
+        participant Generator as 7. Generator Agent
+        participant Verifier as 8. Verification Agent
+        participant Certifier as 10. Certification Engine
 
-    User->>API: POST /api/query/stream (question, tenant_id, thread_id)
-    API->>Redis: check_exact_cache(question, tenant_id, thread_id)
-    alt Cache HIT (<15ms)
-        Redis-->>API: Cached Verified Response Payload
-        API-->>User: Stream SSE (Instant Cached Answer)
-    else Cache MISS
-        API->>Planner: plan(question, history)
-        Planner-->>API: PlannerDecision (intent_type, output_language)
-        API->>Qdrant: search(dense_vector, metadata_filter, tenant_id, thread_id)
-        Qdrant-->>API: Candidate Chunks (Top-75 Vector + Top-50 Metadata)
-        API->>Reranker: rerank(candidates, query)
-        Reranker-->>API: Top-15 Scored Chunks
-        API->>Generator: generate(query, top_chunks, planner_decision)
-        Generator-->>API: Draft Output with [CLAIM:node_id] Tags
-        API->>Verifier: verify(draft_output, evidence_chunks)
-        Note over Verifier: Audit 7 Gates (Support Score >= 0.70)
-        Verifier-->>API: VerificationReport (STATUS: PASS)
-        API->>Certifier: seal(response, metadata)
-        Certifier-->>API: CertifiedResponse (SHA256 Checksum)
-        API->>Redis: cache_response(question, certified_response)
-        API-->>User: Stream SSE Tokens & Final Verified Payload
-    end
+        User->>API: POST /api/query/stream (question, tenant_id, thread_id)
+        API->>Redis: check_exact_cache(question, tenant_id, thread_id)
+        alt Cache HIT (<15ms)
+            Redis-->>API: Cached Verified Response Payload
+            API-->>User: Stream SSE (Instant Cached Answer)
+        else Cache MISS
+            API->>Planner: plan(question, history)
+            Planner-->>API: PlannerDecision (intent_type, output_language)
+            API->>Qdrant: search(dense_vector, metadata_filter, tenant_id, thread_id)
+            Qdrant-->>API: Candidate Chunks (Top-75 Vector + Top-50 Metadata)
+            API->>Reranker: rerank(candidates, query)
+            Reranker-->>API: Top-15 Scored Chunks
+            API->>Generator: generate(query, top_chunks, planner_decision)
+            Generator-->>API: Draft Output with [CLAIM:node_id] Tags
+            API->>Verifier: verify(draft_output, evidence_chunks)
+            Note over Verifier: Audit 7 Gates (Support Score >= 0.70)
+            Verifier-->>API: VerificationReport (STATUS: PASS)
+            API->>Certifier: seal(response, metadata)
+            Certifier-->>API: CertifiedResponse (SHA256 Checksum)
+            API->>Redis: cache_response(question, certified_response)
+            API-->>User: Stream SSE Tokens & Final Verified Payload
+        end
 ```
 
 ---
@@ -369,7 +369,7 @@ NomosAI/
 │   ├── 04_End_to_End_Ingestion_Flow.md # Document Ingestion Trajectory
 │   ├── 05_Component_Relationships.md  # Inter-Module Dependencies
 │   ├── phases/                         # Engineering Reports (Phases 01 to 10)
-│   ├── architecture/                   # 10 Engine Subsystem Architecture Manuals
+│   ├── architecture/                   # 11 Architecture Subsystem Manuals (Document_Ingestion.md, Planner.md, etc.)
 │   └── diagrams/                       # Mermaid Workflow & ERD Schemata
 │
 └── scripts/                            # Operational Maintenance Utilities

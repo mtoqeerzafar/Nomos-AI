@@ -1,37 +1,32 @@
-# RagnrAI End-to-End Query Request Flow
+# Nomos AI End-to-End Query Request Flow
 
 ## 1. Request Lifecycle Overview
 
-This document provides a step-by-step trace of how a query moves through the RagnrAI platform—from user submission in the web UI, through authentication, multi-layer caching, multi-agent reasoning, verification, certification, and real-time Server-Sent Events (SSE) streaming back to the client.
+This document provides a step-by-step trace of how a query moves through the Nomos AI platform—from user submission in the web UI or API client, through authentication, multi-layer caching, 11-node agentic reasoning, verification, presentation composition, certification, and real-time Server-Sent Events (SSE) streaming back to the client.
 
-```
-[User UI] ──POST /api/query/stream──> [FastAPI Middleware]
-                                             │
-                       ┌─────────────────────┴─────────────────────┐
-                       ▼                                           ▼
-             [Redis Exact Cache]                        [Qdrant Semantic Cache]
-             (Check Key: SHA256)                        (Cosine Sim >= 0.96)
-                       │                                           │
-                       ├─────── (HIT: Return Cached SSE) ──────────┤
-                       │                                           │
-                       └────────────── (MISS) ─────────────────────┘
-                                       │
-                                       ▼
-                       [LangGraph State Workflow]
-                                       │
-                 1. Planner Agent ─────┼── Intent & Language Lock
-                 2. Query Rewriter ────┼── Context Standalone Query
-                 3. Hybrid Retriever ──┼── BGE-M3 Dense + BM25 Sparse
-                 4. FlashRank Reranker ┼── Score Calibration (Top 15)
-                 5. Relevance Checker ─┼── Sufficiency Pass / Fail
-                 6. Candidate Grouper ─┼── Hierarchy Assembly
-                 7. Generator Agent ───┼── Evidence Graph Synthesis
-                 8. Verifier Agent ────┼── 7-Gate Factual Audit
-                 9. Response Composer ─┼── Citation Binding & Warnings
-                10. Certification Engine ─ Audit SHA256 Checksum
-                                       │
-                                       ▼
-                       [Cache Write & Response Stream]
+```mermaid
+flowchart TD
+    UserUI["Client User / Web UI / REST API / WhatsApp / Teams"] --> API["FastAPI Web Ingress (/api/query/stream)"]
+    
+    API --> CacheCheck{"Multi-Layer Cache Check\n1. Redis SHA256 Exact Query Hash\n2. Qdrant Multilingual E5 Semantic Vector Cache (Sim >= 0.96)"}
+    
+    CacheCheck -- "CACHE HIT (<15ms)" --> ReturnCache["Return Cached Verified Payload to Client"]
+    CacheCheck -- "CACHE MISS" --> Node1["Node 1: Planner Agent\n(Intent Classification & Language Script Count Lock)"]
+    
+    Node1 -->|needs_query_expansion = True| Node2["Node 2: Query Rewriter Agent\n(Pronoun Resolution & Multi-Query Decomposition)"]
+    Node1 -->|needs_query_expansion = False| Node3["Node 3: Qdrant Hybrid Retriever\n(Dense E5-Large Top-75 + Exact Metadata Top-50)"]
+    
+    Node2 --> Node3
+    Node3 --> Node4["Node 4: Candidate Grouper Engine\n(Sub-Window Merging & SHA256 Fast Deduplication)"]
+    Node4 --> Node5["Node 5: Reranker Agent\n(Citation Shield Protocol & Evidence Role Classification)"]
+    Node5 --> Node6["Node 6: Relevance Checker Engine\n(4-Tier Sufficiency Evaluation: COMPLETE / PARTIAL / INSUFFICIENT)"]
+    Node6 --> Node7["Node 7: Generator Engine v1.1\n(5 Sub-Engines, EvidenceReasoningGraph, [CLAIM:node_id] Binding)"]
+    Node7 --> Node8["Node 8: Verification Engine v1.0\n(7-Gate Audit Guardrail & Micro-Repair Engine)"]
+    Node8 --> Node9["Node 9: Response Composer Engine v1.0\n(Zero-LLM Presentation Engine & Multi-Channel Formatting)"]
+    Node9 --> Node10["Node 10: Certification Authority & Delivery Engine\n(Zero-LLM SHA256 Checksum Proof & CertifiedResponse v1.0)"]
+    
+    Node10 --> CacheWrite["Cache Write: Save Verified Answer to Redis & Qdrant Cache"]
+    CacheWrite --> Delivery["Deliver Certified Payload (Markdown / Streaming / API / Cards)"]
 ```
 
 ---
@@ -58,110 +53,79 @@ This document provides a step-by-step trace of how a query moves through the Rag
 
 ### Step 2: Multi-Layer Cache Check
 1. **Exact Cache Check**:
-   - Computes SHA256 hash of query string.
+   - Computes SHA256 hash of normalized query string.
    - Looks up Redis key `exact_cache:default_tenant:8dcde63c-...:v0:<hash>`.
    - **If Hit**: Immediately streams cached response payload. Execution terminates in $< 15\text{ ms}$.
 2. **Semantic Cache Check (if Exact Cache misses)**:
-   - Embeds query using BGE-M3 (1024d dense vector).
+   - Embeds query using `intfloat/multilingual-e5-large` (1024d dense vector).
    - Queries Qdrant collection `semantic_cache` with similarity threshold $\ge 0.96$.
    - **If Hit**: Returns cached answer text and citations. Execution terminates in $< 40\text{ ms}$.
 
 ---
 
-### Step 3: LangGraph Agentic Workflow Initialization
-Upon cache miss, FastAPI initializes `AgentState` and executes `workflow.astream()`:
+### Step 3: LangGraph Workflow Execution Trace (`Node 1` to `Node 10`)
 
-```python
-initial_state = {
-    "question": raw_query,
-    "tenant_id": tenant_id,
-    "thread_id": thread_id,
-    "chat_history": chat_history,
-    "documents": [],
-    "turn_status": "in_progress"
-}
-```
+#### Node 1: Planner Agent (`agents/planner.py`)
+- **Inputs**: `question`, `chat_history`.
+- **Operations**: Evaluates Unicode script count ratio (`arabic_char_count / total_chars`) for language lock, classifies query intent (`FACT_LOOKUP`, `COMPARISON`, `PROCEDURAL`), extracts explicit statutory dates/numbers, and decides `needs_query_expansion`.
+- **Outputs**: `planner_decision` dictionary.
 
----
+#### Node 2: Query Rewriter Agent (`agents/query_rewriter.py`)
+- **Condition**: Executed if `planner_decision["needs_query_expansion"] == True`.
+- **Operations**: Resolves pronouns (`it`, `this`, `these`), prevents hallucinations, decomposes complex multi-topic questions into independent sub-queries, and verifies reference resolution via internal `_semantic_judge()`.
+- **Outputs**: `current_query` and `retrieval_queries` list.
 
-### Step 4: Agent Node Execution Trace
+#### Node 3: Qdrant Hybrid Retriever (`retriever/builder.py`)
+- **Operations**: Executes concurrent dual-provider retrieval:
+  - **Dense Search**: Top-75 candidates using `intfloat/multilingual-e5-large` 1024d embeddings (`Distance.COSINE`).
+  - **Exact Metadata Search**: Top-50 candidates querying Qdrant payload indices (`law_number`, `law_year`, `article_number`, `article_key`).
+  - **Smart Statutory Neighbor Expansion**: Merges adjacent statutory neighbor articles.
+- **Outputs**: 75 raw `Document` candidate chunks.
 
-#### 4.1 Planner Agent (`_plan_step`)
-- Input: `question`, `chat_history`.
-- Output: `planner_decision` dictionary.
-  - `intent`: `"FACT_LOOKUP"`
-  - `output_language`: `"English"`
-  - `reasoning_strategy`: `"MULTI_ARTICLE"`
-  - `extracted_date`: `"1995"`
+#### Node 4: Candidate Grouper Engine (`retriever/grouping.py`)
+- **Operations**: Consolidates 75 raw candidate hits down to Top 15–20.
+  - **Pass 1**: Sub-Window Merging (`_group_by_article_key`) staples sub-windows sharing `article_key` (e.g. `471_1995_78` Parts 1, 2, 3) back into a single unified article block.
+  - **Pass 2**: Fast Hash Deduplication (`SHA256`) eliminates duplicate text passages.
+  - **Pass 3**: Max Score Inheritance (`score_aggregation = "max"`) assigns maximum relevance score (`0.94`) to combined article block.
+- **Outputs**: Top 15–20 consolidated candidate groups.
 
-#### 4.2 Query Rewriter Agent (`_rewrite_step`)
-- Input: `question`, `chat_history`, `planner_decision`.
-- Output: `current_query` (standalone context-free question).
+#### Node 5: Reranker Agent (`agents/reranker.py`)
+- **Operations**: Calibrates raw scores, assigns `CandidateEvidenceRole` stickers (`PRIMARY_OBLIGATION`, `SANCTION_PENALTY`, `EXCEPTION_CLAUSE`), enforces Citation Shield Protocol, and filters candidate hits with threshold $\ge 0.0$.
+- **Outputs**: Ordered reranked evidence bundle.
 
-#### 4.3 Hybrid Retriever (`_retrieve_step`)
-- Input: `current_query`, `tenant_id`, `thread_id`.
-- Operations: Runs parallel BGE-M3 dense vector search and Qdrant Sparse BM25 search over `ragnr_documents`.
-- Merges results using Reciprocal Rank Fusion (RRF):
-  $$RRF\_Score(d) = \frac{1}{60 + r_{dense}(d)} + \frac{1}{60 + r_{sparse}(d)}$$
-- Output: Top 15 `Document` objects.
+#### Node 6: Relevance Checker Engine (`agents/relevance_checker.py`)
+- **Operations**: Quality gatekeeper executing a 4-Tier Decision Hierarchy:
+  - **Tier 1**: Citation Match Check (Fast Exit rule, 0 tokens spent).
+  - **Tier 2**: Coverage Score Check (`weighted_coverage_score >= 0.70`).
+  - **Tier 3**: Role Completeness Check (`PRIMARY_OBLIGATION` presence).
+  - **Tier 4**: LLM Sufficiency Audit (Fallback for multi-law comparison queries).
+- **Outputs**: `relevance_result` (`sufficiency_level: COMPLETE | PARTIAL | INSUFFICIENT`, `generation_strategy`).
 
-#### 4.4 Reranker Engine (`_rerank_step`)
-- Input: `documents`, `current_query`.
-- Operations: Cross-encoder re-scoring via FlashRank / LLM Reranker.
-- Output: Re-ordered `documents` with `rerank_score` (0.0 – 10.0).
+#### Node 7: Generator Engine v1.1 (`agents/generator.py`)
+- **Operations**: Executes 5 sub-engines (`EvidenceReasoningGraphBuilder`, `ContextBudgetCompressor`, `PromptBuilderEngine`, `DraftGeneratorEngine`, `ClaimBindingEngine`). Generates factual draft text containing explicit `[CLAIM:node_id]` claim tags (`temperature = 0.0`).
+- **Outputs**: `GeneratorOutput` and `EvidenceReasoningGraph`.
 
-#### 4.5 Relevance Checker Engine (`_check_relevance_step`)
-- Input: `documents`, `current_query`, `planner_decision`.
-- Output: `relevance_result`.
-  - `sufficient`: `True`
-  - `sufficiency_level`: `"COMPLETE"`
-  - `weighted_coverage_score`: `1.0`
-- Routing: `should_generate == True` $\rightarrow$ proceed to Evidence Analyzer.
+#### Node 8: Verification Engine v1.0 (`agents/verifier.py`)
+- **Operations**: 7-Gate Audit Guardrail (`ClaimGrounding`, `CitationValidation`, `Contradiction`, `OutOfScope`, `GapDisclaimer`, `SchemaCompliance`, `MicroRepair`). Executes Micro-Repair actions (`INSERT_DISCLAIMER`, `REMOVE_CLAIM`, `REPLACE_CITATION`).
+- **Outputs**: `VerificationResult` (`verification_status: PASS | PASS_WITH_WARNINGS | REPAIRED | FAIL`).
 
-#### 4.6 Candidate Grouper Engine (`_evidence_analyzer_step`)
-- Input: `documents`.
-- Operations: Groups chunks into document families, resolving law numbers and article keys (`471_1995_78`).
-- Output: `candidate_groups`.
+#### Node 9: Response Composer Engine v1.0 (`agents/composer.py`)
+- **Operations**: Zero-LLM (0 API calls) deterministic presentation engine executing 7 sub-engines (`ContractValidator`, `ResponseSelector`, `AnswerBuilder`, `CitationComposer`, `WarningComposer`, `MetadataComposer`, `OutputFormatter`). Injects RTL unicode protection (`\u200f`), formats footnotes, and renders for target `OutputChannel`.
+- **Outputs**: `ResponseOutput v1.0` payload.
 
-#### 4.7 Generator Agent (`_research_step`)
-- Input: `documents`, `relevance_result`, `planner_decision`.
-- Operations:
-  1. Builds `EvidenceReasoningGraph`.
-  2. Constructs prompt with target language instruction (`output_language: "English"`).
-  3. LLM generates draft answer containing node claims (`[CLAIM:node_id]`).
-  4. `ClaimCitationBinder` replaces node claims with exact legal canonical citations (`[المادة 471_1995_78 من القانون 471 لسنة 1995]`).
-- Output: `GeneratorOutput` object.
-
-#### 4.8 Verification Agent (`_verification_step`)
-- Input: `GeneratorOutput`, `EvidenceReasoningGraph`, `documents`.
-- Operations: Runs 7 verification gates (Text Support, Citation Binding, Language Lock, Contradictions, Scope, Amendment Status, Entities).
-- Output: `verification_result` (`pass_status: "PASS"`).
-
-#### 4.9 Response Composer (`_response_preparation_step`)
-- Input: `GeneratorOutput`, `verification_result`.
-- Output: `ResponseOutput` object (structured answer, deduplicated citations, warnings, latency metrics).
-
-#### 4.10 Certification Engine (`_output_guardrail_step`)
-- Input: `ResponseOutput`, `documents`, `AgentState`.
-- Operations: Calculates SHA256 audit checksum over answer and evidence.
-- Output: `CertifiedResponse` object.
+#### Node 10: Certification Authority & Delivery Engine (`agents/certification_delivery.py`)
+- **Operations**: Zero-LLM (0 API calls) final cryptographic auditing node. Executes 6 certification sub-engines, validates version matrix (`("1.1", "1.0", "1.0", "1.0")`), computes deterministic SHA256 checksum over canonical JSON (`_canonical_json`), and issues tamper-evident `CertifiedResponse v1.0`.
+- **Outputs**: `CertifiedResponse v1.0` and `CertificationRecord`.
 
 ---
 
-### Step 5: Cache Write & Response Delivery
-1. Saves final verified response to Redis Exact Cache and Qdrant Semantic Cache.
-2. Formats SSE data frame:
-   ```json
-   {
-     "event": "message",
-     "data": {
-       "answer": "Under Article 78 of Ministerial Decision No. 471 of 1995...",
-       "citations": ["قرار وزاري رقم (471) لسنة 1995م..."],
-       "certified_response": {
-         "checksum_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-         "status": "PASS"
-       }
-     }
-   }
-   ```
-3. Closes SSE stream. Execution completes successfully.
+## 3. Cache Write & Client Delivery Phase
+
+1. **Async Cache Write**:
+   - Asynchronously writes verified response payload to Redis Exact Cache (24h TTL).
+   - Asynchronously indexes query vector and verified answer payload into Qdrant Semantic Cache collection.
+2. **Client Streaming / Formatting Delivery**:
+   - `MARKDOWN`: Rendered for Next.js Web UI with Arabic RTL wrapper styling and collapsable citation blocks.
+   - `STREAMING`: SSE JSON chunks delivered live to web client letter-by-letter.
+   - `API`: Raw JSON payload delivered to REST API consumers.
+   - `TEAMS` / `SLACK`: Adaptive Cards / Block Kit JSON rendered for corporate chat apps.

@@ -1,67 +1,76 @@
-# System Diagrams: Component Relationships
+# System Diagrams: Component Relationships & Engine Architecture
 
-## 1. Class & Engine Dependencies
+## 1. Class & Master Subsystem Engine Dependencies (`Node 0` to `Node 10`)
 
 ```mermaid
 classDiagram
     class AgentWorkflow {
         +run(state: AgentState)
         +_plan_step(state)
+        +_rewrite_step(state)
         +_retrieve_step(state)
-        +_research_step(state)
-        +_verification_step(state)
+        +_group_step(state)
+        +_rerank_step(state)
+        +_relevance_step(state)
+        +_generate_step(state)
+        +_verify_step(state)
+        +_compose_step(state)
+        +_certify_step(state)
+    }
+
+    class DocumentProcessor {
+        +ingest_document(pdf_file) Node0
     }
 
     class PlannerAgent {
-        +analyze(question, history) PlannerDecision
+        +analyze(question, history) PlannerDecision Node1
+    }
+
+    class QueryRewriterAgent {
+        +rewrite(question, history) StandaloneQuery Node2
     }
 
     class QdrantHybridRetriever {
-        +search(query, tenant_id, thread_id) List~Document~
-        -_combine_rrf(dense_hits, sparse_hits)
+        +search(query, tenant_id, thread_id) RawCandidates Node3
     }
 
-    class FlashRankReranker {
-        +rerank(query, documents) List~Document~
+    class CandidateGrouperEngine {
+        +consolidate(raw_hits) CandidateGroups Node4
     }
 
-    class RelevanceChecker {
-        +check_relevance(docs, query) RelevanceDecision
+    class RerankerAgent {
+        +rerank(groups, query) RerankedBundle Node5
     }
 
-    class GeneratorAgent {
-        +generate(query, docs, relevance, planner) GeneratorOutput
+    class RelevanceCheckerEngine {
+        +evaluate(bundle) RelevanceDecision Node6
     }
 
-    class EvidenceReasoningGraphBuilder {
-        +build_graph(docs) EvidenceReasoningGraph
+    class GeneratorEngine {
+        +generate(bundle, relevance) GeneratorOutput Node7
     }
 
-    class ClaimCitationBinder {
-        +bind_claims_and_citations(draft, graph)
+    class VerificationEngine {
+        +verify(gen_out, graph) VerificationResult Node8
     }
 
-    class VerificationAgent {
-        +verify(gen_out, graph, docs) VerificationReport
-    }
-
-    class ResponseComposer {
-        +compose_response(gen_out, verif_report) ResponseOutput
+    class ResponseComposerEngine {
+        +compose(gen_out, verif_res) ResponseOutput Node9
     }
 
     class CertificationEngine {
-        +certify_response(resp_out, docs) CertifiedResponse
+        +certify(resp_out) CertifiedResponse Node10
     }
 
+    AgentWorkflow --> DocumentProcessor
     AgentWorkflow --> PlannerAgent
+    AgentWorkflow --> QueryRewriterAgent
     AgentWorkflow --> QdrantHybridRetriever
-    AgentWorkflow --> FlashRankReranker
-    AgentWorkflow --> RelevanceChecker
-    AgentWorkflow --> GeneratorAgent
-    AgentWorkflow --> VerificationAgent
-    AgentWorkflow --> ResponseComposer
+    AgentWorkflow --> CandidateGrouperEngine
+    AgentWorkflow --> RerankerAgent
+    AgentWorkflow --> RelevanceCheckerEngine
+    AgentWorkflow --> GeneratorEngine
+    AgentWorkflow --> VerificationEngine
+    AgentWorkflow --> ResponseComposerEngine
     AgentWorkflow --> CertificationEngine
-
-    GeneratorAgent --> EvidenceReasoningGraphBuilder
-    GeneratorAgent --> ClaimCitationBinder
 ```
