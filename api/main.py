@@ -73,21 +73,32 @@ async def lifespan(app: FastAPI):
             session.commit()
             
         # Alter document_jobs to add thread_id safely if it doesn't exist
-        session.execute(text("ALTER TABLE document_jobs ADD COLUMN IF NOT EXISTS thread_id VARCHAR;"))
-        session.commit()
+        try:
+            if engine.dialect.name == "sqlite":
+                session.execute(text("ALTER TABLE document_jobs ADD COLUMN thread_id VARCHAR;"))
+            else:
+                session.execute(text("ALTER TABLE document_jobs ADD COLUMN IF NOT EXISTS thread_id VARCHAR;"))
+            session.commit()
+        except Exception:
+            session.rollback()
             
-    # Initialize PostgreSQL Checkpointer for LangGraph
+    # Initialize PostgreSQL Checkpointer for LangGraph (with MemorySaver fallback)
     global checkpointer_pool, checkpointer, workflow
-    conn_url = (DATABASE_URL.replace("+psycopg2", "").replace("+psycopg", "") if DATABASE_URL else "postgresql://postgres:postgres@localhost:5432/ragnrai")
+    conn_url = (DATABASE_URL.replace("+psycopg2", "").replace("+psycopg", "") if DATABASE_URL and "postgresql" in DATABASE_URL else "postgresql://postgres:postgres@localhost:5432/ragnrai")
     
-    # setup() requires autocommit=True because it runs CREATE INDEX CONCURRENTLY
-    import psycopg
-    with psycopg.connect(conn_url, autocommit=True) as conn:
-        PostgresSaver(conn).setup()
-        
-    checkpointer_pool = ConnectionPool(conninfo=conn_url)
-    checkpointer = PostgresSaver(checkpointer_pool)
-    
+    try:
+        import psycopg
+        with psycopg.connect(conn_url, autocommit=True, connect_timeout=3) as conn:
+            PostgresSaver(conn).setup()
+            
+        checkpointer_pool = ConnectionPool(conninfo=conn_url)
+        checkpointer = PostgresSaver(checkpointer_pool)
+        logger.info("LangGraph initialized with PostgreSQL Checkpointer.")
+    except Exception as e:
+        logger.warning(f"PostgreSQL Checkpointer connection failed ({e}). Using in-memory MemorySaver checkpointer.")
+        from langgraph.checkpoint.memory import MemorySaver
+        checkpointer = MemorySaver()
+
     workflow = AgentWorkflow(checkpointer=checkpointer)
     
     # Initialize Redis for rate limiting

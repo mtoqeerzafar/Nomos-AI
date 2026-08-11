@@ -71,83 +71,92 @@ Empirically validated across 500-query statutory benchmark suites over official 
 
 ## 📐 System Architecture & Request Flow
 
-### 1. 10-Stage Multi-Agent Orchestration Pipeline
+### 1. 11-Node Master Multi-Agent Pipeline Flowchart
 
 ```mermaid
-    flowchart TD
-        UserQuery["User Query<br/>Arabic / English"] --> SSE["FastAPI SSE Endpoint<br/>/api/query/stream"]
-        SSE --> CacheCheck{"Redis Exact Cache<br/>SHA256 Query Key"}
-        
-        CacheCheck -- YES --> ReturnCache["Stream Cached Response"]
-        CacheCheck -- NO --> Node1["1. Planner Agent v1.2<br/>Intent & Language Lock"]
-        
-        Node1 --> Node2["2. Query Rewriter Agent v1.1<br/>Multi-Turn Standalone Query"]
-        Node2 --> Extractor["Query Entity Extractor<br/>Articles, Laws, Years, Keys"]
-        
-        Extractor --> Node3["3. Qdrant Multi-Strategy Retriever<br/>E5-Large Dense + Metadata Search"]
-        Node3 --> Booster["Multi-Factor Metadata Score Booster<br/>Article +0.25, Law +0.15, Year +0.05"]
-        
-        Booster --> Neighbor{"Neighbor Expansion Keyword?"}
-        Neighbor -- YES --> Expand["Fetch Adjacent Article Chunks"] --> Reranker
-        Neighbor -- NO --> Reranker["4. FlashRank Cross-Encoder Reranker"]
-        
-        Reranker --> Node5["5. Relevance Checker Engine v3.1<br/>Sufficiency & Coverage Gate"]
-        
-        Node5 -- INSUFFICIENT --> Fallback{"Attempts < 2?"}
-        Fallback -- YES --> Retry["Global Retrieval Fallback"] --> Reranker
-        Fallback -- NO --> Refusal["Emit Legal Refusal Response"]
-        
-        Node5 -- SUFFICIENT --> Node6["6. Candidate Grouper Engine<br/>EvidenceReasoningGraph Assembly"]
-        Node6 --> Node7["7. Generator Agent v1.1<br/>Claim-to-Node Binding"]
-        Node7 --> Node8["8. Verification Agent v1.0<br/>7-Gate Factual Audit Guardrail"]
-        
-        Node8 -- PASS --> Node9["9. Response Composer v1.0<br/>Citation Binding & Disclaimers"]
-        Node8 -- FAIL --> Refusal
-        
-        Node9 --> Node10["10. Certification Engine v1.0<br/>SHA256 Audit Hash Stamp"]
-        Node10 --> SaveRedis["Save Verified Response to Redis Cache"]
-        SaveRedis --> StreamUI["Stream SSE Event Stream to Next.js UI"]
-    ```
+flowchart TD
+    UserQuery["User Input Query<br/>Arabic / English"] --> API["FastAPI Ingress<br/>/api/query/stream"]
+    API --> ExactCacheCheck{"Redis Exact Cache<br/>SHA256 Hit?"}
+    
+    ExactCacheCheck -- YES --> ReturnExact["Stream Cached Verified Response"]
+    ExactCacheCheck -- NO --> SemanticCacheCheck{"Qdrant Semantic Cache<br/>E5-Large Cosine Sim >= 0.96?"}
+    
+    SemanticCacheCheck -- YES --> ReturnSemantic["Stream Cached Verified Response"]
+    SemanticCacheCheck -- NO --> Node1["Node 1: Planner Agent<br/>Intent & Language Script Count Lock"]
+    
+    Node1 -->|needs_query_expansion = True| Node2["Node 2: Query Rewriter Agent<br/>Pronoun Resolution & Decomposition"]
+    Node1 -->|needs_query_expansion = False| Node3["Node 3: Qdrant Hybrid Retriever<br/>Dense E5-Large Top-75 + Metadata Top-50"]
+    
+    Node2 --> Node3
+    Node3 --> Node4["Node 4: Candidate Grouper Engine<br/>Sub-Window Merging & SHA256 Deduplication"]
+    Node4 --> Node5["Node 5: Reranker Agent<br/>Citation Shield Protocol & Evidence Roles"]
+    Node5 --> Node6["Node 6: Relevance Checker Engine v3.1<br/>4-Tier Sufficiency Audit Gate"]
+    
+    Node6 -- INSUFFICIENT --> Refusal["Emit Controlled Legal Refusal Response"]
+    Node6 -- SUFFICIENT --> Node7["Node 7: Generator Engine v1.1<br/>5 Sub-Engines & [CLAIM:node_id] Binding"]
+    
+    Node7 --> Node8["Node 8: Verification Engine v1.0<br/>7-Gate Audit Guardrail & Micro-Repair"]
+    
+    Node8 -- PASS / REPAIRED / WARNING --> Node9["Node 9: Response Composer Engine v1.0<br/>Zero-LLM Presentation Engine & Multi-Channel"]
+    Node8 -- FAIL --> Refusal
+    
+    Node9 --> Node10["Node 10: Certification Authority & Delivery Engine<br/>Zero-LLM SHA256 Checksum Proof & CertifiedResponse"]
+    Node10 --> SaveCache["Save Verified Answer to Redis & Qdrant Cache"]
+    SaveCache --> StreamResponse["Deliver Certified Payload (Markdown / Streaming / API / Cards)"]
+```
 
-    ---
+---
 
-    ### 2. End-to-End Request Sequence Diagram
+### 2. End-to-End Request Sequence Diagram
 
-    ```mermaid
-    sequenceDiagram
-        autonumber
-        actor User as Client / Next.js UI
-        participant API as FastAPI Backend
-        participant Redis as Redis Cache
-        participant Planner as 1. Planner Agent
-        participant Qdrant as Qdrant Vector Store
-        participant Reranker as FlashRank Reranker
-        participant Generator as 7. Generator Agent
-        participant Verifier as 8. Verification Agent
-        participant Certifier as 10. Certification Engine
+```mermaid
+sequenceDiagram
+    autonumber
+    actor User as Client / Next.js UI / API
+    participant API as FastAPI Server
+    participant Cache as Redis / Qdrant Cache
+    participant Node1 as Node 1: Planner
+    participant Node2 as Node 2: Rewriter
+    participant Node3 as Node 3: Retriever
+    participant Node4 as Node 4: Grouper
+    participant Node5 as Node 5: Reranker
+    participant Node6 as Node 6: Relevance Checker
+    participant Node7 as Node 7: Generator Engine
+    participant Node8 as Node 8: Verifier Engine
+    participant Node9 as Node 9: Composer Engine
+    participant Node10 as Node 10: Certification Authority
 
-        User->>API: POST /api/query/stream (question, tenant_id, thread_id)
-        API->>Redis: check_exact_cache(question, tenant_id, thread_id)
-        alt Cache HIT (<15ms)
-            Redis-->>API: Cached Verified Response Payload
-            API-->>User: Stream SSE (Instant Cached Answer)
-        else Cache MISS
-            API->>Planner: plan(question, history)
-            Planner-->>API: PlannerDecision (intent_type, output_language)
-            API->>Qdrant: search(dense_vector, metadata_filter, tenant_id, thread_id)
-            Qdrant-->>API: Candidate Chunks (Top-75 Vector + Top-50 Metadata)
-            API->>Reranker: rerank(candidates, query)
-            Reranker-->>API: Top-15 Scored Chunks
-            API->>Generator: generate(query, top_chunks, planner_decision)
-            Generator-->>API: Draft Output with [CLAIM:node_id] Tags
-            API->>Verifier: verify(draft_output, evidence_chunks)
-            Note over Verifier: Audit 7 Gates (Support Score >= 0.70)
-            Verifier-->>API: VerificationReport (STATUS: PASS)
-            API->>Certifier: seal(response, metadata)
-            Certifier-->>API: CertifiedResponse (SHA256 Checksum)
-            API->>Redis: cache_response(question, certified_response)
-            API-->>User: Stream SSE Tokens & Final Verified Payload
+    User->>API: POST /api/query/stream (question, tenant_id, thread_id)
+    API->>Cache: check_cache(question, tenant_id, thread_id)
+    alt Cache HIT (<15ms)
+        Cache-->>API: Cached Verified Response Payload
+        API-->>User: Stream SSE (Instant Cached Verified Response)
+    else Cache MISS
+        API->>Node1: analyze(question, chat_history)
+        Node1-->>API: PlannerDecision (intent, script_count_language_lock, needs_expansion)
+        opt needs_query_expansion == True
+            API->>Node2: rewrite(question, chat_history)
+            Node2-->>API: standalone_query & retrieval_queries
         end
+        API->>Node3: hybrid_search(current_query, tenant_id, thread_id)
+        Node3-->>API: 75 Dense + 50 Metadata Candidate Chunks
+        API->>Node4: consolidate(raw_candidates)
+        Node4-->>API: Top 15-20 Consolidated Candidate Groups
+        API->>Node5: rerank(candidate_groups)
+        Node5-->>API: Reranked Evidence Bundle (Score >= 0.0)
+        API->>Node6: check_relevance(reranked_bundle)
+        Node6-->>API: RelevanceDecision v3.1 (COMPLETE / PARTIAL)
+        API->>Node7: generate(reranked_bundle, relevance_decision)
+        Node7-->>API: GeneratorOutput v1.1 ([CLAIM:node_id] Tags)
+        API->>Node8: verify(generator_output, evidence_graph)
+        Node8-->>API: VerificationResult v1.0 (PASS / REPAIRED)
+        API->>Node9: compose(generator_output, verification_result)
+        Node9-->>API: ResponseOutput v1.0
+        API->>Node10: certify(response_output)
+        Node10-->>API: CertifiedResponse v1.0 (SHA256 Checksum)
+        API->>Cache: set_cache(question, certified_response)
+        API-->>User: Stream SSE Tokens & Final Verified Payload
+    end
 ```
 
 ---
