@@ -260,7 +260,8 @@ class PromptContextOptimizer:
             estimated_tokens += len(conv_block.split()) * 1.3
 
         for node in sorted_nodes:
-            citation_str = f"المادة {node.article_key} من القانون {node.law_number}" + (f" لسنة {node.law_year}" if node.law_year else "")
+            art_num = node.article_key.split('_')[-1] if '_' in node.article_key else node.article_key
+            citation_str = f"المادة {art_num} من القانون {node.law_number}" + (f" لسنة {node.law_year}" if node.law_year else "")
             block = f"--- [معرف: {node.node_id} | الدور: {node.evidence_role} | {citation_str}] ---\n{node.clean_text}"
             node_tokens = len(block.split()) * 1.3
 
@@ -352,7 +353,8 @@ class ClaimCitationBinder:
             node = graph.nodes.get(node_id)
 
             if node:
-                citation_str = f"المادة {node.article_key} من القانون {node.law_number}" + (f" لسنة {node.law_year}" if node.law_year else "")
+                art_num = node.article_key.split('_')[-1] if '_' in node.article_key else node.article_key
+                citation_str = f"المادة {art_num} من القانون {node.law_number}" + (f" لسنة {node.law_year}" if node.law_year else "")
                 citations_bound_set.add(citation_str)
 
                 claim_id = f"CLAIM_{node.law_number}_ART{node.article_key}_{node.evidence_role}_{claim_counter:03d}"

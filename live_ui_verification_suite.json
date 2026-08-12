@@ -1,12 +1,22 @@
 {
   "suite_title": "RagnrAI Live UI Verification Ground-Truth Suite",
-  "version": "1.0",
-  "created_at": "2026-08-06",
-  "total_test_cases": 10,
-  "description": "Ground-truth benchmark test cases extracted directly from Qdrant statutory vectors and official PDF codices for testing the RagnrAI live UI and API streaming endpoints.",
+  "version": "2.0",
+  "created_at": "2026-08-12",
+  "total_test_cases": 14,
+  "description": "Ground-truth benchmark test cases categorized across FACT_LOOKUP, SEMANTIC, COMPARISON, HISTORICAL, PROCEDURAL, and PENALTY_SANCTION intents, extracted directly from Qdrant statutory vectors and official UAE PDF codices.",
+  "categories_breakdown": {
+    "FACT_LOOKUP": 3,
+    "SEMANTIC": 2,
+    "COMPARISON": 2,
+    "HISTORICAL": 2,
+    "PROCEDURAL": 3,
+    "PENALTY_SANCTION": 2
+  },
   "test_cases": [
     {
       "id": 1,
+      "category": "FACT_LOOKUP",
+      "category_description": "Direct Statutory Article Fact Lookup",
       "language": "Arabic",
       "difficulty": "Medium",
       "query": "ما هي أنواع المنشآت العقابية المعتمدة بموجب المادة 4 من القرار الوزاري رقم 471 لسنة 1995؟",
@@ -19,6 +29,8 @@
     },
     {
       "id": 2,
+      "category": "SEMANTIC",
+      "category_description": "Semantic & Conditional Rule Interpretation",
       "language": "English",
       "difficulty": "Medium-Hard",
       "query": "Under Article 78 of Ministerial Decision No. 471 of 1995, what condition must be met for inmate students of private schools and colleges to continue their education?",
@@ -31,6 +43,8 @@
     },
     {
       "id": 3,
+      "category": "PROCEDURAL",
+      "category_description": "Procedural Protocol & Medical Notification Duties",
       "language": "Arabic",
       "difficulty": "Medium",
       "query": "وفقاً للمادة 33 من القانون الاتحادي رقم 43 لسنة 1992، ما هي التفاصيل التي يجب على الطبيب تدوينها في تقرير النيابة العامة عند وفاة المسجون؟",
@@ -43,6 +57,8 @@
     },
     {
       "id": 4,
+      "category": "PROCEDURAL",
+      "category_description": "Regulatory Logging & Disciplinary Notification",
       "language": "English",
       "difficulty": "Hard",
       "query": "According to Article 39 of Federal Law No. 43 of 1992, where must disciplinary penalties imposed on prisoners be logged, and which authority must be notified?",
@@ -55,6 +71,8 @@
     },
     {
       "id": 5,
+      "category": "SEMANTIC",
+      "category_description": "Multi-Party Traffic Safety Obligations",
       "language": "Arabic",
       "difficulty": "Medium-Hard",
       "query": "ما هي التزامات سائقي حافلات نقل طلاب المدارس وسائقي المركبات الأخرى عند توقف الحافلة بموجب المادة 71 من القرار الوزاري رقم 130 لسنة 1997؟",
@@ -67,6 +85,8 @@
     },
     {
       "id": 6,
+      "category": "FACT_LOOKUP",
+      "category_description": "Driver Duty Factor Enumeration",
       "language": "English",
       "difficulty": "Medium",
       "query": "Under Article 59 of Ministerial Decision No. 130 of 1997 (Traffic Executive Regulations), what specific factors must a driver consider before changing direction or lane?",
@@ -79,6 +99,8 @@
     },
     {
       "id": 7,
+      "category": "PROCEDURAL",
+      "category_description": "Corporate AML Compliance Audit Protocol",
       "language": "Arabic",
       "difficulty": "Hard",
       "query": "ما هي إجراءات الامتثال المعتمدة لدى الفروع والشركات التابعة الأجنبية بموجب المادة 31 من قرار مجلس الوزراء رقم 10 لسنة 2019 اللائحة التنفيذية لقانون غسل الأموال؟",
@@ -91,6 +113,8 @@
     },
     {
       "id": 8,
+      "category": "PENALTY_SANCTION",
+      "category_description": "Statutory Fine & Imprisonment Boundaries",
       "language": "English",
       "difficulty": "Hard",
       "query": "Under Article 16 of Federal Decree-Law No. 20 of 2018 on Anti-Money Laundering, what are the minimum and maximum fine limits for violating reporting obligations?",
@@ -103,6 +127,8 @@
     },
     {
       "id": 9,
+      "category": "HISTORICAL",
+      "category_description": "Enactment Date & Historical Validity Check",
       "language": "Arabic",
       "difficulty": "Medium-Hard",
       "query": "ما هي المادة الختامية رقم 11 من القانون الاتحادي رقم 36 لسنة 1992 في شأن رد الاعتبار وما هي أحكام نفاذها؟",
@@ -115,6 +141,8 @@
     },
     {
       "id": 10,
+      "category": "PENALTY_SANCTION",
+      "category_description": "Criminal Hate Speech Penalty Boundaries",
       "language": "English",
       "difficulty": "Medium",
       "query": "Under Article 5 of Federal Decree-Law No. 2 of 2015 on Anti-Discrimination and Hatred, what is the penalty for committing acts of discrimination or hate speech?",
@@ -124,6 +152,62 @@
       "article_key": "2_2015_5",
       "page_number": "Page 2",
       "verification_proof_qdrant_text": "يعاقب بالسجن مده لاتقل عن سبع سنوات ، وبالغر امه التي لاتقل عن خمسمائه الف درهم و لاتزيد علي مليوني درهم كل من ارتكب فعلا من الافعال المنصوص عليها في البندين (1 ، 4) من الماده 4"
+    },
+    {
+      "id": 11,
+      "category": "COMPARISON",
+      "category_description": "Parent Law vs. Executive Regulation Cross-Statutory Comparison",
+      "language": "Arabic",
+      "difficulty": "Hard",
+      "query": "كيف تتكامل أحكام تدوين الجزاءات التأديبية في المادة 39 من القانون الاتحادي رقم 43 لسنة 1992 مع اللائحة التنفيذية رقم 471 لسنة 1995؟",
+      "expected_answer": "توجب المادة 39 من القانون الاتحادي رقم 43 لسنة 1992 قيد كافة الجزاءات التأديبية في سجل خاص وإبلاغ النيابة العامة بها، وتوضح اللائحة التنفيذية رقم 471 لسنة 1995 إجراءات إدارة وسجلات المنشآت العقابية التفصيلية تحت إشراف مدير المنشأة والنيابة العامة.",
+      "source_pdf": "قانون اتحادي رقم (43) لسنة 1992 & قرار وزاري رقم (471) لسنة 1995م.pdf",
+      "article": "المادة (39) / المادة (78)",
+      "article_key": "43_1992_39",
+      "page_number": "Page 12 / Page 20",
+      "verification_proof_qdrant_text": "تقيد الجز اءات التي توقع علي المسجونين بالسجل الخاص بذلك وتبلغ الي النيابه العامه"
+    },
+    {
+      "id": 12,
+      "category": "HISTORICAL",
+      "category_description": "Statutory Evolution & Executive Regulation Delegation",
+      "language": "English",
+      "difficulty": "Hard",
+      "query": "What is the statutory relationship between Ministerial Decision No. 471 of 1995 and Federal Law No. 43 of 1992 regarding penal establishments?",
+      "expected_answer": "Ministerial Decision No. 471 of 1995 serves as the Executive Regulation (اللائحة التنفيذية) promulgated to implement the governing statutory provisions established under primary legislation Federal Law No. 43 of 1992.",
+      "source_pdf": "قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية بالقانون الاتحادي رقم (43) لسنة 1992م.pdf",
+      "article": "Preamble & Article 1",
+      "article_key": "471_1995_1",
+      "page_number": "Page 1",
+      "verification_proof_qdrant_text": "قرار وزاري رقم (471) لسنة 1995م بإصدار اللائحة التنفيذية للقانون الاتحادي رقم (43) لسنة 1992م في شأن تنظيم المنشآت العقابية"
+    },
+    {
+      "id": 13,
+      "category": "COMPARISON",
+      "category_description": "Multi-Codex Fine & Liability Comparison",
+      "language": "English",
+      "difficulty": "Hard",
+      "query": "Compare the minimum monetary fine penalties under Article 16 of AML Decree-Law No. 20 of 2018 versus Article 5 of Anti-Discrimination Decree-Law No. 2 of 2015.",
+      "expected_answer": "Under Article 16 of AML Decree-Law No. 20 of 2018, the minimum fine is AED 200,000 (up to AED 5,000,000), whereas under Article 5 of Anti-Discrimination Decree-Law No. 2 of 2015, the minimum fine is AED 500,000 (up to AED 2,000,000).",
+      "source_pdf": "مرسوم بقانون اتحادي رقم (20) لسنة 2018 & مرسوم بقانون اتحادي رقم (2) لسنة 2015.pdf",
+      "article": "Article 16 / Article 5",
+      "article_key": "20_2018_16",
+      "page_number": "Page 14 / Page 2",
+      "verification_proof_qdrant_text": "200,000 (مائتي الف) درهم ولا تزيد علي 5,000,000 (خمسه ملايين) درهم ... خمسمائه الف درهم و لاتزيد علي مليوني درهم"
+    },
+    {
+      "id": 14,
+      "category": "FACT_LOOKUP",
+      "category_description": "Direct Statutory Fine Range Query",
+      "language": "Arabic",
+      "difficulty": "Easy-Medium",
+      "query": "ما هو الحد الأدنى والأقصى للغرامة المالية المقررة في المادة 5 من مرسوم بقانون مكافحة التمييز والكراهية رقم 2 لسنة 2015؟",
+      "expected_answer": "الحد الأدنى للغرامة هو 500,000 درهم (خمسمائة ألف درهم) والحد الأقصى هو 2,000,000 درهم (مليوني درهم).",
+      "source_pdf": "مرسوم بقانون اتحادي رقم (2) لسنة 2015 في شأن مكافحة التمييز والكراهية.pdf",
+      "article": "المادة (5)",
+      "article_key": "2_2015_5",
+      "page_number": "Page 2",
+      "verification_proof_qdrant_text": "وبالغر امه التي لاتقل عن خمسمائه الف درهم و لاتزيد علي مليوني درهم"
     }
   ]
 }

@@ -405,7 +405,8 @@ def query_rag_v2(
             
         # 4. Save AI Response
         status = final_state.get("turn_status", "success")
-        metadata_json = {"verification_report": final_state.get("verification_report", ""), "status": status}
+        sources = extract_sources_from_state(final_state)
+        metadata_json = {"verification_report": final_state.get("verification_report", ""), "status": status, "sources": sources}
         ai_msg = ChatMessage(
             thread_id=request.thread_id, 
             role="assistant", 
@@ -429,6 +430,7 @@ def query_rag_v2(
         return {
             "answer": final_state["draft_answer"],
             "verification_report": final_state["verification_report"],
+            "sources": sources,
             "tenant_id": x_tenant_id,
             "thread_id": request.thread_id,
             "response_output": resp_output.model_dump() if resp_output and hasattr(resp_output, "model_dump") else None,
@@ -437,6 +439,58 @@ def query_rag_v2(
     except Exception as e:
         db.rollback()
         raise HTTPException(status_code=500, detail=str(e))
+
+def extract_sources_from_state(final_state: dict) -> list:
+    """Robust helper to extract non-empty source citations across all pipeline state formats."""
+    sources = []
+    if not final_state or final_state.get("turn_status") == "no_answer":
+        return sources
+
+    # 1. Extract from state.documents list
+    docs = final_state.get("documents") or []
+    for doc in docs:
+        src = None
+        if hasattr(doc, "metadata") and isinstance(doc.metadata, dict):
+            src = doc.metadata.get("source")
+        elif isinstance(doc, dict):
+            meta = doc.get("metadata", {})
+            src = meta.get("source") if isinstance(meta, dict) else doc.get("source")
+        if src and src not in sources:
+            sources.append(src)
+
+    # 2. Extract from response_output citations
+    resp_output = final_state.get("response_output")
+    if not sources and resp_output:
+        citations = getattr(resp_output, "citations", []) or (resp_output.get("citations", []) if isinstance(resp_output, dict) else [])
+        for cit in citations:
+            law_title = getattr(cit, "law_title", None) or (cit.get("law_title") if isinstance(cit, dict) else None)
+            formatted = getattr(cit, "formatted", None) or (cit.get("formatted") if isinstance(cit, dict) else str(cit))
+            src = law_title or formatted
+            if src and src not in sources:
+                sources.append(src)
+
+    # 3. Extract from certified_response
+    certified = final_state.get("certified_response")
+    if not sources and certified:
+        resp = getattr(certified, "response", None) or (certified.get("response") if isinstance(certified, dict) else None)
+        if resp:
+            citations = getattr(resp, "citations", []) or (resp.get("citations", []) if isinstance(resp, dict) else [])
+            for cit in citations:
+                law_title = getattr(cit, "law_title", None) or (cit.get("law_title") if isinstance(cit, dict) else None)
+                formatted = getattr(cit, "formatted", None) or (cit.get("formatted") if isinstance(cit, dict) else str(cit))
+                src = law_title or formatted
+                if src and src not in sources:
+                    sources.append(src)
+
+    # 4. Extract from generation_artifacts
+    artifacts = final_state.get("generation_artifacts")
+    if not sources and artifacts and isinstance(artifacts, dict):
+        bound = artifacts.get("citations_bound") or []
+        for b in bound:
+            if b and str(b) not in sources:
+                sources.append(str(b))
+
+    return sources
 
 @app.post("/api/query/stream")
 async def stream_query(
@@ -545,15 +599,7 @@ async def stream_query(
                 final_answer = final_state.get("draft_answer", "")
                 if not final_answer and final_state.get("messages"):
                     final_answer = final_state["messages"][-1].content
-                    
-                if final_state.get("turn_status") == "no_answer":
-                    # If the agent determined it couldn't find the answer, do not cite any sources
-                    sources = []
-                elif final_state.get("documents"):
-                    for doc in final_state["documents"]:
-                        src = doc.metadata.get("source", "Unknown")
-                        if src not in sources:
-                            sources.append(src)
+                sources = extract_sources_from_state(final_state)
                     
             # Save assistant message after stream finishes
             if final_answer:
